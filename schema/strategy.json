@@ -27,21 +27,8 @@
       "format": "uri"
     },
     "inputToken": {
-      "type": "object",
-      "properties": {
-        "address": {
-          "type": "string",
-          "format": "address"
-        },
-        "description": {
-          "type": "string"
-        },
-        "descriptionMarkdown": {
-          "type": "string",
-          "format": "uri"
-        }
-      },
-      "required": ["address", "description", "descriptionMarkdown"]
+      "type": "string",
+      "format": "address"
     }
   },
   "required": [
