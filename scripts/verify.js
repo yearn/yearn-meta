@@ -2,6 +2,8 @@ const fs = require("fs");
 const path = require("path");
 
 const Ajv = require("ajv").default;
+const addFormats = require("ajv-formats");
+
 const Codeowners = require("codeowners");
 
 const { getAddress } = require("@ethersproject/address");
@@ -12,6 +14,7 @@ const IndexName = "index.json";
 
 function loadValidators(schemaDir) {
   const ajv = new Ajv();
+  addFormats(ajv);
   const validators = {};
   for (let name of fs.readdirSync(schemaDir)) {
     const file = path.join(schemaDir, name);
@@ -50,7 +53,9 @@ function validate(directory, validators) {
       if (!valid) {
         console.error(`Error: "${file}" does not follow "${name}" schema:`);
         for (const error of validator.errors) {
-          console.log(` - ${error.message}`);
+          console.log(
+            ` - ${error.keyword}: ${error.dataPath} ${error.message}`
+          );
         }
         allValid = false;
       }

@@ -8,6 +8,7 @@
     "@pinata/sdk": "^1.1.11",
     "abort-controller": "^3.0.0",
     "ajv": "^7.0.3",
+    "ajv-formats": "^1.5.1",
     "cids": "^1.1.5",
     "cloudflare": "^2.7.0",
     "codeowners": "^4.2.1"

@@ -9,13 +9,15 @@
       "type": "string"
     },
     "authorUri": {
-      "type": "string"
+      "type": "string",
+      "format": "uri"
     },
     "description": {
       "type": "string"
     },
     "diagramUri": {
-      "type": "string"
+      "type": "string",
+      "format": "uri"
     }
   },
   "required": ["authorName", "authorUri", "description", "diagramUri"]
