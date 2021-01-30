@@ -1,4 +1,4 @@
-name: ci
+name: Validation
 on: [push]
 jobs:
   lint:
