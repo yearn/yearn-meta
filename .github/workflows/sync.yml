@@ -1,0 +1,35 @@
+name: cd
+on:
+  push:
+    branches:
+      - master
+jobs:
+  sync:
+    name: Verify and sync data to IPFS
+    runs-on: ubuntu-latest
+
+    env:
+      PINATA_KEY: ${{ secrets.PINATA_KEY }}
+      PINATA_SECRET: ${{ secrets.PINATA_SECRET }}
+      CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+      CLOUDFLARE_SECRET: ${{ secrets.CLOUDFLARE_SECRET }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Use Node 10.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10.x
+
+      - name: Install deps (with cache)
+        uses: bahmutov/npm-install@v1
+        with:
+          working-directory: scripts
+
+      - name: Verify data
+        run: node scripts/verify.js
+
+      - name: Sync data to IPFS
+        run: node scripts/sync.js

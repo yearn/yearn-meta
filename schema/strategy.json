@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "strategy.json",
+  "title": "Strategy",
+  "description": "A yearn strategy",
+  "type": "object",
+  "properties": {
+    "authorName": {
+      "type": "string"
+    },
+    "authorUri": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "diagramUri": {
+      "type": "string"
+    }
+  },
+  "required": ["authorName", "authorUri", "description", "diagramUri"]
+}

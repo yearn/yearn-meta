@@ -1,0 +1,14 @@
+{
+  "name": "yearn-meta",
+  "main": "index.js",
+  "author": "nymmrx",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@pinata/sdk": "^1.1.11",
+    "abort-controller": "^3.0.0",
+    "ajv": "^7.0.3",
+    "cids": "^1.1.5",
+    "cloudflare": "^2.7.0"
+  }
+}
