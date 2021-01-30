@@ -6,7 +6,7 @@ const addFormats = require("ajv-formats");
 
 const Codeowners = require("codeowners");
 
-const { getAddress } = require("@ethersproject/address");
+const { getAddress, isAddress } = require("@ethersproject/address");
 
 const SchemasDirectory = "./schema/";
 const DataDirectory = "./data/";
@@ -15,6 +15,7 @@ const IndexName = "index.json";
 function loadValidators(schemaDir) {
   const ajv = new Ajv();
   addFormats(ajv);
+  ajv.addFormat("address", (value) => isAddress(value));
   const validators = {};
   for (let name of fs.readdirSync(schemaDir)) {
     const file = path.join(schemaDir, name);

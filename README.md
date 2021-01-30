@@ -59,4 +59,4 @@ see [meta.yearn.network/index.json](https://meta.yearn.network/json)
 
 ## Contributing
 
-Code style follows prettier conventions. Commit messages follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
+Code style follows prettier conventions (`yarn format`). Commit messages follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).

@@ -25,14 +25,12 @@ jobs:
 
       - name: Install deps (with cache)
         uses: bahmutov/npm-install@v1
-        with:
-          working-directory: scripts
 
       - name: Verify data
         run: node scripts/verify.js
 
-      - name: Generate indexes
-        run: node scripts/indexer.js
+      - name: Generate build artifact
+        run: node scripts/build.js
 
       - name: Sync data to IPFS
         run: node scripts/sync.js

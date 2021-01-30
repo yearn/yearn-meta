@@ -4,16 +4,19 @@
   "author": "nymmrx",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "format": "prettier --write ."
+  },
   "dependencies": {
+    "@ethersproject/address": "^5.0.9",
     "@pinata/sdk": "^1.1.11",
     "abort-controller": "^3.0.0",
     "ajv": "^7.0.3",
     "ajv-formats": "^1.5.1",
     "cids": "^1.1.5",
     "cloudflare": "^2.7.0",
-    "codeowners": "^4.2.1"
-  },
-  "devDependencies": {
-    "@ethersproject/address": "^5.0.9"
+    "codeowners": "^4.2.1",
+    "fs-extra": "^9.1.0",
+    "prettier": "^2.2.1"
   }
 }

@@ -4,7 +4,7 @@ const path = require("path");
 const pinata = require("@pinata/sdk");
 const Cloudflare = require("cloudflare");
 
-const DataDirectory = "./data/";
+const BuildDirectory = "./build/";
 
 const Deployment = "yearn-meta";
 const Domain = "meta.yearn.network";
@@ -63,7 +63,7 @@ if (!fs.existsSync(path.join(cwd, ".git"))) {
 }
 
 try {
-  sync(DataDirectory, Deployment, DNSLinkDomain).then((hash) => {
+  sync(BuildDirectory, Deployment, DNSLinkDomain).then((hash) => {
     console.log(`Ok: deployed to IPFS (${hash})!`);
   });
 } catch (error) {

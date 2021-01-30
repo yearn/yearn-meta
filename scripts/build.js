@@ -1,10 +1,11 @@
-const fs = require("fs");
+const fs = require("fs-extra");
 const path = require("path");
 
 const IndexName = "index.json";
 const DataDirectory = "./data/";
+const OutDirectory = "./build/";
 
-function index(directory) {
+function build(directory) {
   const map = { files: [], dirs: [] };
   for (let name of fs.readdirSync(directory)) {
     if (name.startsWith(".") || name === IndexName) continue;
@@ -13,7 +14,7 @@ function index(directory) {
     if (stat.isFile()) {
       map.files.push(name);
     } else if (stat.isDirectory()) {
-      index(file);
+      build(file);
       map.dirs.push(name);
     }
   }
@@ -27,8 +28,13 @@ if (!fs.existsSync(path.join(cwd, ".git"))) {
 }
 
 try {
-  index(DataDirectory);
-  console.log("Ok: index files generated!");
+  if (fs.existsSync(OutDirectory)) {
+    fs.removeSync(OutDirectory);
+  }
+  fs.mkdirSync(OutDirectory);
+  fs.copySync(DataDirectory, OutDirectory);
+  build(OutDirectory);
+  console.log("Ok: build artifact generated!");
 } catch (error) {
   console.error(error);
   process.exit(1);

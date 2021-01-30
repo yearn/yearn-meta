@@ -5,6 +5,16 @@
   "description": "A yearn strategy",
   "type": "object",
   "properties": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "descriptionMarkdown": {
+      "type": "string",
+      "format": "uri"
+    },
     "authorName": {
       "type": "string"
     },
@@ -12,13 +22,35 @@
       "type": "string",
       "format": "uri"
     },
-    "description": {
-      "type": "string"
-    },
     "diagramUri": {
       "type": "string",
       "format": "uri"
+    },
+    "inputToken": {
+      "type": "object",
+      "properties": {
+        "address": {
+          "type": "string",
+          "format": "address"
+        },
+        "description": {
+          "type": "string"
+        },
+        "descriptionMarkdown": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": ["address", "description", "descriptionMarkdown"]
     }
   },
-  "required": ["authorName", "authorUri", "description", "diagramUri"]
+  "required": [
+    "name",
+    "description",
+    "descriptionMarkdown",
+    "authorName",
+    "authorUri",
+    "diagramUri",
+    "inputToken"
+  ]
 }
