@@ -9,7 +9,8 @@
     "abort-controller": "^3.0.0",
     "ajv": "^7.0.3",
     "cids": "^1.1.5",
-    "cloudflare": "^2.7.0"
+    "cloudflare": "^2.7.0",
+    "codeowners": "^4.2.1"
   },
   "devDependencies": {
     "@ethersproject/address": "^5.0.9"

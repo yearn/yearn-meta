@@ -2,11 +2,13 @@ const fs = require("fs");
 const path = require("path");
 
 const Ajv = require("ajv").default;
+const Codeowners = require("codeowners");
 
 const { getAddress } = require("@ethersproject/address");
 
 const SchemasDirectory = "./schema/";
 const DataDirectory = "./data/";
+const IndexName = "index.json";
 
 function loadValidators(schemaDir) {
   const ajv = new Ajv();
@@ -28,8 +30,10 @@ function loadValidators(schemaDir) {
 }
 
 function validate(directory, validators) {
+  const codeowners = new Codeowners();
   let allValid = true;
   for (let name of fs.readdirSync(directory)) {
+    if (name.startsWith(".") || name === IndexName) continue;
     const file = path.join(directory, name);
     const type = path.parse(file).name;
     const stat = fs.lstatSync(file);
@@ -63,6 +67,11 @@ function validate(directory, validators) {
         }
       }
       allValid &= validate(file, validators);
+    }
+    const owners = codeowners.getOwner(file);
+    if (owners.length === 0) {
+      console.error(`Error: "${file}" has no codeowners.`);
+      allValid = false;
     }
   }
   return allValid;
