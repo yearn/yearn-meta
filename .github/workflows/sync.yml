@@ -31,5 +31,8 @@ jobs:
       - name: Verify data
         run: node scripts/verify.js
 
+      - name: Generate indexes
+        run: node scripts/indexer.js
+
       - name: Sync data to IPFS
         run: node scripts/sync.js

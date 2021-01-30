@@ -10,5 +10,8 @@
     "ajv": "^7.0.3",
     "cids": "^1.1.5",
     "cloudflare": "^2.7.0"
+  },
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.9"
   }
 }

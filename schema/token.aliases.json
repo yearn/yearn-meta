@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "token.aliases.json",
+  "title": "Token Aliases",
+  "description": "Collection of display names for tokens",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "symbol": {
+        "type": "string"
+      },
+      "address": {
+        "type": "string"
+      }
+    },
+    "required": ["name", "symbol", "address"]
+  }
+}
