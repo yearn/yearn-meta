@@ -51,7 +51,7 @@ follows the [`index.json` schema](./schema/index.json) and will contain
 information about the files and folders stored in that directory. For an example
 see [meta.yearn.network/index.json](https://meta.yearn.network/json)
 
-## Helpful slinks
+## Helpful links
 
 - 🌐 [Live site](https://yearn.network)
 - ⚖️ [Governance forum](https://gov.yearn.finance)
