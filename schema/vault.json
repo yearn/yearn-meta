@@ -22,15 +22,8 @@
           "default": ""
         }
       },
-      "required": [
-        "calculation"
-      ]
+      "required": ["calculation"]
     }
   },
-  "required": [
-    "name",
-    "description",
-    "promoted",
-    "apy"
-  ]
+  "required": ["name", "description", "promoted", "apy"]
 }
