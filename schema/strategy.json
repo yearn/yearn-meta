@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "strategy.json",
   "title": "Strategy",
-  "description": "A yearn strategy",
+  "description": "A Yearn strategy",
   "type": "object",
   "properties": {
     "name": {
@@ -10,10 +10,6 @@
     },
     "description": {
       "type": "string"
-    },
-    "descriptionMarkdown": {
-      "type": "string",
-      "format": "uri"
     },
     "authorName": {
       "type": "string"
@@ -34,7 +30,6 @@
   "required": [
     "name",
     "description",
-    "descriptionMarkdown",
     "authorName",
     "authorUri",
     "diagramUri",

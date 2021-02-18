@@ -1,9 +1,9 @@
 {
+  "$schema": "strategy",
   "name": "DoggoExtreme",
   "authorName": "nymmrx",
   "authorUri": "https://twitter.com/nymmrx",
   "diagramUri": "https://images.dog.ceo/breeds/labrador/n02099712_4550.jpg",
   "description": "A very good strat",
-  "descriptionMarkdown": "https://meta.yearn.network/strategies/0x0000000000000000000000000000000000000000/description.md",
   "inputToken": "0x0000000000000000000000000000000000000001"
 }

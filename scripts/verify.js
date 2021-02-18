@@ -11,6 +11,8 @@ const { getAddress, isAddress } = require("@ethersproject/address");
 const SchemasDirectory = "./schema/";
 const DataDirectory = "./data/";
 const IndexName = "index.json";
+const SchemaField = "$schema";
+const StandardExtensions = [".json"];
 
 function loadValidators(schemaDir) {
   const ajv = new Ajv();
@@ -39,26 +41,42 @@ function validate(directory, validators) {
   for (let name of fs.readdirSync(directory)) {
     if (name.startsWith(".") || name === IndexName) continue;
     const file = path.join(directory, name);
-    const type = path.parse(file).name;
+    const ext = path.extname(file);
     const stat = fs.lstatSync(file);
-    if (stat.isFile() && validators[type]) {
-      const validator = validators[type];
+    if (stat.isFile() && StandardExtensions.includes(ext)) {
       let data;
       try {
         data = JSON.parse(fs.readFileSync(file, "utf-8"));
+        const schema = data[SchemaField];
+        if (!schema) {
+          console.error(
+            `Error: "${file}" is not a valid JSON file ("${SchemaField}" is not a present).`
+          );
+          allValid = false;
+          continue;
+        }
+        const validator = validators[schema];
+        if (!validator) {
+          console.error(
+            `Error: "${file}" is not a valid JSON file ("${schema}" is not a valid schema).`
+          );
+          allValid = false;
+          continue;
+        }
+        const valid = validator(data);
+        if (!valid) {
+          console.error(`Error: "${file}" does not follow "${name}" schema:`);
+          for (const error of validator.errors) {
+            console.log(
+              ` - ${error.keyword}: ${error.dataPath} ${error.message}`
+            );
+          }
+          allValid = false;
+        }
       } catch {
         console.error(`Error: "${file}" is not a valid JSON file.`);
-        continue;
-      }
-      const valid = validator(data);
-      if (!valid) {
-        console.error(`Error: "${file}" does not follow "${name}" schema:`);
-        for (const error of validator.errors) {
-          console.log(
-            ` - ${error.keyword}: ${error.dataPath} ${error.message}`
-          );
-        }
         allValid = false;
+        continue;
       }
     } else if (stat.isDirectory()) {
       if (name.startsWith("0x")) {

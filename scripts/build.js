@@ -2,8 +2,9 @@ const fs = require("fs-extra");
 const path = require("path");
 
 const IndexName = "index.json";
-const DataDirectory = "./data/";
-const OutDirectory = "./build/";
+const DataDirectory = "data";
+const SchemaDirectory = "schema";
+const OutDirectory = "build";
 
 function build(directory) {
   const map = { files: [], dirs: [] };
@@ -32,7 +33,9 @@ try {
     fs.removeSync(OutDirectory);
   }
   fs.mkdirSync(OutDirectory);
+  fs.mkdirSync(path.join(OutDirectory, SchemaDirectory));
   fs.copySync(DataDirectory, OutDirectory);
+  fs.copySync(SchemaDirectory, path.join(OutDirectory, SchemaDirectory));
   build(OutDirectory);
   console.log("Ok: build artifact generated!");
 } catch (error) {
