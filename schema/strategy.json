@@ -23,5 +23,5 @@
       "format": "uri"
     }
   },
-  "required": ["name", "description", "author", "authorUri"]
+  "required": ["name", "description"]
 }

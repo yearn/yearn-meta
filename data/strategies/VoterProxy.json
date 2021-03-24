@@ -2,6 +2,5 @@
   "$schema": "strategy",
   "name": "VoterProxy",
   "description": "This vault accepts deposits of {{tokens}} tokens obtained by supplying either aDai, aUSDC or aUSDT to the liquidity pool on Curve.fi. {{tokens}} tokens are staked in the gauge on Curve.fi to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more {{tokens}}.",
-  "author": "unknown",
-  "authorUri": "https://twitter.com/"
+  "author": "Multiple strategists"
 }
