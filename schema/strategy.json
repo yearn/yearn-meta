@@ -11,28 +11,17 @@
     "description": {
       "type": "string"
     },
-    "authorName": {
+    "author": {
       "type": "string"
     },
     "authorUri": {
       "type": "string",
       "format": "uri"
     },
-    "diagramUri": {
+    "media": {
       "type": "string",
       "format": "uri"
-    },
-    "inputToken": {
-      "type": "string",
-      "format": "address"
     }
   },
-  "required": [
-    "name",
-    "description",
-    "authorName",
-    "authorUri",
-    "diagramUri",
-    "inputToken"
-  ]
+  "required": ["name", "description", "author", "authorUri"]
 }

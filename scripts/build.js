@@ -1,13 +1,13 @@
 const fs = require("fs-extra");
 const path = require("path");
 
-const IndexName = "index.json";
+const IndexName = "index";
 const DataDirectory = "data";
 const SchemaDirectory = "schema";
 const OutDirectory = "build";
 
 function build(directory) {
-  const map = { files: [], dirs: [] };
+  const map = { files: [], directories: [] };
   for (let name of fs.readdirSync(directory)) {
     if (name.startsWith(".") || name === IndexName) continue;
     const file = path.join(directory, name);
@@ -16,7 +16,7 @@ function build(directory) {
       map.files.push(name);
     } else if (stat.isDirectory()) {
       build(file);
-      map.dirs.push(name);
+      map.directories.push(name);
     }
   }
   fs.writeFileSync(path.join(directory, IndexName), JSON.stringify(map));

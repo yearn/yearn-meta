@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategymUSDCurve",
+  "description": "This vault deposits mUSD into the mUSD/3Crv pool on Curve.fi. The crvMUSD is then deposited into the Curve mUSD Pool yVault.",
+  "author": "unknown",
+  "authorUri": "https://twitter.com/"
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategyUSDT3pool",
+  "description": "This vault deposits USDT into the 3pool on Curve.fi. The 3Crv tokens are then deposited into the Curve 3Pool yVault.",
+  "author": "unknown",
+  "authorUri": "https://twitter.com/"
+}

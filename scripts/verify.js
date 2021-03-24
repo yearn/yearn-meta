@@ -65,7 +65,7 @@ function validate(directory, validators) {
         }
         const valid = validator(data);
         if (!valid) {
-          console.error(`Error: "${file}" does not follow "${name}" schema:`);
+          console.error(`Error: "${file}" does not follow "${schema}" schema:`);
           for (const error of validator.errors) {
             console.log(
               ` - ${error.keyword}: ${error.dataPath} ${error.message}`

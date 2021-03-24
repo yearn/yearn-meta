@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --ignore-path .gitignore --write ."
   },
   "dependencies": {
     "@ethersproject/address": "^5.0.9",

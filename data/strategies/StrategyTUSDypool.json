@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategyTUSDypool",
+  "description": "Th\u0131s vault deposits TUSD into the YPool on Curve.fi. The yCRV are then deposited into the Curve YPool yVault.",
+  "author": "unknown",
+  "authorUri": "https://twitter.com/"
+}
