@@ -6,6 +6,8 @@ const DataDirectory = "data";
 const SchemaDirectory = "schema";
 const OutDirectory = "build";
 
+const TrimmedExtensions = [".json"];
+
 function build(directory) {
   const map = { files: [], directories: [] };
   for (let name of fs.readdirSync(directory)) {
@@ -13,6 +15,11 @@ function build(directory) {
     const file = path.join(directory, name);
     const stat = fs.lstatSync(file);
     if (stat.isFile()) {
+      const parse = path.parse(file);
+      if (TrimmedExtensions.includes(parse.ext)) {
+        name = parse.name;
+        fs.renameSync(file, path.join(directory, name));
+      }
       map.files.push(name);
     } else if (stat.isDirectory()) {
       build(file);

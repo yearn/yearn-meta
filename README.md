@@ -20,7 +20,7 @@ special checks to ensure consistency and ease of accessibility:
   directory must follow the defined schema, otherwise verification will fail.
 - Any folder that begins with `0x` is considered as an address. The address must
   be checksummed, otherwise verification will fail.
-- All files named `index.json` will be overwritten ignored by git and will be
+- All files named `index.json` will be ignored by git and will be
   overwritten by the indexing process. (see [indexing](#indexes))
 
 Yearn has also a [naming standard](./docs/naming-standard.md) that is not
