@@ -16,9 +16,13 @@ jobs:
 
       - name: Install deps (with cache)
         uses: bahmutov/npm-install@v1
+        with:
+          working-directory: scripts
 
       - name: Lint data
-        run: yarn prettier --check .
+        run: |
+          npm install -g prettier
+          prettier --check .
 
   verify:
     name: Verify data
@@ -35,6 +39,8 @@ jobs:
 
       - name: Install deps (with cache)
         uses: bahmutov/npm-install@v1
+        with:
+          working-directory: scripts
 
       - name: Verify data
         run: node scripts/verify.js

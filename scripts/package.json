@@ -4,9 +4,6 @@
   "author": "nymmrx",
   "license": "MIT",
   "private": true,
-  "scripts": {
-    "format": "prettier --ignore-path .gitignore --write ."
-  },
   "dependencies": {
     "@ethersproject/address": "^5.0.9",
     "@pinata/sdk": "^1.1.11",
