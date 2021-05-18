@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategyLenderYieldOptimiser",
+  "description": "This strategy lends the {{tokens}} on various lending platforms such as CREAM, AAVE or ALPHA HOMORA to gain yield.",
+  "author": "Sam Priestley",
+  "authorUri": "https://twitter.com/arbingsam"
+}

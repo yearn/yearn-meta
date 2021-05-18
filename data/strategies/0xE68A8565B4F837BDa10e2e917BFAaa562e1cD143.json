@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "IBLevComp",
+  "description": "Supplies DAI on Compound and opens a long-term debt for an additional amount of DAI from Ironbank without the need for collateral, to maximize COMP farming. Earned COMP is harvested and sold for more DAI and re-deposited into the vault.",
+  "author": "Sam Priestley",
+  "authorUri": "https://twitter.com/arbingsam"
+}
