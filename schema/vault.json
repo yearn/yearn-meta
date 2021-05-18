@@ -14,6 +14,21 @@
     "promoted": {
       "type": "boolean"
     },
+    "retired": {
+      "type": "boolean"
+    },
+    "depositDisabled": {
+      "type": "boolean"
+    },
+    "depositDisabledMessage": {
+      "type": "boolean"
+    },
+    "withdrawDisabled": {
+      "type": "boolean"
+    },
+    "withdrawDisabledMessage": {
+      "type": "boolean"
+    },
     "apy": {
       "type": "object",
       "properties": {
