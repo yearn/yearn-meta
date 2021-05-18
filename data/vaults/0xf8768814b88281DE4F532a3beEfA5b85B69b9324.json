@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "name": "crvTUSD",
+  "description": "Curve TUSD Pool yVault",
+  "promoted": true,
+  "retired": false,
+  "migrated": false,
+  "depositDisabled": false,
+  "depositDisabledMessage": "",
+  "withdrawDisabled": false,
+  "withdrawDisabledMessage": false,
+  "apy": { "calculation": "curve" }
+}

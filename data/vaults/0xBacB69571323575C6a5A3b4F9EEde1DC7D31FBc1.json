@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "name": "crvSAAVE",
+  "description": "yearn Curve.fi aDAI/aSUSD",
+  "promoted": true,
+  "retired": false,
+  "migrated": false,
+  "depositDisabled": false,
+  "depositDisabledMessage": "",
+  "withdrawDisabled": false,
+  "withdrawDisabledMessage": false,
+  "apy": { "calculation": "" }
+}

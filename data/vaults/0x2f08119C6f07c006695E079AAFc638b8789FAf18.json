@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "name": "USDT",
+  "description": "yearn Tether USD",
+  "promoted": true,
+  "retired": false,
+  "migrated": false,
+  "depositDisabled": false,
+  "depositDisabledMessage": "",
+  "withdrawDisabled": false,
+  "withdrawDisabledMessage": false,
+  "apy": { "calculation": "pricePerShareV1OneMonth" }
+}

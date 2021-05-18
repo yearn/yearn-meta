@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "name": "crvYBUSD",
+  "description": "yearn Curve.fi yDAI/yUSDC/yUSDT/yBUSD",
+  "promoted": true,
+  "retired": false,
+  "migrated": false,
+  "depositDisabled": false,
+  "depositDisabledMessage": "",
+  "withdrawDisabled": false,
+  "withdrawDisabledMessage": false,
+  "apy": { "calculation": "curve" }
+}

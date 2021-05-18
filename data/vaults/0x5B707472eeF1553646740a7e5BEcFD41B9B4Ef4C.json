@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "name": "COMP",
+  "description": "COMP yVault",
+  "promoted": false,
+  "retired": false,
+  "migrated": false,
+  "depositDisabled": false,
+  "depositDisabledMessage": "",
+  "withdrawDisabled": false,
+  "withdrawDisabledMessage": false,
+  "apy": { "calculation": "error" }
+}

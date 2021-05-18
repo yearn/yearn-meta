@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "name": "USDC",
+  "description": "yearn USD//C",
+  "promoted": true,
+  "retired": false,
+  "migrated": false,
+  "depositDisabled": false,
+  "depositDisabledMessage": "",
+  "withdrawDisabled": false,
+  "withdrawDisabledMessage": false,
+  "apy": { "calculation": "pricePerShareV1OneMonth" }
+}

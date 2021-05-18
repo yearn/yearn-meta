@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "name": "crvPBTC",
+  "description": "Curve pBTC Pool yVault",
+  "promoted": true,
+  "retired": false,
+  "migrated": false,
+  "depositDisabled": false,
+  "depositDisabledMessage": "",
+  "withdrawDisabled": false,
+  "withdrawDisabledMessage": false,
+  "apy": { "calculation": "curve" }
+}

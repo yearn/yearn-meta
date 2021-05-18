@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "name": "3Crv",
+  "description": "yearn Curve.fi DAI/USDC/USDT",
+  "promoted": true,
+  "retired": false,
+  "migrated": false,
+  "depositDisabled": false,
+  "depositDisabledMessage": "",
+  "withdrawDisabled": false,
+  "withdrawDisabledMessage": false,
+  "apy": { "calculation": "curve" }
+}

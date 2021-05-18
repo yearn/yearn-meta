@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "name": "crvAETH",
+  "description": "yearn Curve.fi ETH/aETH",
+  "promoted": true,
+  "retired": false,
+  "migrated": false,
+  "depositDisabled": false,
+  "depositDisabledMessage": "",
+  "withdrawDisabled": false,
+  "withdrawDisabledMessage": false,
+  "apy": { "calculation": "curve" }
+}
