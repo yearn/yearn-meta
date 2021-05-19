@@ -56,7 +56,14 @@ const getVaults = async () => {
         calculation: vault.apy ? vault.apy.type : "",
       },
     };
-    vaults.push(schemaVault);
+    const include =
+      (hasRetired.isIn ||
+        hasMigrated.isIn ||
+        schemaVault.apy.calculation === "") &&
+      schemaVault.promoted;
+    if (include) {
+      vaults.push(schemaVault);
+    }
   });
   vaults.forEach((vault, i) => {
     fs.writeFile(

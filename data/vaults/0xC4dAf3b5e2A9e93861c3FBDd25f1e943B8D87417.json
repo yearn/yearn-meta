@@ -1,13 +1,13 @@
 {
   "$schema": "vault",
-  "name": "crvUSDP",
-  "description": "Curve USDP Pool yVault",
-  "promoted": false,
-  "retired": false,
+  "name": "HEGIC",
+  "description": "HEGIC yVault",
+  "promoted": true,
+  "retired": true,
   "migrated": false,
-  "depositDisabled": false,
-  "depositDisabledMessage": "",
+  "depositDisabled": true,
+  "depositDisabledMessage": "This vault is no longer active. Please withdraw any funds.",
   "withdrawDisabled": false,
   "withdrawDisabledMessage": false,
-  "apy": { "calculation": "curve" }
+  "apy": { "calculation": "pricePerShareV2OneMonth" }
 }

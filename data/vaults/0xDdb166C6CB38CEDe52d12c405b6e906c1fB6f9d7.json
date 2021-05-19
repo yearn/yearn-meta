@@ -1,13 +1,13 @@
 {
   "$schema": "vault",
-  "name": "crvSBTC",
-  "description": "crvRenWSBTC yVault",
-  "promoted": false,
-  "retired": false,
+  "name": "aLINK",
+  "description": "yearn Aave Interest bearing LINK",
+  "promoted": true,
+  "retired": true,
   "migrated": false,
-  "depositDisabled": false,
-  "depositDisabledMessage": "",
+  "depositDisabled": true,
+  "depositDisabledMessage": "This vault is no longer active and its strategy is unwinding. Withdrawals will incur a 1% withdrawal fee during this process.",
   "withdrawDisabled": false,
   "withdrawDisabledMessage": false,
-  "apy": { "calculation": "curve" }
+  "apy": { "calculation": "pricePerShareV1OneMonth" }
 }
