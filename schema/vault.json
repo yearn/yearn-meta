@@ -17,17 +17,19 @@
     "retired": {
       "type": "boolean"
     },
-    "depositDisabled": {
-      "type": "boolean"
+    "deposit": {
+      "type": "object",
+      "properties": {
+        "disabled": { "type": "boolean" },
+        "message": { "type": "string" }
+      }
     },
-    "depositDisabledMessage": {
-      "type": "boolean"
-    },
-    "withdrawDisabled": {
-      "type": "boolean"
-    },
-    "withdrawDisabledMessage": {
-      "type": "boolean"
+    "withdraw": {
+      "type": "object",
+      "properties": {
+        "disabled": { "type": "boolean" },
+        "message": { "type": "string" }
+      }
     },
     "apy": {
       "type": "object",
