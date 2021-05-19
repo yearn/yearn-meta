@@ -14,6 +14,23 @@
     "promoted": {
       "type": "boolean"
     },
+    "retired": {
+      "type": "boolean"
+    },
+    "deposit": {
+      "type": "object",
+      "properties": {
+        "disabled": { "type": "boolean" },
+        "message": { "type": "string" }
+      }
+    },
+    "withdraw": {
+      "type": "object",
+      "properties": {
+        "disabled": { "type": "boolean" },
+        "message": { "type": "string" }
+      }
+    },
     "apy": {
       "type": "object",
       "properties": {
