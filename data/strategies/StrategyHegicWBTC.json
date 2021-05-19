@@ -2,5 +2,5 @@
   "$schema": "strategy",
   "name": "StrategyHegicWBTC",
   "description": "These three strategies work together to alternatively use HEGIC to buy ETH or WBTC lots on HEGIC.co. While the vault is building up the required 888,000 HEGIC needed to buy a lot, it lends it out on C.R.E.A.M to earn interest. The vault also keeps a buffer of HEGIC in reserve for withdrawals earning interest in CREAM.",
-  "author": "anonymous"
+  "authors": []
 }

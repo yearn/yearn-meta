@@ -9,6 +9,5 @@
     "disabled": true,
     "message": "This vault is no longer active. Please withdraw any funds."
   },
-  "withdraw": { "disabled": false, "message": false },
   "apy": { "calculation": "pricePerShareV2OneMonth" }
 }
