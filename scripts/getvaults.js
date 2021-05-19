@@ -48,10 +48,11 @@ const getVaults = async () => {
       promoted: vault.endorsed,
       retired: hasRetired.isIn,
       migrated: hasMigrated.isIn,
-      depositDisabled: hasRetired.isIn,
-      depositDisabledMessage: hasMigrated.message || hasRetired.message || "",
-      withdrawDisabled: false,
-      withdrawDisabledMessage: false,
+      deposit: {
+        disabled: hasRetired.isIn,
+        message: hasMigrated.message || hasRetired.message || "",
+      },
+      withdraw: { disabled: false, message: false },
       apy: {
         calculation: vault.apy ? vault.apy.type : "",
       },
