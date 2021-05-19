@@ -1,5 +1,5 @@
 {
-  "$schema": "vault",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "vault.json",
   "title": "Vault",
   "description": "A Yearn vault",
@@ -17,20 +17,19 @@
     "retired": {
       "type": "boolean"
     },
-    "migrated": {
-      "type": "boolean"
+    "deposit": {
+      "type": "object",
+      "properties": {
+        "disabled": { "type": "boolean" },
+        "message": { "type": "string" }
+      }
     },
-    "depositDisabled": {
-      "type": "boolean"
-    },
-    "depositDisabledMessage": {
-      "type": "boolean"
-    },
-    "withdrawDisabled": {
-      "type": "boolean"
-    },
-    "withdrawDisabledMessage": {
-      "type": "boolean"
+    "withdraw": {
+      "type": "object",
+      "properties": {
+        "disabled": { "type": "boolean" },
+        "message": { "type": "string" }
+      }
     },
     "apy": {
       "type": "object",
