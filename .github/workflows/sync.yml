@@ -34,5 +34,15 @@ jobs:
       - name: Generate build artifact
         run: node scripts/build.js
 
-      - name: Sync data to IPFS
-        run: node scripts/sync.js
+      - name: Sync to IPFS
+        id: upload
+        uses: nymmrx/ipfs-deploy@master
+        with:
+          path: "./build"
+          pin-name: Yearn Meta
+          pinata-key: ${{ secrets.PINATA_KEY }}
+          pinata-secret: ${{ secrets.PINATA_SECRET }}
+          cloudflare-zone-id: ${{ secrets.CLOUDFLARE_ZONE }}
+          cloudflare-secret: ${{ secrets.CLOUDFLARE_SECRET }}
+          record-domain: yearn.network
+          record-name: _dnslink.meta
