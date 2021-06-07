@@ -1,0 +1,25 @@
+// Strategy Vault USDC 
+
+digraph strategy {
+	node[shape=none, fontname="sans-serif"];
+
+	node[group=tokens, height=1.35, imagepos="tc", labelloc="b"]
+	YFI_VAULT[token="0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e", label="yVault"];
+	USDC[token="0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", label="USDC"];
+	ALINK[token="0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84", label="aLINK"];
+	AAVE[token="0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9", label="AAVE"];
+
+
+	node[group=descriptions, height=1, labelloc="c"];
+	aave_desc[label="Vault deposits aLINK as collateral on AAVE"];
+	{rank = same; aave_desc; YFI_VAULT;}
+	usdc_desc[label="USDC is deposited into V1 USDC yVault \nfor profit to buy additional LINK and \ndeposit back to AAVE"];
+	{rank = same; usdc_desc; USDC;}
+
+	subgraph connections {
+		ALINK -> AAVE;
+		AAVE -> USDC;
+		USDC -> YFI_VAULT;
+		YFI_VAULT -> ALINK;
+	}
+}
