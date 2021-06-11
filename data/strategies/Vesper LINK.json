@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Vesper LINK",
+  "description": "Supplies LINK to Vesper Finance LINK Pool to farm VSP. Rewards are harvested, sold for more LINK, and re-deposited into the vault.",
+  "addresses": ["0x8198815871a45A5a883d083B7B105927eb9919D8"],
+  "authors": []
+}

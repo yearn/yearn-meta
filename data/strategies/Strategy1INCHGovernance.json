@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Strategy1INCHGovernance",
+  "description": "Stakes 1INCH token on 1INCH DAO to collect governance rewards. Rewards are harvested and deposited back into the vault.",
+  "addresses": ["0xB12F6A5776EDd2e923fD1Ce93041B2000A22dDc7"],
+  "authors": []
+}

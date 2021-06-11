@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "PoolTogether USD Coin",
+  "description": "Supplies USDC to the PoolTogether protocol to farm POOL. Rewards are harvested, sold for more USDC, and deposited back into the vault. If it gets the prize of the week it will also be added to the vault.",
+  "addresses": ["0x387fCa8d7e2e09655b4F49548607B55C0580fC63"],
+  "authors": []
+}

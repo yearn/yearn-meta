@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategySynthetixSusdMinter",
+  "description": "Stakes SNX at Synthetix to mint sUSD. The newly minted sUSD is then deposited into the v2 sUSD yVault to earn yield. Yield from sUSD and rewards from weekly fees plus vested rewards (when claimable) are swapped for more SNX and re-deposited into the vault.",
+  "addresses": ["0xFB5F4E0656ebfF31743e674d324554fd185e1c4b"],
+  "authors": []
+}

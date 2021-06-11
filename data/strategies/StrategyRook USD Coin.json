@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategyRook USD Coin",
+  "description": "Supplies USDC to KeeperDAO to farm ROOK. Rewards are harvested, sold for more USDC, and deposited back into the vault.",
+  "addresses": ["0x4140F350c1B67184fE3AaEa314d8C967F99EE8Cc"],
+  "authors": []
+}

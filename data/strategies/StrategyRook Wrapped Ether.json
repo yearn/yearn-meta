@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategyRook Wrapped Ether",
+  "description": "Supplies WETH to KeeperDAO to farm ROOK. Rewards are harvested, sold for more WETH, and deposited back into the vault.",
+  "addresses": ["0xFc84A04478Ffe0B48e46048f4E933A51F4016289"],
+  "authors": []
+}

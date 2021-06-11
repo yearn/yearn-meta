@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategyeCurveWETHSingleSided",
+  "description": "Supplies WETH to the liquidity pool on Curve here to obtain eCRV tokens which it then puts into the v2 Curve sETH Pool yVault (yveCRV) to gain yield.",
+  "addresses": ["0xda988eBb26F505246C59Ba26514340B634F9a7a2"],
+  "authors": []
+}
