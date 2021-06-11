@@ -2,6 +2,6 @@
     "$schema": "strategy",
     "name": "Curveusdp3CRVVoterProxy",
     "description": "This strategy accepts deposits of {{tokens}} tokens obtained supplying either DAI, USDC, USDT (or their wrapped version: 3crv), or USDP to the liquidity pool on Curve here. {{tokens}} tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more {{tokens}}.",
-    "addresses": ["0x94fA3A90E680f6b866545C904D1dc9DEe6416de9"]
+    "addresses": ["0x94fA3A90E680f6b866545C904D1dc9DEe6416de9"],
     "authors": []
   }
