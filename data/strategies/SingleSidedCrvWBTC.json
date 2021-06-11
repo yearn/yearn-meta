@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "SingleSidedCrvWBTC",
+  "description": "Deposits wBTC to a BTC Curve Pool on curve.fi and switches to the most profitable curve pool.",
+  "addresses": ["0x40b04B3ed9845B8Be200Aa2D9C3eDC2bE0a5f01f"],
+  "authors": []
+}

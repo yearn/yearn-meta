@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "SingleSidedCrvDAI",
+  "description": "Deposits DAI to a DAI Curve Pool on curve.fi and switches to the most profitable curve pool.",
+  "addresses": ["0x6a6B94A78cBA0F55BC4D41b37f2229427800B4dA"],
+  "authors": []
+}
