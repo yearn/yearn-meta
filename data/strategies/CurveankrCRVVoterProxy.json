@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "CurveankrCRVVoterProxy",
+  "description": "This vault accepts deposits of [ankrCRV](https://etherscan.io/address/0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf) tokens obtained by supplying either ETH or ankrETH to the liquidity pool on Curve [here](https://www.curve.fi/ankreth/deposit). ankrCRV tokens are staked in the gauge on Curve to earn CRV, [ANKR](https://www.coingecko.com/en/coins/ankr-network), and [ONX](https://www.coingecko.com/en/coins/onx-finance) rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more ankrCRV.",
+  "addresses": ["0x32EF165F2ABbdbE7dcC25B86EdB14a2C0dc52571"],
+  "authors": []
+}

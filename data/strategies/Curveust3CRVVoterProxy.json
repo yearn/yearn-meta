@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Curveust3CRVVoterProxy",
+  "description": "This vault accepts deposits of [ust3CRV](https://etherscan.io/address/0x94e131324b6054c0D789b190b2dAC504e4361b53) tokens obtained by supplying either UST, DAI, USDC, USDT(or wrapped via 3Crv tokens) to the liquidity pool on Curve [here](https://www.curve.fi/ust/deposit). ust3CRV tokens are staked in the gauge on Curve rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more ust3CRV.",
+  "addresses": ["0xbf811462955DEeD9aaD62EFE771E34e8B5811857"],
+  "authors": []
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "CurvelinkCRVVoterProxy",
+  "description": "This vault accepts deposits of [linkCRV](https://etherscan.io/address/0xcee60cFa923170e4f8204AE08B4fA6A3F5656F3a) tokens obtained by supplying either LINK or sLINK to the liquidity pool on Curve [here](https://curve.fi/link/deposit). linkCRV tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more linkCRV.",
+  "addresses": ["0x0E94D346D8A53FEF83484b178a581695E0001E55"],
+  "authors": []
+}
