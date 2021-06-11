@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Curvemusd3CRVVoterProxy",
+  "description": "This vault accepts deposits of musd3CRV tokens obtained by supplying either mUSD, DAI, USDC, USDT (or wrapped via 3Crv tokens) to the liquidity pool on Curve here. musd3CRV tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more musd3CRV.",
+  "addresses": ["0xf9fF7f463A7e6f43d4E65c230D3743355fC954e4"],
+  "authors": []
+}
