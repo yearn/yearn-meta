@@ -2,5 +2,6 @@
   "$schema": "strategy",
   "name": "StrategyMKRVaultDAIDelegate",
   "description": "Users deposit ETH, which is used to mint DAI from MakerDAO. DAI is then deposited into our v1 yDAI vault, which earns CRV. CRV is periodically harvested, sold for more ETH and re-deposited into the vault.",
+  "addresses": [],
   "authors": [{ "name": "orbxball", "uri": "https://twitter.com/orbxball" }]
 }

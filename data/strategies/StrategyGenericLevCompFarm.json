@@ -2,5 +2,6 @@
   "$schema": "strategy",
   "name": "StrategyGenericLevCompFarm",
   "description": "This strategy supplies the {{tokens}} on Compound and borrows an additional amount of the {{tokens}} to maximize COMP farming. Flashloans are used to obtain additional {{tokens}} from dYdX in order to gain additional leverage and boost the APY. Earned COMP is harvested and sold for more {{tokens}} and re-deposited into the vault.",
+  "addresses": [],
   "authors": []
 }

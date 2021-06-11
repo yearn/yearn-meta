@@ -2,6 +2,7 @@
   "$schema": "strategy",
   "name": "StrategyVaultUSDC",
   "description": "This vault deposits aLINK as collateral on Aave to borrow USDC. The USDC is deposited into the v1 USDC yVault. Profits are harvested and used to buy additional LINK, supplied as collateral on Aave in exchange for aLINK and re-deposited into the vault.",
+  "addresses": [],
   "authors": [
     { "name": "Andre Cronje", "uri": "https://twitter.com/AndreCronjeTech" }
   ]
