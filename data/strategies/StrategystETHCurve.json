@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategystETHCurve",
+  "description": "This vault accepts deposits of [steCRV](https://etherscan.io/address/0x06325440D014e39736583c165C2963BA99fAf14E) tokens obtained by supplying either ETH or stETH to the liquidity pool on Curve [here](https://www.curve.fi/steth/deposit). steCRV are staked in the gauge on curve.finance to earn CRV and [LDO](https://www.coingecko.com/en/coins/lido-dao) rewards. Rewards are swapped for WETH and resupplied to the liquidity pool to obtain more steCRV.",
+  "addresses": ["0xebfC9451d19E8dbf36AAf547855b4dC789CA793C"],
+  "authors": []
+}
