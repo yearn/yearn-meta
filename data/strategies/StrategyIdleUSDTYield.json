@@ -1,0 +1,9 @@
+{
+  "$schema": "strategy",
+  "name": "StrategyIdleUSDTYield",
+  "description": "Supplies USDT on Idle Finance to farm COMP and IDLE. Rewards are harvested, sold for more USDT, and deposited back to the vault.",
+  "addresses": ["0x01b54c320d6B3057377cbc71d953d1BBa84df44e"],
+  "authors": [
+    { "name": "Emiliano Bonassi", "uri": "https://twitter.com/emilianobonassi" }
+  ]
+}

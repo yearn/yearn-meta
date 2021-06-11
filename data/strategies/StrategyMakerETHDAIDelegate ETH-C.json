@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategyMakerETHDAIDelegate ETH-C",
+  "description": "Locks ETH at MakerDAO via ETH-C to mint DAI. This newly minted DAI is then deposited into the v2 DAI yVault.",
+  "addresses": ["0x946a03264BBa08d1F90dF1ce0bbD3394c3AB1cfa"],
+  "authors": [{ "name": "orbxball", "uri": "https://twitter.com/orbxball" }]
+}

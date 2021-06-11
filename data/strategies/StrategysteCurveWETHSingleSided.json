@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "StrategysteCurveWETHSingleSided",
-  "description": "Supplies WETH to the liquidity pool on Curve here to obtain steCRV tokens which it then puts into the v2 Curve stETH Pool yVault (yvsteCRV)to gain yield.",
-  "addresses": [],
+  "description": "Supplies WETH to the liquidity pool on Curve here to obtain steCRV tokens which it then puts into the v2 Curve stETH Pool yVault (yvsteCRV) to gain yield.",
+  "addresses": ["0x2886971eCAF2610236b4869f58cD42c115DFb47A"],
   "authors": [{ "name": "orbxball", "uri": "https://twitter.com/orbxball" }]
 }

@@ -1,9 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyIdle",
-  "description": "This strategy supplies {{tokens}} on IDLE.finance to farm COMP and IDLE. Rewards are harvested, sold for more {{tokens}}, and deposited back to the vault.",
-  "addresses": [],
-  "authors": [
-    { "name": "Emiliano Bonassi", "uri": "https://twitter.com/emilianobonassi" }
-  ]
-}
