@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "CurvecrvPlain3andSUSDVoterProxy",
+  "description": "This vault accepts deposits of sCrv tokens obtained by supplying either sUSD, DAI, USDC or USDT to the liquidity pool on Curve here. sCrv tokens are staked in the gauge on Curve to earn CRV and SNX rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more sCRV.",
+  "addresses": ["0x9730F52AB5BcEc960bE41b0fE4913a09c0B57066"],
+  "authors": []
+}
