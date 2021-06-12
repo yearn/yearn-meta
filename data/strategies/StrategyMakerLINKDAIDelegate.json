@@ -1,7 +1,7 @@
 {
-    "$schema": "strategy",
-    "name": "StrategyMakerLINKDAIDelegate",
-    "description": "Locks LINK at MakerDAO via LINK-A to mint DAI. The newly minted DAI is then deposited into the v2 DAI yVault to earn yield.",
-    "addresses": ["0x136fe75bfDf142a917C954F58577DB04ef6F294B"],
-    "authors": []
-  }
+  "$schema": "strategy",
+  "name": "StrategyMakerLINKDAIDelegate",
+  "description": "Locks LINK at MakerDAO via LINK-A to mint DAI. The newly minted DAI is then deposited into the v2 DAI yVault to earn yield.",
+  "addresses": ["0x136fe75bfDf142a917C954F58577DB04ef6F294B"],
+  "authors": []
+}
