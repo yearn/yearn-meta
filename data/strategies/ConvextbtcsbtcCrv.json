@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Convextbtc/sbtcCrv",
+  "description": "Supplies tBTC/sbtcCrv to Convex Finance to earn CRV and farm CVX. Rewards are harvested, sold for more tBTC/sbtcCrv, and deposited back into the vault.",
+  "addresses": ["0x07fb6A53185E2F095253099A47F34CD410eB2A89"],
+  "authors": []
+}

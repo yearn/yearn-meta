@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "CurvecrvRenWBTCVoterProxy",
+  "description": "This vault accepts deposits of [crvRenWBTC](https://etherscan.io/address/0x49849C98ae39Fff122806C06791Fa73784FB3675) tokens obtained by supplying either renBTC or wBTC to the liquidity pool on Curve [here](https://curve.fi/ren/deposit) in exchange for crvRenWBTC tokens. crvRenWBTC are staked in the gauge on curve.finance to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more crvRenWBTC.",
+  "addresses": ["0x2A94A56fBEE72ACEC39ea0269c1356a8DFbC4765"],
+  "authors": []
+}
