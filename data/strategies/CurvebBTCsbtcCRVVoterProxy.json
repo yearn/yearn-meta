@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "CurvebBTC/sbtcCRVVoterProxy",
+  "description": "This vault accepts deposits of [bBTC/sbtcCrv](https://etherscan.io/address/0x410e3E86ef427e30B9235497143881f717d93c2A) tokens obtained by supplying either BBTC, renBTC, wBTC or sBTC to the liquidity pool on Curve [here](https://www.curve.fi/bbtc/deposit). bBTC/sbtcCrv tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more bBTC/sbtcCrv.",
+  "addresses": ["0xABCBB67Ef2757bCCff074014658d9BD13f559632"],
+  "authors": []
+}

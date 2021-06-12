@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "ConvexyDAI+yUSDC+yUSDT+yBUSD",
+  "description": "Supplies yDAI+yUSDC+yUSDT+yBUSD to Convex Finance to earn CRV and farm CVX. Rewards are harvested, sold for more yDAI+yUSDC+yUSDT+yBUSD, and deposited back into the vault.",
+  "addresses": ["0x3cA0B4d7eedE71061B0bAdb4F0E86E99b0FEa613"],
+  "authors": []
+}

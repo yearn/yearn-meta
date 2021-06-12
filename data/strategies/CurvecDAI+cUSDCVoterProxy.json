@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "CurvecDAI+cUSDCVoterProxy",
+  "description": "This vault accepts deposits of [cDAI+cUSDC](https://etherscan.io/address/0x845838df265dcd2c412a1dc9e959c7d08537f8a2) tokens obtained by supplying DAI or USDC (or their wrapped versions from Compound) to the liquidity pool on Curve [here](https://curve.fi/compound/deposit). cDAI+cUSDC tokens are staked in the gauge on curve.finance to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more cDAI+cUSDC.",
+  "addresses": ["0xdDAAc8B5Dd65d079b6572e43890BDD8d95bD5cc3"],
+  "authors": []
+}
