@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "StrategyLenderYieldOptimiser",
+  "description": "Splits lending DAI between dYdX and cream.finance to gain interest. The proportions are adjusted each time the strategy calls harvest.",
+  "addresses": ["0x32b8C26d0439e1959CEa6262CBabC12320b384c4"],
+  "authors": []
+}
