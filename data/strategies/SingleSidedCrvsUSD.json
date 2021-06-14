@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "SingleSidedCrvsUSD",
-  "description": "Deposits sUSD to a sUSD curve pool on curve.fi and switches to the most profitable curve pool.",
-  "addresses": ["0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36"],
-  "authors": []
-}
