@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "PoolTogether Dai Stablecoin",
-  "description": "Supplies DAI to the PoolTogether protocol to farm POOL. Rewards are harvested, sold for more DAI, and deposited back into the vault. If it gets the prize of the week it will also be added to the vault.",
+  "description": "Supplies DAI to the PoolTogether protocol to earn POOL. Rewards are harvested, sold for more DAI, and deposited back into the vault. If it gets the prize of the week it will also be added to the vault.",
   "addresses": ["0x57e848A6915455a7e77CF0D55A1474bEFd9C374d"],
   "authors": []
 }
