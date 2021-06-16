@@ -1,9 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "LPProfitSwitching",
-  "description": "Earn is a lending aggregator that strives to attain the highest yield for supported coins (DAI, USDC, USDT, TUSD, sUSD, or wBTC) at all times. It does this by programmatically shifting these coins between several lending protocols (AAVE, dYdX, and Compound) operating on the Ethereum blockchain.",
-  "addresses": [],
-  "authors": [
-    { "name": "Andre Cronje", "uri": "https://twitter.com/AndreCronjeTech" }
-  ]
-}
