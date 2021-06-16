@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "ConvexcrvRenWBTC",
-  "description": "Supplies crvRenWBTC to Convex Finance to earn CRV and farm CVX. Rewards are harvested, sold for more crvRenWBTC, and deposited back into the vault.",
+  "description": "Supplies crvRenWBTC to Convex Finance to earn CRV and CVX. Rewards are harvested, sold for more crvRenWBTC, and deposited back into the vault.",
   "addresses": ["0x7799F476522Ebe259fc525C1A21E84f7Dd551955"],
   "authors": []
 }

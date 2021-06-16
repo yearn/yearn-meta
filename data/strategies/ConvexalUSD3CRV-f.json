@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "ConvexalUSD3CRV-f",
-  "description": "Supplies alUSD3CRV-f to Convex Finance to earn CRV and farm CVX & ALCX. Rewards are harvested, sold for more alUSD3CRV-f, and deposited back into the vault.",
+  "description": "Supplies alUSD3CRV-f to Convex Finance to earn CRV, CVX, & ALCX. Rewards are harvested, sold for more alUSD3CRV-f, and deposited back into the vault.",
   "addresses": ["0xf8Fb278DeeaF30Ff3F6326d928A61eA8b9397d16"],
   "authors": []
 }
