@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "AaveWETHLenderUSDTBorrower",
+  "description": "Lends WETH on AAVE to gain interest and accumulate staked AAVE as rewards. Also borrows USDT which it then deposits into the USDT yVault for yield. Rewards from vested AAVE and yvUSDT are harvested, sold for more WETH, and re-deposited into the vault.",
+  "addresses": ["0xd28b508EA08f14A473a5F332631eA1972cFd7cC0"],
+  "authors": []
+}
