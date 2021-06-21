@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "CurvecrvTricryptoVoterProxy",
+  "description": "This vault accepts deposits of [crvTricrypto](https://etherscan.io/address/0xcA3d75aC011BF5aD07a98d02f18225F9bD9A6BDF) tokens obtained by supplying either USDT, wBTC, or ETH to the liquidity pool on Curve [here](https://curve.fi/tricrypto/deposit) in exchange for crvTricrypto tokens. crvTricrypto are staked in the gauge on curve.finance to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more crvTricrypto.",
+  "addresses": ["0xb9267f1427Ddb937003b9cA0Ca7716DDa4026D19"],
+  "authors": []
+}
