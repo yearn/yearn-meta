@@ -7,10 +7,10 @@ digraph strategy {
 	ETH[token="0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE", label="ETH"];
 	WETH[token="0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2", label="WETH"];
 	yvWETHyVault[token="0xE0db48B4F71752C4bEf16De1DBD042B82976b8C7", label="yvWETH"];
-	CurvestETHpool[token="0x06325440D014e39736583c165C2963BA99fAf14E", label="crvstETH"];
+	CurvestETHpool[token="0x06325440D014e39736583c165C2963BA99fAf14E", label="steCRV"];
 	CurvestETHpoolyVault[token="0xdCD90C7f6324cfa40d7169ef80b12031770B4325", label="ycrvstETH"];
 	CRV[token="0xD533a949740bb3306d119CC777fa900bA034cd52", label="CRV"];
-	CurvestETHpool2[token="0x06325440D014e39736583c165C2963BA99fAf14E", label="crvmUSD"];
+	CurvestETHpool2[token="0x06325440D014e39736583c165C2963BA99fAf14E", label="steCRV"];
 	LDO [token="0x5a98fcbea516cf06857215779fd812ca3bef1b32", label="LDO"];
 
 	node[group=descriptions, height=1, labelloc="c"];
