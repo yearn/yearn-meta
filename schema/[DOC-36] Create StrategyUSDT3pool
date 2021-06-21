@@ -1,0 +1,30 @@
+// Inspired by https://i.imgur.com/giRJijl.jpg by https://twitter.com/gabrielhaines
+
+digraph strategy {
+	node[shape=none, fontname="sans-serif"];
+
+	node[group=tokens, height=1.35, imagepos="tc", labelloc="b"]
+	USDT[token="0xdAC17F958D2ee523a2206206994597C13D831ec7", label="USDT"];
+	USDTyvVault[token="0x2f08119C6f07c006695E079AAFc638b8789FAf18", label="yvUSDT"];
+	Curve3pool[token="0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490", label="3Crv"];
+	Curve3poolVault[token="0x9cA85572E6A3EbF24dEDd195623F188735A5179f", label="yvCurve-3pool"];
+	CRV[token="0xD533a949740bb3306d119CC777fa900bA034cd52", label="CRV"];
+	Curve3pool2[token="0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490", label="3Crv"];
+
+	node[group=descriptions, height=1, labelloc="c"];
+	USDCyvVault_desc[label="yvUSDT deposits USDT into the 3Pool on Curve.fi."];
+	{rank = same; USDCyvVault_desc; Curve3pool;}
+	Curve3poolVault_desc[label="The 3Crv tokens are then deposited into the Curve 3Pool yVault."];
+	{rank = same; Curve3poolVault_desc; Curve3poolVault;}
+	CRV_desc[label="Farmed CRV is then sold for more 3crv and deposited into the Curve 3Pool yVault"];
+	{rank = same; CRV_desc; CRV;}
+
+	subgraph connections {
+		USDT -> USDTyvVault;
+		USDTyvVault -> Curve3pool
+		Curve3pool -> Curve3poolVault;
+		Curve3poolVault -> CRV;
+		CRV -> Curve3pool2;
+		Curve3pool2 -> Curve3poolVault
+	}
+}
