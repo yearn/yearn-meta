@@ -1,0 +1,35 @@
+// Inspired by https://i.imgur.com/giRJijl.jpg by https://twitter.com/gabrielhaines
+
+digraph strategy {
+	node[shape=none, fontname="sans-serif"];
+
+	node[group=tokens, height=1.35, imagepos="tc", labelloc="b"]
+	ETH[token="0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE", label="ETH"];
+	WETH[token="0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2", label="WETH"];
+	yvWETHyVault[token="0xE0db48B4F71752C4bEf16De1DBD042B82976b8C7", label="yvWETH"];
+	CurvestETHpool[token="0x06325440D014e39736583c165C2963BA99fAf14E", label="crvstETH"];
+	CurvestETHpoolyVault[token="0xdCD90C7f6324cfa40d7169ef80b12031770B4325", label="ycrvstETH"];
+	CRV[token="0xD533a949740bb3306d119CC777fa900bA034cd52", label="CRV"];
+	CurvestETHpool2[token="0x06325440D014e39736583c165C2963BA99fAf14E", label="crvmUSD"];
+	LDO [token="0x5a98fcbea516cf06857215779fd812ca3bef1b32", label="LDO"];
+
+	node[group=descriptions, height=1, labelloc="c"];
+	yvWETHyVault_desc[label="yvWETH supplies WETH to the liquidity pool on Curve here to obtain steCRV tokens."];
+	{rank = same; yvWETHyVault_desc; CurvestETHpool;}
+	CurvestETHpoolyVault_desc[label="The steCRV is then deposited into the Curve stETH Pool yVault."];
+	{rank = same; CurvestETHpoolyVault_desc; CurvestETHpoolyVault;}
+	CRV_desc[label="Farmed CRV and LDO is then sold for more steCRV and deposited into the Curve stETH Pool yVault"];
+	{rank = same; CRV_desc; CRV;}
+
+	subgraph connections {
+		ETH -> yvWETHyVault;
+		WETH -> yvWETHyVault;
+		yvWETHyVault -> CurvestETHpool
+		CurvestETHpool -> CurvestETHpoolyVault;
+		CurvestETHpoolyVault -> CRV;
+		CurvestETHpoolyVault -> LDO; 
+		LDO -> CurvestETHpool2
+		CRV -> CurvestETHpool2;
+		CurvestETHpool2 -> CurvestETHpoolyVault
+	}
+}
