@@ -2,6 +2,6 @@
   "$schema": "strategy",
   "name": "StrategyLenderYieldOptimiser",
   "description": "Lends {{token}} on AAVE to gain interest and accumulate staked AAVE as rewards. When the staked AAVE unlocks the AAVE will be harvested, sold for more {{token}}, and re-deposited into the vault.",
-  "addresses": ["0xeE697232DF2226c9fB3F02a57062c4208f287851","0x2f87c5e8396F0C41b86aad4F3C8358aB21681952","0x5e882c9f00209315e049B885B9b3dfbEe60D80A4"],
+  "addresses": ["0x2f87c5e8396F0C41b86aad4F3C8358aB21681952","0x5e882c9f00209315e049B885B9b3dfbEe60D80A4"],
   "authors": []
 }
