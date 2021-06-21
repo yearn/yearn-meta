@@ -1,0 +1,30 @@
+// Inspired by https://i.imgur.com/giRJijl.jpg by https://twitter.com/gabrielhaines
+
+digraph strategy {
+	node[shape=none, fontname="sans-serif"];
+
+	node[group=tokens, height=1.35, imagepos="tc", labelloc="b"]
+	DAI[token="0x6B175474E89094C44Da98b954EedeAC495271d0F", label="DAI"];
+	DAIyvVault[token="0xACd43E627e64355f1861cEC6d3a6688B31a6F952", label="yvDAI"];
+	Curve3pool[token="0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490", label="3Crv"];
+	Curve3poolVault[token="0x9cA85572E6A3EbF24dEDd195623F188735A5179f", label="yvCurve-3pool"];
+	CRV[token="0xD533a949740bb3306d119CC777fa900bA034cd52", label="CRV"];
+	Curve3pool2[token="0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490", label="3Crv"];
+
+	node[group=descriptions, height=1, labelloc="c"];
+	DAIyvVault_desc[label="yvDAI deposits DAI into the 3Pool on Curve.fi."];
+	{rank = same; DAIyvVault_desc; Curve3pool;}
+	Curve3poolVault_desc[label="The 3Crv tokens are then deposited into the Curve 3Pool yVault."];
+	{rank = same; Curve3poolVault_desc; Curve3poolVault;}
+	CRV_desc[label="CRV is then sold for more 3crv and deposited into the Curve 3Pool yVault"];
+	{rank = same; CRV_desc; CRV;}
+
+	subgraph connections {
+		DAI -> DAIyvVault;
+		DAIyvVault -> Curve3pool
+		Curve3pool -> Curve3poolVault;
+		Curve3poolVault -> CRV;
+		CRV -> Curve3pool2;
+		Curve3pool2 -> Curve3poolVault
+	}
+}
