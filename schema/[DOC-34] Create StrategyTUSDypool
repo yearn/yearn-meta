@@ -1,0 +1,30 @@
+// Inspired by https://i.imgur.com/giRJijl.jpg by https://twitter.com/gabrielhaines
+
+digraph strategy {
+	node[shape=none, fontname="sans-serif"];
+
+	node[group=tokens, height=1.35, imagepos="tc", labelloc="b"]
+	TUSD[token="0x0000000000085d4780B73119b644AE5ecd22b376", label="TUSD"];
+	TUSDyvVault[token="0x37d19d1c4E1fa9DC47bD1eA12f742a0887eDa74a", label="yvTUSD"];
+	CurveYpool[token="0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8", label="yCRV"];
+	CurveYpoolVault[token="0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c", label="yUSD"];
+	CRV[token="0xD533a949740bb3306d119CC777fa900bA034cd52", label="CRV"];
+	CurveYpool2[token="0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8", label="yCrv"];
+
+	node[group=descriptions, height=1, labelloc="c"];
+	TUSDyvVault_desc[label="yvTUSD deposits TUSD into the YPool on Curve.fi."];
+	{rank = same; TUSDyvVault_desc; CurveYpool;}
+	CurveYpoolVault_desc[label="The yCrv tokens are then deposited into the Curve YPool yVault."];
+	{rank = same; CurveYpoolVault_desc; CurveYpoolVault;}
+	CRV_desc[label="Farmed CRV is then sold for more yCRV and deposited into the Curve YPool yVault"];
+	{rank = same; CRV_desc; CRV;}
+
+	subgraph connections {
+		TUSD -> TUSDyvVault;
+		TUSDyvVault -> CurveYpool
+		CurveYpool -> CurveYpoolVault;
+		CurveYpoolVault -> CRV;
+		CRV -> CurveYpool2;
+		CurveYpool2 -> CurveYpoolVault
+	}
+}
