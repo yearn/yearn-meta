@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "mUSD Curve Strategy",
-  "description": "This vault deposits {{token}} into the mUSD/3Crv pool on Curve.fi. The crvMUSD is then deposited into the Curve mUSD Pool yVault.",
-  "addresses": ["0x6f1EbF5BBc5e32fffB6B3d237C3564C15134B8cF"],
-  "authors": [{ "name": "orbxball", "uri": "https://twitter.com/orbxball" }]
-}

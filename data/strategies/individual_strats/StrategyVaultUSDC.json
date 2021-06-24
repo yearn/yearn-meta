@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "aLink Borrow Strategy",
-  "description": "This vault deposits aLINK as collateral on Aave to borrow USDC. The USDC is deposited into the v1 USDC yVault. Profits are harvested and used to buy additional LINK, supplied as collateral on Aave in exchange for aLINK and re-deposited into the vault.",
+  "description": "This vault deposits {{token}} as collateral on Aave to borrow USDC. The USDC is deposited into the v1 USDC yVault. Profits are harvested and used to buy additional underlying tokens, supplied as collateral on Aave in exchange for {{token}} and re-deposited into the vault.",
   "addresses": ["0x25fAcA21dd2Ad7eDB3a027d543e617496820d8d6"],
   "authors": [
     { "name": "Andre Cronje", "uri": "https://twitter.com/AndreCronjeTech" }
