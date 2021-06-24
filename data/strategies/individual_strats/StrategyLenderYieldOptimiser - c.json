@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
-  "name": "Cream Lender Optimizer",
-  "description": "This strategy lends {{token}} tokens on Cream to gain yield.",
+  "name": "C.R.E.A.M. Lender Optimizer",
+  "description": "This strategy lends {{token}} tokens on C.R.E.A.M. to gain yield.",
   "addresses": ["0x328C39cD6cFD7DA6E64a5efdEF23CD63892f76A0","0x6a97FC93e39b3f792f1fD6e01565ff412B002D20","0x86eD4F77d40182b8686a25e125FB3f5a04203CaA"],
   "authors": []
 }

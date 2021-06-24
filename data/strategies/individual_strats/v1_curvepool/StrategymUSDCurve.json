@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "mUSD Curve Strategy",
-  "description": "This vault deposits {{token}} into the mUSD/3Crv on [Curve Finance](https://www.curve.fi/3pool/deposit). The mUSD/3Crv liquidity provider tokens are then deposited into the Curve mUSD/3Crv yVault.",
+  "description": "This vault deposits {{token}} into the [mUSD/3Crv](https://www.curve.fi/3pool/deposit) on Curve Finance. The mUSD/3Crv liquidity provider tokens are then deposited into the Curve mUSD/3Crv yVault.",
   "addresses": ["0x6f1EbF5BBc5e32fffB6B3d237C3564C15134B8cF"],
   "authors": [{ "name": "orbxball", "uri": "https://twitter.com/orbxball" }]
 }

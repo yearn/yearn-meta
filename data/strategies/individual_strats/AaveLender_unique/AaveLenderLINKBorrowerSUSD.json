@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "Aave Borrow sUSD Strategy",
-  "description": "Lends {{token}} on AAVE to gain interest and accumulate staked AAVE as rewards. Also borrows sUSD which it then deposits into the sUSD yVault for yield. Rewards from vested AAVE and yvSUSD are harvested, sold for more {{token}}, and re-deposited into the vault.",
+  "description": "Lends {{token}} on [AAVE](https://app.aave.com/home) to gain interest and accumulate staked AAVE as rewards. Also borrows sUSD which it then deposits into the sUSD yVault for yield. Rewards from vested AAVE and yvSUSD are harvested, sold for more {{token}}, and re-deposited into the vault.",
   "addresses": ["0x906f0a6f23e7160eB0927B0903ab80b5E3f3950D"],
   "authors": []
 }

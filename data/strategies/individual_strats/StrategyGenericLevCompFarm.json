@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "Compound Leverage Strategy",
-  "description": "Supplies {{token}} on Compound and borrows an additional amount of {{token}} to maximize COMP farming. Flashloans are used to obtain additional {{token}} from dYdX in order to gain additional leverage and boost the APY. Earned COMP is harvested and sold for more {{token}} and re-deposited into the vault.",
+  "description": "Supplies {{token}} on [Compound Finance](https://app.compound.finance/) and borrows an additional amount of {{token}} to maximize COMP farming. Flashloans are used to obtain additional {{token}} from dYdX in order to gain additional leverage and boost the APY. Earned COMP is harvested and sold for more {{token}} and re-deposited into the vault.",
   "addresses": ["0x4031afd3B0F71Bace9181E554A9E680Ee4AbE7dF","0x4d7d4485fd600c61d840ccbec328bfd76a050f87"],
   "authors": []
 }

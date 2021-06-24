@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "Mushroom Finance wBTC Strategy",
-  "description": "Supplies {{token}} to Mushroom Finance’s {{token}} Vault then to the wBTC Farm to earn MM. MM are harvested, sold for more {{token}}, and re-deposited into the vault.",
+  "description": "Supplies {{token}} to [Mushroom Finance’s](https://mushrooms.finance/) {{token}} Vault then to the {{token}} Farm to earn MM. MM are harvested, sold for more {{token}}, and re-deposited into the vault.",
   "addresses": ["0x53a65c8e238915c79a1e5C366Bc133162DBeE34f"],
   "authors": []
 }

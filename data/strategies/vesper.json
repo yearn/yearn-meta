@@ -1,7 +1,7 @@
 {
     "$schema": "strategy",
     "name": "Vesper Strategy",
-    "description": "Supplies {{token}} to Vesper Finance {{token}} Pool to farm VSP. Rewards are harvested, sold for more {{token}}, and re-deposited into the vault.",
+    "description": "Supplies {{token}} to [Vesper Finance](https://vesper.finance/) {{token}} Pool to farm VSP. Rewards are harvested, sold for more {{token}}, and re-deposited into the vault.",
     "addresses": [
         "0x8198815871a45A5a883d083B7B105927eb9919D8",
         "0x416647Ddee169156878DC46CD565dee99413c262"

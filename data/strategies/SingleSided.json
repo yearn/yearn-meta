@@ -1,7 +1,7 @@
 {
     "$schema": "strategy",
     "name": "Single Sided Strategy",
-    "description": "Deposits {{token}} to a {{token}} Curve Pool on curve.fi and switches to the most profitable curve pool.",
+    "description": "Deposits {{token}} to a {{token}} Curve Pool on [Curve Finance](https://curve.fi/) and switches to the most profitable curve pool.",
     "addresses": [
       "0x2E1ad896D3082C52A5AE7Af307131DE7a37a46a0",
       "0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36",

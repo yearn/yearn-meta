@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "3pool Strategy",
-  "description": "This vault deposits {{token}} into the 3Pool on [Curve Finance](https://www.curve.fi/3pool/deposit). The 3Crv liquidity provider tokens are then deposited into the Curve 3Pool yVault.",
+  "description": "This vault deposits {{token}} into the [3Pool](https://www.curve.fi/3pool/deposit) on Curve Finance. The 3Crv liquidity provider tokens are then deposited into the Curve 3Pool yVault.",
   "addresses": ["0x9c211BFa6DC329C5E757A223Fb72F5481D676DC1"],
   "authors": []
 }

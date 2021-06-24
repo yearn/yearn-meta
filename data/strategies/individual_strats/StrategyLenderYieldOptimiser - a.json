@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "Aave Lender Optimizer",
-  "description": "Lends {{token}} on AAVE to gain interest and accumulate staked AAVE as rewards. When the staked AAVE unlocks the AAVE will be harvested, sold for more {{token}}, and re-deposited into the vault.",
+  "description": "Lends {{token}} on [AAVE](https://app.aave.com/home) to gain interest and accumulate staked AAVE as rewards. When the staked AAVE unlocks the AAVE will be harvested, sold for more {{token}}, and re-deposited into the vault.",
   "addresses": ["0x2f87c5e8396F0C41b86aad4F3C8358aB21681952","0x5e882c9f00209315e049B885B9b3dfbEe60D80A4"],
   "authors": []
 }

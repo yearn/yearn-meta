@@ -1,7 +1,7 @@
 {
     "$schema": "strategy",
     "name": "Maker Delegate Strategy",
-    "description": "Locks {{token}} in a MakerDAO vault and mints DAI. This newly minted DAI is then deposited into the v2 DAI yVault to earn yield.",
+    "description": "Locks {{token}} in a [MakerDAO](https://cdp.makerdao.com/) vault and mints DAI. This newly minted DAI is then deposited into the v2 DAI yVault to earn yield.",
     "addresses": [
         "0x04A508664B053E0A08d5386303E649925CBF763c",
         "0x9Ae0B9a67cF5D603847980D95Ad4D45b57Ff7783",

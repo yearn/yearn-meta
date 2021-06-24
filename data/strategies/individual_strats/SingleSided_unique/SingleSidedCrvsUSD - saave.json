@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "sUSD sAAVE Curve Pool Strategy",
-  "description": "Deposits sUSD to the SAAVE curve pool on curve.fi. Rewards are harvested, sold for more sUSD, and re-deposited into the vault.",
+  "description": "Deposits sUSD to the [SAAVE pool](https://curve.fi/saave/deposit) on Curve Finance. Rewards are harvested, sold for more sUSD, and re-deposited into the vault.",
   "addresses": ["0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36"],
   "authors": []
 }
