@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Vesper Wrapped BTC",
-  "description": "Supplies wBTC to Vesper Finance vWBTC Pool to farm VSP. Rewards are harvested, sold for more wBTC, and re-deposited into the vault.",
-  "addresses": ["0x416647Ddee169156878DC46CD565dee99413c262"],
-  "authors": []
-}

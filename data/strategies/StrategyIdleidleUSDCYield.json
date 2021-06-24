@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyIdleidleUSDCYield",
-  "description": "Supplies USDC on Idle.finance to farm COMP and IDLE. Rewards are harvested, sold for more USDC, and re-deposited into the vault.",
-  "addresses": ["0x414D8F5c21dAF33105eE6416bcdA99a50A47C0e5"],
-  "authors": []
-}

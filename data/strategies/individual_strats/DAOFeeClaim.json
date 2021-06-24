@@ -1,0 +1,12 @@
+{
+  "$schema": "strategy",
+  "name": "Curve DAO Fee Claim Strategy",
+  "description": "This vault converts your CRV into yveCRV, earning you a continuous share of Curve fees. The more converted, the greater the rewards. Every Friday, these can be claimed from the vault as 3Crv (Curve's 3pool LP token).",
+  "addresses": [],
+  "authors": [
+    {
+      "name": "Andre Cronje",
+      "uri": "https://twitter.com/AndreCronjeTech"
+    }
+  ]
+}

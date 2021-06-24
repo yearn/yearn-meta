@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "CurveoBTC/sbtcCRVVoterProxy",
-  "description": "This vault accepts deposits of [oBTC/sbtcCRV](https://etherscan.io/address/0x2fE94ea3d5d4a175184081439753DE15AeF9d614) tokens obtained by supplying either oBTC, renBTC, wBTC or sBTC to the liquidity pool on Curve [here](https://www.curve.fi/obtc/deposit). oBTC/sbtcCRV tokens are staked in the gauge on Curve to earn CRV and [BOR](https://www.coingecko.com/en/coins/boringdao). Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more oBTC/sbtcCRV.",
-  "addresses": ["0x24579b82E06aBe25C8ffC4Ee6C2dB676e57F1a32"],
-  "authors": []
-}

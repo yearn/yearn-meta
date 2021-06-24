@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyConvexIronBank",
-  "description": "Supplies ib3CRV to Convex Finance to earn CRV and farm CVX. Rewards are harvested, sold for more ib3CRV, and deposited back into the vault.",
-  "addresses": ["0x864F408B422B7d33416AC678b1a1A7E6fbcF5C8c"],
-  "authors": []
-}

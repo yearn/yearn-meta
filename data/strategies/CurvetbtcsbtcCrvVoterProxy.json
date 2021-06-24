@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Curvetbtc/sbtcCrvVoterProxy",
-  "description": "This vault accepts deposits of [tBTC/sbtcCrv](https://etherscan.io/address/0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd) tokens obtained by supplying either tBTC, renBTC, wBTC or sBTC to the liquidity pool on Curve [here](https://www.curve.fi/tbtc/deposit). tBTC/sbtcCrv tokens are staked in the gauge on Curve to earn CRV. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more tBTC/sbtcCrv.",
-  "addresses": ["0x92D03B12E5f67b0df3B50c7c01c141Bf4BD98eA6"],
-  "authors": []
-}

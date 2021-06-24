@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyCurveEcrvVoterProxy",
-  "description": "This vault accepts deposits of [eCRV](https://etherscan.io/address/0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c) tokens obtained by supplying either ETH or sETH to the liquidity pool on Curve [here](https://www.curve.fi/seth/deposit). eCRV tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more eCRV.",
-  "addresses": ["0xB5F6747147990c4ddCeBbd0d4ef25461a967D079"],
-  "authors": []
-}

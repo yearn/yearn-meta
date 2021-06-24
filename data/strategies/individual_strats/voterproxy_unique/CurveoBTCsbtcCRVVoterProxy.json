@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Curve Boosts oBTC Strategy",
+  "description": "This vault takes your deposited token and turns it into {{token}} by supplying liquidity on [Curve Finance](https://curve.fi/). {{token}} tokens are then staked in the gauge on Curve to earn BOR and enhanced CRV rewards thanks to Yearn's [locked CRV boosts](https://resources.curve.fi/guides/boosting-your-crv-rewards). Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more {{token}} tokens.",
+  "addresses": ["0x24579b82E06aBe25C8ffC4Ee6C2dB676e57F1a32"],
+  "authors": []
+}

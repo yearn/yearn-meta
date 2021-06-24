@@ -1,0 +1,9 @@
+{
+  "$schema": "strategy",
+  "name": "Iron Bank Lending Compound Strategy",
+  "description": "Supplies {{token}} on Compound and opens a long-term debt for an additional amount of {{token}} from Ironbank without the need for collateral, to maximize COMP farming. Earned COMP is harvested and sold for more {{token}} and re-deposited into the vault.",
+  "addresses": ["0x77b7CD137Dd9d94e7056f78308D7F65D2Ce68910","0xE68A8565B4F837BDa10e2e917BFAaa562e1cD143"],
+  "authors": [
+    { "name": "Sam Priestley", "uri": "https://twitter.com/arbingsam" }
+  ]
+}

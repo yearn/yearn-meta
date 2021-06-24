@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "CurveFRAX3CRV-fVoterProxy",
-  "description": "This vault accepts deposits of [FRAX3CRV-f](https://etherscan.io/address/0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B) tokens obtained by supplying either FRAX, DAI, USDC, or USDT to the liquidity pool on Curve [here](https://www.curve.fi/frax/deposit). FRAX3CRV-f tokens are staked in the gauge on Curve to earn CRV and [FXS](https://www.coingecko.com/en/coins/frax-share) rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more FRAX3CRV-f.",
-  "addresses": ["0xb622F17e1ba8C51b9BD760Fb37994a55b1e5CD85"],
-  "authors": []
-}

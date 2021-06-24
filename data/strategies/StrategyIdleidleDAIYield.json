@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyIdleidleDAIYield",
-  "description": "Supplies DAI to idle.finance to farm COMP and IDLE. Rewards are harvested, sold for more DAI, and deposited back to the vault.",
-  "addresses": ["0x9b8F90078E74AcaD449798554f1bE3F4157C932D"],
-  "authors": []
-}

@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyCurveIBVoterProxy",
-  "description": "This vault accepts deposits of [ib3CRV](https://etherscan.io/address/0x5282a4eF67D9C33135340fB3289cc1711c13638C) tokens obtained by supplying either cyDAI, cyUSDC, or cyUSDT to the liquidity pool on Curve [here](https://www.curve.fi/ib/deposit) in exchange for ib3CRV tokens. ib3CRV are staked in the gauge on Curve Finance to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more ib3CRV.",
-  "addresses": ["0x5148C3124B42e73CA4e15EEd1B304DB59E0F2AF7"],
-  "authors": []
-}

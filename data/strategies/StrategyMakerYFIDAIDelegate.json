@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyMakerYFIDAIDelegate",
-  "description": "Locks YFI at MakerDAO via YFI-A to mint DAI. The newly minted DAI is then deposited into the v2 DAI yVault to earn yield.",
-  "addresses": ["0x4730D10703155Ef4a448B17b0eaf3468fD4fb02d"],
-  "authors": []
-}

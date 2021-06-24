@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Convex pBTC/sBTC Strategy",
+  "description": "Supplies {{token}} to Convex Finance to earn PNT, CRV and CVX. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
+  "addresses": ["0x7b5cb4694b0A299ED2F65db7d87B286461549e84"],
+  "authors": []
+}

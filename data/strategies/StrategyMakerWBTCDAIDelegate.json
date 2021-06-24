@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyMakerWBTCDAIDelegate",
-  "description": "Locks wBTC at MakerDAO via WBTC-A to mint DAI. This newly minted DAI is then deposited into the v2 DAI yVault.",
-  "addresses": ["0x04A508664B053E0A08d5386303E649925CBF763c"],
-  "authors": []
-}

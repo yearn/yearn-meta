@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Convex a3CRV Strategy",
+  "description": "Supplies {{token}} to Convex Finance to earn stkAAVE, CRV and CVX. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
+  "addresses": ["0xAC4AE0B06C913dF4608dB60E2571a8e91b74C619"],
+  "authors": []
+}

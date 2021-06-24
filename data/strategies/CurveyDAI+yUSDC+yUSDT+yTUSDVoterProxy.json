@@ -1,8 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "CurveyDAI+yUSDC+yUSDT+yTUSDVoterProxy",
-  "description": "This vault accepts deposits of [yDAI+yUSDC+yUSDT+yTUSD](https://etherscan.io/address/0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8) tokens obtained by supplying DAI, USDC, USDT, or TUSD (or their wrapped versions from [yEarn: y.curve.fi](https://v1.yearn.finance/earn)) to the liquidity pool on Curve [here](https://curve.fi/iearn/deposit). yDAI+yUSDC+yUSDT+yTUSD tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more yDAI+yUSDC+yUSDT+yTUSD.",
-  "addresses": ["0x6d45c5a8C1cF1f77Ab89cAF8D44917730298bab7"],
-  "authors": []
-}
-  

@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Idle RAI Strategy",
+  "description": "Supplies {{token}} on Idle.finance to farm IDLE and RAI. Rewards are harvested, sold for more RAI, and re-deposited into the vault.",
+  "addresses": ["0x5D411D2cde10e138d68517c42bE2808C90c22026"],
+  "authors": []
+}

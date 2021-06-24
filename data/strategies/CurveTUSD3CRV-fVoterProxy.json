@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "CurveTUSD3CRV-fVoterProxy",
-  "description": "This vault accepts deposits of [TUSD3CRV-f](https://etherscan.io/address/0xecd5e75afb02efa118af914515d6521aabd189f1) tokens obtained by supplying either DAI, USDC, USDT, (or their wrapped version: 3CRV), or TUSD to the liquidity pool on Curve [here](https://curve.fi/tusd/deposit). TUSD3CRV-f tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more TUSD3CRV-f.",
-  "addresses": ["0xE7C32D413341bfc84BB58492BEA8a69e8D06E0b4"],
-  "authors": []
-}

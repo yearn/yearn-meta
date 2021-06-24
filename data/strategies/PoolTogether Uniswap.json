@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "PoolTogether Uniswap",
-  "description": "Supplies UNI to the PoolTogether protocol to earn POOL. Rewards are harvested, sold for more UNI, and deposited back into the vault. If it gets the prize of the week it will also be added to the vault.",
-  "addresses": ["0x6EB00860260CF51623737e17579Db797d71cd337"],
-  "authors": []
-}

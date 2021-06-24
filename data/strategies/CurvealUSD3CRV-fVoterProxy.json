@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "CurvealUSD3CRV-fVoterProxy",
-  "description": "This vault accepts deposits of [alUSD3CRV-f](https://etherscan.io/address/0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c) tokens obtained supplying either DAI, USDC, USDT (or their wrapped version: 3crv), or alUSD to the liquidity pool on Curve [here](https://curve.fi/alusd/deposit). alUSD3CRV-f tokens are staked in the gauge on Curve to earn CRV and [ALCX](https://www.coingecko.com/en/coins/alchemix) rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more alUSD3CRV-f.",
-  "addresses": ["0x31CD90D60516ED18750bA49b2C9d1053190F40d9"],
-  "authors": []
-}

@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "CurveeursCRVVoterProxy",
-  "description": "This vault accepts deposits of eursCRV tokens obtained supplying either EURs or sEUR to the liquidity pool on Curve here. eursCRV tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more eursCRV.",
-  "addresses": ["0x53cE22d5b4F667eC73710d428E828Cd96E9a37C9"],
-  "authors": []
-}

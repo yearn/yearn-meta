@@ -1,0 +1,11 @@
+{
+    "$schema": "strategy",
+    "name": "3pool Strategy",
+    "description": "This vault deposits {{token}} into the 3pool on Curve.fi. The 3Crv tokens are then deposited into the Curve 3Pool yVault.",
+    "addresses": [
+        "0x4720515963A9d40ca10B1aDE806C1291E6c9A86d",
+        "0xc7e437033D849474074429Cbe8077c971Ea2a852"
+    ],
+    "authors": [{ "name": "orbxball", "uri": "https://twitter.com/orbxball" }]
+  }
+  

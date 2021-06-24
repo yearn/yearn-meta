@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyDAI3pool",
-  "description": "This vault deposits DAI into the 3Pool on Curve [here](https://www.curve.fi/3pool/deposit). The 3Crv tokens are then deposited into the Curve 3Pool yVault.",
-  "addresses": ["0x9c211BFa6DC329C5E757A223Fb72F5481D676DC1"],
-  "authors": []
-}

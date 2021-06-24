@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyRook Dai Stablecoin",
-  "description": "Supplies DAI to KeeperDAO to farm ROOK. Rewards are harvested, sold for more DAI, and deposited back into the vault.",
-  "addresses": ["0xb374387a340e6aA7d78385C4a4aaC6b425A685B0"],
-  "authors": []
-}

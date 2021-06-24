@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyAH2EarncyUSDC",
-  "description": "Lends USDC on Alpha Homora v2 to generate interest.",
-  "addresses": ["0x86Aa49bf28d03B1A4aBEb83872cFC13c89eB4beD"],
-  "authors": [{ "name": "Sam Priestley", "uri": "https://twitter.com/arbingsam" }]
-}

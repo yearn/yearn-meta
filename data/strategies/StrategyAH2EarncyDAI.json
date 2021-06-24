@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyAH2EarncyDAI",
-  "description": "Lends DAI on Alpha Homora v2 to generate interest.",
-  "addresses": ["0x7D960F3313f3cB1BBB6BF67419d303597F3E2Fa8"],
-  "authors": [{ "name": "Sam Priestley", "uri": "https://twitter.com/arbingsam" }]
-}
