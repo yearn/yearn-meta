@@ -1,7 +1,7 @@
 {
     "$schema": "strategy",
     "name": "Rook Reward Strategy",
-    "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com/) to farm ROOK. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
+    "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com/) to earn ROOK. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
     "addresses": [
         "0x2B1a6CB0168aA540ee8D853aB1d10d7A89d6351b",
         "0xB361a3E75Bc2Ae6c8A045b3A43E2B0c9aD890d48",
