@@ -1,6 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyDAI3Pool",
-  "description": "This vault deposits DAI into the 3Pool on Curve.fi. The 3Crv tokens are then deposited into the Curve 3Pool yVault.",
-  "authors": [{ "name": "orbxball", "uri": "https://twitter.com/orbxball" }]
-}
