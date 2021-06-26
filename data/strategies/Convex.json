@@ -1,6 +1,6 @@
 {
     "$schema": "strategy",
-    "name": "Convex",
+    "name": "Convex Strategy",
     "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn CRV and CVX. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
     "addresses": [
         "0x864F408B422B7d33416AC678b1a1A7E6fbcF5C8c",
