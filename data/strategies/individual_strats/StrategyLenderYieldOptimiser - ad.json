@@ -1,7 +1,7 @@
 {
     "$schema": "strategy",
     "name": "dYdX / C.R.E.A.M. Lender Optimizer",
-    "description": "Splits lending {{token}} between [dYdX](https://margin.dydx.exchange/markets/overview) and [C.R.E.A.M.](https://app.cream.finance/) to gain interest. The proportions are adjusted each time the strategy calls harvest.",
+    "description": "Supplies {{token}} to [dYdX](https://margin.dydx.exchange/markets/overview) and [C.R.E.A.M.](https://app.cream.finance) to generate interest. The proportions are adjusted each time the strategy calls harvest.",
     "addresses": ["0x32b8C26d0439e1959CEa6262CBabC12320b384c4"],
     "authors": []
 }

@@ -1,7 +1,7 @@
 {
     "$schema": "strategy",
     "name": "Aave / C.R.E.A.M. Lender Optimizer",
-    "description": "Lends {{token}} on [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to gain interest and accumulate staked AAVE as rewards. When the staked AAVE unlocks the AAVE will be harvested, sold for more {{token}}, and re-deposited into the vault.",
+    "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": [
         "0x215DeE632335829155Dcb62452c4878C48c1C884",
         "0xe9bD008A97e362F7C501F6F5532A348d2e6B8131",
