@@ -1,7 +1,7 @@
 {
-  "$schema": "strategy",
-  "name": "Curve Boosts ANKR Strategy",
-  "description": "This vault takes your deposited token and turns it into {{token}} by supplying liquidity on [Curve Finance](https://curve.fi/). {{token}} tokens are then staked in the gauge on Curve to earn ANKR, ONX and enhanced CRV rewards thanks to Yearn's [locked CRV boosts](https://resources.curve.fi/guides/boosting-your-crv-rewards). Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more {{token}} tokens.",
-  "addresses": ["0x32EF165F2ABbdbE7dcC25B86EdB14a2C0dc52571"],
-  "authors": []
+    "$schema": "strategy",
+    "name": "Curve Boosts ANKR Strategy",
+    "description": "This vault takes your deposited token and turns it into {{token}} by supplying liquidity on [Curve Finance](https://curve.fi/). {{token}} tokens are then staked in the gauge on Curve to earn ANKR, ONX and enhanced CRV rewards thanks to Yearn's [locked CRV boosts](https://resources.curve.fi/guides/boosting-your-crv-rewards). Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more {{token}} tokens.",
+    "addresses": ["0x32EF165F2ABbdbE7dcC25B86EdB14a2C0dc52571"],
+    "authors": []
 }

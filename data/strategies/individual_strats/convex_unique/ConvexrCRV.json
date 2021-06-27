@@ -1,7 +1,7 @@
 {
-  "$schema": "strategy",
-  "name": "Convex rCRV Strategy",
-  "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn FIS, CRV and CVX. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
-  "addresses": ["0x8E4AA2E00694Adaf37f0311651262671f4d7Ac16"],
-  "authors": []
+    "$schema": "strategy",
+    "name": "Convex rCRV Strategy",
+    "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn FIS, CRV and CVX. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
+    "addresses": ["0x8E4AA2E00694Adaf37f0311651262671f4d7Ac16"],
+    "authors": []
 }

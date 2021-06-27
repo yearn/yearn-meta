@@ -1,7 +1,7 @@
 {
-  "$schema": "strategy",
-  "name": "sUSDv2 Curve Pool Strategy",
-  "description": "Deposits sUSD to the [SUSDv2 pool](https://curve.fi/susdv2) on Curve Finance. Rewards are harvested, sold for more sUSD, and re-deposited into the vault.",
-  "addresses": ["0x95eA1643699F8DE347975F31CA8d03eCC507616c"],
-  "authors": []
+    "$schema": "strategy",
+    "name": "sUSDv2 Curve Pool Strategy",
+    "description": "Deposits sUSD to the [SUSDv2 pool](https://curve.fi/susdv2) on Curve Finance. Rewards are harvested, sold for more sUSD, and re-deposited into the vault.",
+    "addresses": ["0x95eA1643699F8DE347975F31CA8d03eCC507616c"],
+    "authors": []
 }

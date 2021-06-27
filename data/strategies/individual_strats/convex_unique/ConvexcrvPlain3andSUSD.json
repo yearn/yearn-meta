@@ -1,7 +1,7 @@
 {
-  "$schema": "strategy",
-  "name": "Convex sUSD Strategy",
-  "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn SNX, CRV and CVX. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
-  "addresses": ["0xFA773b91b59B0895877c769000b9824b46b13a20"],
-  "authors": []
+    "$schema": "strategy",
+    "name": "Convex sUSD Strategy",
+    "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn SNX, CRV and CVX. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
+    "addresses": ["0xFA773b91b59B0895877c769000b9824b46b13a20"],
+    "authors": []
 }

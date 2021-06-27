@@ -1,7 +1,7 @@
 {
-  "$schema": "strategy",
-  "name": "Aave Borrow USDT Strategy",
-  "description": "Lends {{token}} on [AAVE](https://app.aave.com/home) to gain interest and accumulate staked AAVE as rewards. Also borrows USDT which it then deposits into the USDT yVault for yield. Rewards from vested AAVE and yvUSDT are harvested, sold for more {{token}}, and re-deposited into the vault.",
-  "addresses": ["0xd28b508EA08f14A473a5F332631eA1972cFd7cC0"],
-  "authors": []
+    "$schema": "strategy",
+    "name": "Aave Borrow USDT Strategy",
+    "description": "Lends {{token}} on [AAVE](https://app.aave.com/home) to gain interest and accumulate staked AAVE as rewards. Also borrows USDT which it then deposits into the USDT yVault for yield. Rewards from vested AAVE and yvUSDT are harvested, sold for more {{token}}, and re-deposited into the vault.",
+    "addresses": ["0xd28b508EA08f14A473a5F332631eA1972cFd7cC0"],
+    "authors": []
 }

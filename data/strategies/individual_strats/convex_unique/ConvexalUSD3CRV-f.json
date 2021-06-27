@@ -1,7 +1,7 @@
 {
-  "$schema": "strategy",
-  "name": "Convex alUSD 3CRV Strategy",
-  "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn ALCX, CRV and CVX. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
-  "addresses": ["0xf8Fb278DeeaF30Ff3F6326d928A61eA8b9397d16"],
-  "authors": []
+    "$schema": "strategy",
+    "name": "Convex alUSD 3CRV Strategy",
+    "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn ALCX, CRV and CVX. Rewards are harvested, sold for more {{token}}, and deposited back into the vault.",
+    "addresses": ["0xf8Fb278DeeaF30Ff3F6326d928A61eA8b9397d16"],
+    "authors": []
 }
