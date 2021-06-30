@@ -1,7 +1,0 @@
-{
-    "$schema": "strategy",
-    "name": "sETH Single Sided Strategy",
-    "description": "Swaps sUSD for sETH then deposits sETH to the [ETH/sETH pool](https://curve.fi/seth) on Curve Finance. This strategy is subject to impermanent loss and is part of hedging the SNX vault’s incurred debt.",
-    "addresses": ["0xdB45E3a0DAE3ced82Cd1ea92F3bF9E21fbCFD8d6"],
-    "authors": []
-}
