@@ -1,7 +1,7 @@
 {
     "$schema": "strategy",
     "name": "wETH Single Sided Strategy",
-    "description": "Supplies wETH to the [stETH pool](https://www.curve.fi/steth/deposit) on Curve Finance to obtain [steCRV](https://etherscan.io/address/0x06325440D014e39736583c165C2963BA99fAf14E) tokens which it then puts into the v2 Curve stETH Pool yVault ([yvsteCRV](https://etherscan.io/address/0xdcd90c7f6324cfa40d7169ef80b12031770b4325)) to gain yield.",
+    "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV (and any other available tokens). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": [
         "0x2886971eCAF2610236b4869f58cD42c115DFb47A",
         "0xC5e385f7Dad49F230AbD53e21b06aA0fE8dA782D"
