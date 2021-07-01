@@ -1,8 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "StrategyAH2Earncy",
-  "description": "Lends {{tokens}} on Alpha Homora v2 to generate interest. Users of Alpha Homora borrow {{tokens}} to perform leveraged yield-farming on Alpha's platform.",
-  "authors": [
-    { "name": "Sam Priestley", "uri": "https://twitter.com/arbingsam" }
-  ]
-}

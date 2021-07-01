@@ -1,0 +1,10 @@
+{
+    "$schema": "strategy",
+    "name": "Curve WETH Single Sided Strategy",
+    "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV (and any other available tokens). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": [
+        "0xda988eBb26F505246C59Ba26514340B634F9a7a2",
+        "0x37770F958447fFa1571fc9624BFB3d673161f37F"
+    ],
+    "authors": []
+}

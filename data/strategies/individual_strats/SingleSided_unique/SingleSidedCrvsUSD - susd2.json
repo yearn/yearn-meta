@@ -1,0 +1,7 @@
+{
+    "$schema": "strategy",
+    "name": "sUSDv2 Curve Pool Strategy",
+    "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": ["0x95eA1643699F8DE347975F31CA8d03eCC507616c"],
+    "authors": []
+}

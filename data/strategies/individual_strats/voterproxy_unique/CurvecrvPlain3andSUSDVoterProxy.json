@@ -1,0 +1,7 @@
+{
+    "$schema": "strategy",
+    "name": "Curve Boosts sUSD Strategy",
+    "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to earn SNX and enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": ["0x9730F52AB5BcEc960bE41b0fE4913a09c0B57066"],
+    "authors": []
+}
