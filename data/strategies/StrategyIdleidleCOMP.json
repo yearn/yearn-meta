@@ -1,6 +1,6 @@
 {
     "$schema": "strategy",
-    "name": "Idle COMP Reward Strategy",
+    "name": "Idle Finance Reinvest",
     "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": [
         "0x9f51F4df0b275dfB1F74f6Db86219bAe622B36ca",

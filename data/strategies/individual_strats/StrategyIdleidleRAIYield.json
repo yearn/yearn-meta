@@ -1,6 +1,6 @@
 {
     "$schema": "strategy",
-    "name": "Idle RAI Strategy",
+    "name": "Idle Finance {{token}} Reinvest",
     "description": "Supplies {{token}} on [Idle Finance](https://idle.finance) to earn IDLE and RAI. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": ["0x5D411D2cde10e138d68517c42bE2808C90c22026"],
     "protocols": ["Idle Finance"],

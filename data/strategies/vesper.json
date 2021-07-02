@@ -1,6 +1,6 @@
 {
     "$schema": "strategy",
-    "name": "Vesper Strategy",
+    "name": "Vesper Finance Reinvest",
     "description": "Supplies {{token}} to [Vesper Finance](https://vesper.finance) to earn VSP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": [
         "0x8198815871a45A5a883d083B7B105927eb9919D8",
