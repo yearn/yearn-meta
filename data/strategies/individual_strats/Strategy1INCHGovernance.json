@@ -1,7 +1,10 @@
 {
     "$schema": "strategy",
     "name": "Governance Staking Strategy",
-    "description": "Stakes {{token}} on [1inch DAO](https://app.1inch.io/#/1/dao/governance) to collect governance rewards. Rewards are harvested and deposited back into the strategy.",
+    "description": "Stakes {{token}} on [{{protocol}}](https://app.1inch.io/#/1/dao/governance) to collect governance rewards. Rewards are harvested and deposited back into the strategy.",
     "addresses": ["0xB12F6A5776EDd2e923fD1Ce93041B2000A22dDc7"],
+    "protocol": [
+        "1inch"
+    ],
     "authors": []
 }
