@@ -29,5 +29,6 @@
         "0x94fA3A90E680f6b866545C904D1dc9DEe6416de9",
         "0x23a09D84e50fF3fDFa270308851443734b0a4b6D"
     ],
+    "protocols": ["Curve Finance"],
     "authors": []
 }

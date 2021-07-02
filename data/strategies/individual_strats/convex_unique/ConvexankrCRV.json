@@ -3,5 +3,6 @@
     "name": "Convex ANKR 3CRV Strategy",
     "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn ANKR, ONX, CRV and CVX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": ["0xB194dCFF4E11d26919Ce3B3255F69aEca5951e88"],
+    "protocol": ["Convex Finance", "Curve Finance"],
     "authors": []
 }

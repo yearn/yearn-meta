@@ -6,5 +6,6 @@
         "0x4031afd3B0F71Bace9181E554A9E680Ee4AbE7dF",
         "0x4d7d4485fd600c61d840ccbec328bfd76a050f87"
     ],
+    "protocols": ["Compound Finance", "dYdX"],
     "authors": []
 }
