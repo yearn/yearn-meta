@@ -3,5 +3,6 @@
     "name": "Curve Boosts a3CRV Strategy",
     "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to earn stkAAVE and enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": ["0xB11FC91DF59ADc604485f1B25ABa1F96A685473f"],
+    "protocols": ["Curve Finance"],
     "authors": []
 }
