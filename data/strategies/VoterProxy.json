@@ -1,6 +1,6 @@
 {
     "$schema": "strategy",
-    "name": "Curve Boosts Strategy",
+    "name": "Curve Boosties",
     "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to collect any available tokens and earn enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": [
         "0x24345144c80BC994C12d85fb276bB4c5520579Ea",
@@ -27,7 +27,13 @@
         "0x5148C3124B42e73CA4e15EEd1B304DB59E0F2AF7",
         "0x53cE22d5b4F667eC73710d428E828Cd96E9a37C9",
         "0x94fA3A90E680f6b866545C904D1dc9DEe6416de9",
-        "0x23a09D84e50fF3fDFa270308851443734b0a4b6D"
+        "0x23a09D84e50fF3fDFa270308851443734b0a4b6D",
+        "0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36",
+        "0x95eA1643699F8DE347975F31CA8d03eCC507616c",
+        "0xda988eBb26F505246C59Ba26514340B634F9a7a2",
+        "0x37770F958447fFa1571fc9624BFB3d673161f37F",
+        "0x2886971eCAF2610236b4869f58cD42c115DFb47A",
+        "0xC5e385f7Dad49F230AbD53e21b06aA0fE8dA782D"
     ],
     "protocols": ["Curve Finance"],
     "authors": []

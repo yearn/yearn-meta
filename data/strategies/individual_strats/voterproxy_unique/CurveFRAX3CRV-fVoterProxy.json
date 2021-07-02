@@ -1,6 +1,6 @@
 {
     "$schema": "strategy",
-    "name": "Curve Boosts FRAX Strategy",
+    "name": "Curve FRAX Boost",
     "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to earn FRAX and enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": ["0xb622F17e1ba8C51b9BD760Fb37994a55b1e5CD85"],
     "protocols": ["Curve Finance"],
