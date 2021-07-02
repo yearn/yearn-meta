@@ -3,5 +3,6 @@
     "name": "Convex oBTC/sBTC Strategy",
     "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn BOR, CRV and CVX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": ["0xDb2D3F149270630382D4E6B4dbCd47e665D78D76"],
+    "protocols": ["Convex Finance", "Curve Finance"],
     "authors": []
 }

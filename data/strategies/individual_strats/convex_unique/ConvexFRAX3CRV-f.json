@@ -3,5 +3,6 @@
     "name": "Convex FRAX Strategy",
     "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn FXS, CRV and CVX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": ["0x8c312B63Bc4000f61E1C4df4868A3A1f09b31A73"],
+    "protocols": ["Convex Finance", "Curve Finance"],
     "authors": []
 }

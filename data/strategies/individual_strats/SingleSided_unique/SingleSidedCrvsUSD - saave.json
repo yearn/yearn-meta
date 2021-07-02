@@ -3,5 +3,6 @@
     "name": "sUSD sAAVE Curve Pool Strategy",
     "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": ["0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36"],
+    "protocols": ["Curve Finance"],
     "authors": []
 }

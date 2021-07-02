@@ -6,5 +6,6 @@
         "0xda988eBb26F505246C59Ba26514340B634F9a7a2",
         "0x37770F958447fFa1571fc9624BFB3d673161f37F"
     ],
+    "protocols": ["Curve Finance"],
     "authors": []
 }

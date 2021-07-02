@@ -30,5 +30,6 @@
         "0xCc39eC658Eedb7e44f5aeD9B5192219982D2c9e5",
         "0x8e87e65Cb28c069550012f92d5470dB6EB6897c0"
     ],
+    "protocols": ["Convex Finance", "Curve Finance"],
     "authors": []
 }
