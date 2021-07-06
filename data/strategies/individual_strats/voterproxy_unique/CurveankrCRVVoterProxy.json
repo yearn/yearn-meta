@@ -1,8 +1,0 @@
-{
-    "$schema": "strategy",
-    "name": "Curve {{token}} Boost",
-    "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn ANKR, ONX and enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-    "addresses": ["0x32EF165F2ABbdbE7dcC25B86EdB14a2C0dc52571"],
-    "protocols": ["Curve Finance"],
-    "authors": []
-}
