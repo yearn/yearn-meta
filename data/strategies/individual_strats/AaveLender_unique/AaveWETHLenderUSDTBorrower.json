@@ -1,8 +1,0 @@
-{
-    "$schema": "strategy",
-    "name": "Aave {{token}} Borrow",
-    "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. This strategy also borrows tokens against {{token}}. Borrowed tokens are then deposited into corresponding yVault to generate yield.",
-    "addresses": ["0xd28b508EA08f14A473a5F332631eA1972cFd7cC0"],
-    "protocols": ["Aave"],
-    "authors": []
-}

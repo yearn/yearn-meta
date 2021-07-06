@@ -1,8 +1,0 @@
-{
-    "$schema": "strategy",
-    "name": "Curve {{token}} Boost",
-    "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to earn BOR and enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-    "addresses": ["0x24579b82E06aBe25C8ffC4Ee6C2dB676e57F1a32"],
-    "protocols": ["Curve Finance"],
-    "authors": []
-}
