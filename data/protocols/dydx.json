@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "dYdX",
+    "description": "dYdX is a protocol that consists of an assortment of financial instruments from lending pools to flash loans and futures products."
+}
