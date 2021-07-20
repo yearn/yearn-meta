@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "MakerDAO",
+    "description": "MakerDAO is a protocol that governs the minting of DAI stablecoins. It enables users to deposit assets and take an over-collateralized loan in the form of DAI."
+}
