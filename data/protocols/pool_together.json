@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Pool Together",
+    "description": "PoolTogether is a no loss lottery. It accepts deposits and seeks yield from various protocols, but instead of returning yield proportionally, everything that the pool has earned over a certain period is distributed to a randomized winner."
+}
