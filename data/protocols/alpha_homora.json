@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Alpha Homora",
+    "description": "The Alpha Homora protocol aggregates yield using internally sourced leverage. Depositors can lever their positions by borrowing collateral supplied by Alpha Homora lenders and boost their return."
+}
