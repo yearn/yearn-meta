@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "1inch",
+    "description": "1inch optimizes token swaps for either minimal gas cost or slippage by routing transactions through various liquidity pools or finding the single best pool."
+}
