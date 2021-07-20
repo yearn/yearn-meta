@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Iron Bank",
+    "description": "Iron Bank is a lending protocol built by C.R.E.A.M. and Yearn that allows users to deposit collateral and borrow tokens. It also offers whitelisted protocols access to uncollateralized loans."
+}
