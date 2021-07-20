@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "KeeperDAO",
+    "description": "KeeperDAO pools user funds to simultaneously earn interest from DeFi protocols and be accessible via open contracts to perform arbitrage, liquidations, and other opportunities that generate returns."
+}
