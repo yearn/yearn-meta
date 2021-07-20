@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "C.R.E.A.M. Finance",
+    "description": "C.R.E.A.M. Finance is a lending protocol that allows users to deposit collateral and borrow tokens."
+}
