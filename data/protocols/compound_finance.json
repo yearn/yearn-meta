@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Compound Finance",
+    "description": "Compound is a lending protocol that allows users to deposit collateral and borrow tokens."
+}
