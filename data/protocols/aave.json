@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Aave",
+    "description": "Aave provides a suite of money market tools including lending, borrowing, swap and flash loan functions that revolve around the Aave lending pools."
+}
