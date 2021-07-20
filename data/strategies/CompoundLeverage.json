@@ -5,7 +5,9 @@
     "addresses": [
         "0x4031afd3B0F71Bace9181E554A9E680Ee4AbE7dF",
         "0x4d7d4485fd600c61d840ccbec328bfd76a050f87",
-        "0xD8Fbdf6B01d176C2853e78c62620458ad410e41E"
+        "0xD8Fbdf6B01d176C2853e78c62620458ad410e41E",
+        "0x83B6211379c26E0bA8d01b9EcD4eE1aE915630aa",
+        "0x6341c289b2E0795A04223DF04B53A77970958723"
     ],
     "protocols": ["Compound Finance", "dYdX"],
     "authors": []
