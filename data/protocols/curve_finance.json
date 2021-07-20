@@ -1,0 +1,6 @@
+{
+    "$schema": "protocol",
+    "name": "Curve Finance",
+    "description": "Curve Finance allows low-slippage exchange between assets and their derivatives. All pools are made up of like-priced assets which allows for concentrated liquidity."
+}
+
