@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Convex Finance",
+    "description": "Convex Finance builds on top of Curve Finance by allowing users to lock CRV tokens indefinitely in return for Curve swap fees and a share of Convex depositor’s yield. This action gives Convex depositors the ability to receive boosted curve rewards without locking CRV."
+}
