@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Vesper Finance",
+    "description": "Vesper Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+}

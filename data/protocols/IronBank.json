@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Iron Bank",
+    "description": "Iron Bank is a protocol-to-protocol lending platform and liquidity backstop for the entire DeFi ecosystem. It offers whitelisted protocols access to uncollateralized loans."
+}
