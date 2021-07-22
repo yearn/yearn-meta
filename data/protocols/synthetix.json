@@ -1,5 +1,5 @@
 {
     "$schema": "protocol",
     "name": "Synthetix",
-    "description": "Synthetix is a protocol that accepts collateral and returns sUSD. sUSD can then be used to swap for any synthetic asset like stocks, commodities, and currencies with zero slippage."
+    "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
 }

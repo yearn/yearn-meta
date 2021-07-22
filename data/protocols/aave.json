@@ -1,5 +1,5 @@
 {
     "$schema": "protocol",
     "name": "Aave",
-    "description": "Aave provides a suite of money market tools including lending, borrowing, swap and flash loan functions that revolve around the Aave lending pools."
+    "description": "Aave is a decentralized money market running on the Ethereum blockchain. It helps users to lend and borrow a range of crypto assets."
 }

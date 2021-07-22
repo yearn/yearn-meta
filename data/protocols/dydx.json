@@ -1,5 +1,5 @@
 {
     "$schema": "protocol",
     "name": "dYdX",
-    "description": "dYdX is a protocol that consists of an assortment of financial instruments from lending pools to flash loans and futures products."
+    "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
 }

@@ -1,5 +1,5 @@
 {
     "$schema": "protocol",
     "name": "Mushroom Finance",
-    "description": "Mushroom Finance is a yield aggregation protocol. Users deposit money into their vaults and it optimizes returns using strategies."
+    "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
 }
