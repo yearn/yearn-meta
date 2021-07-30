@@ -48,6 +48,6 @@
     "0xebfC9451d19E8dbf36AAf547855b4dC789CA793C",
     "0x31CD90D60516ED18750bA49b2C9d1053190F40d9"
   ],
-  "protocols": ["Curve Finance"],
+  "protocols": ["CurveFinance"],
   "authors": []
 }
