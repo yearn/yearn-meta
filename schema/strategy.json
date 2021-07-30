@@ -5,6 +5,9 @@
   "description": "A Yearn strategy",
   "type": "object",
   "properties": {
+    "comment": {
+      "type": "string"
+    },
     "name": {
       "type": "string"
     },
@@ -27,10 +30,17 @@
         "required": ["name"]
       }
     },
+    "addresses": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "address"
+      }
+    },
     "media": {
       "type": "string",
       "format": "uri"
     }
   },
-  "required": ["name", "description"]
+  "required": ["name", "description", "addresses"]
 }

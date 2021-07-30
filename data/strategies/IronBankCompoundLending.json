@@ -6,6 +6,5 @@
     "0x77b7CD137Dd9d94e7056f78308D7F65D2Ce68910",
     "0xE68A8565B4F837BDa10e2e917BFAaa562e1cD143"
   ],
-  "protocols": ["CompoundFinance", "IronBank"],
-  "authors": []
+  "protocols": ["CompoundFinance", "IronBank"]
 }

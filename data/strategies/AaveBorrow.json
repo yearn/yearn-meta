@@ -7,6 +7,5 @@
     "0xd28b508EA08f14A473a5F332631eA1972cFd7cC0",
     "0xAE159E657712CC68C8A28B6749eC044a7fEABe21"
   ],
-  "protocols": ["Aave"],
-  "authors": []
+  "protocols": ["Aave"]
 }

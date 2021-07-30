@@ -43,4 +43,4 @@ jobs:
           working-directory: scripts
 
       - name: Verify data
-        run: node scripts/verify.js
+        run: node scripts/verify.mjs

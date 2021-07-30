@@ -29,10 +29,10 @@ jobs:
           working-directory: scripts
 
       - name: Verify data
-        run: node scripts/verify.js
+        run: node scripts/verify.mjs
 
       - name: Generate build artifact
-        run: node scripts/build.js
+        run: node scripts/build.mjs
 
       - name: Sync to IPFS
         id: upload
