@@ -1,31 +1,27 @@
-const fs = require("fs-extra");
-const path = require("path");
+import fs from "fs-extra";
+import path from "path";
+import { execSync } from "child_process";
 
 const IndexName = "index";
 const DataDirectory = "data";
 const SchemaDirectory = "schema";
 const OutDirectory = "build";
 
-const CustomBuildScript = "_build.js";
+const CustomBuildScript = "_build.mjs";
 
 const TrimmedExtensions = [".json"];
-const ExcludedExtensions = [".js"];
+const ExcludedExtensions = [".mjs"];
 
 function build(directory) {
   const map = { files: [], directories: [] };
   const customBuildScript = path.join(directory, CustomBuildScript);
   if (fs.existsSync(customBuildScript)) {
     try {
-      const stdout = require("child_process").execSync(
-        `node ${customBuildScript}`
-      );
+      const stdout = execSync(`node ${customBuildScript}`);
       process.stdout.write(stdout.toString());
     } catch (error) {
-      const message = error.stderr.toString();
-      console.error(
-        message ||
-          `Err: custom build script "${customBuildScript}" returned a non zero exit code`
-      );
+      process.stdout.write(error.stdout.toString());
+      process.stderr.write(error.stderr.toString());
       process.exit(error.status || 1);
     }
   }

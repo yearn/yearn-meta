@@ -1,12 +1,12 @@
-const fs = require("fs");
-const path = require("path");
+import fs from "fs-extra";
+import path from "path";
 
-const Ajv = require("ajv").default;
-const addFormats = require("ajv-formats");
+import Ajv from "ajv";
+import addFormats from "ajv-formats";
 
-const Codeowners = require("codeowners");
+import Codeowners from "codeowners";
 
-const { getAddress, isAddress } = require("@ethersproject/address");
+import { getAddress, isAddress } from "@ethersproject/address";
 
 const SchemasDirectory = "./schema/";
 const DataDirectory = "./data/";
@@ -15,7 +15,7 @@ const SchemaField = "$schema";
 const StandardExtensions = [".json"];
 
 function loadValidators(schemaDir) {
-  const ajv = new Ajv();
+  const ajv = new Ajv.default();
   addFormats(ajv);
   ajv.addFormat("address", (value) => isAddress(value));
   const validators = {};

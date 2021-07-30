@@ -9,6 +9,5 @@
     "0x83B6211379c26E0bA8d01b9EcD4eE1aE915630aa",
     "0x6341c289b2E0795A04223DF04B53A77970958723"
   ],
-  "protocols": ["CompoundFinance", "dydx"],
-  "authors": []
+  "protocols": ["CompoundFinance", "dydx"]
 }

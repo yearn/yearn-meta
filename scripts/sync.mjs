@@ -1,8 +1,8 @@
-const fs = require("fs");
-const path = require("path");
+import fs from "fs-extra";
+import path from "path";
 
-const pinata = require("@pinata/sdk");
-const Cloudflare = require("cloudflare");
+import pinata from "@pinata/sdk";
+import Cloudflare from "cloudflare";
 
 const BuildDirectory = "./build/";
 

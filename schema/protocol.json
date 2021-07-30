@@ -5,6 +5,9 @@
   "description": "A DeFi protocol",
   "type": "object",
   "properties": {
+    "comment": {
+      "type": "string"
+    },
     "name": {
       "type": "string"
     },

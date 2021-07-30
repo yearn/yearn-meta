@@ -1,5 +1,8 @@
-const fs = require("fs");
-const path = require("path");
+import fs from "fs-extra";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 for (const name of fs.readdirSync(__dirname)) {
   const file = path.join(__dirname, name);
@@ -9,11 +12,13 @@ for (const name of fs.readdirSync(__dirname)) {
     if (parse.ext === ".json") {
       const source = JSON.parse(fs.readFileSync(file));
       const addresses = source.addresses;
+
+      // const matches = [...source.description.matchAll(ReTemplate)];
+
       for (const address of addresses) {
         const copy = { ...source };
         delete copy.addresses;
-        // TODO: replace token with crToken
-        // copy.description = copy.description.replace("{{token}}", address);
+
         fs.writeFileSync(path.join(__dirname, address), JSON.stringify(copy));
       }
     }
