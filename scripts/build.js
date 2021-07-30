@@ -16,7 +16,9 @@ function build(directory) {
   const customBuildScript = path.join(directory, CustomBuildScript);
   if (fs.existsSync(customBuildScript)) {
     try {
-      const stdout = require("child_process").execSync(`node ${customBuildScript}`);
+      const stdout = require("child_process").execSync(
+        `node ${customBuildScript}`
+      );
       process.stdout.write(stdout.toString());
     } catch (error) {
       const message = error.stderr.toString();
