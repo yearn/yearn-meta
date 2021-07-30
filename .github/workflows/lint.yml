@@ -16,8 +16,6 @@ jobs:
 
       - name: Install deps (with cache)
         uses: bahmutov/npm-install@v1
-        with:
-          working-directory: scripts
 
       - name: Lint data
         run: |
@@ -39,8 +37,6 @@ jobs:
 
       - name: Install deps (with cache)
         uses: bahmutov/npm-install@v1
-        with:
-          working-directory: scripts
 
       - name: Verify data
         run: node scripts/verify.mjs
