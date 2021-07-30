@@ -5,42 +5,34 @@
   "description": "A Yearn vault",
   "type": "object",
   "properties": {
-    "name": {
+    "comment": {
       "type": "string"
     },
-    "description": {
+    "hideAlways": {
+      "type": "boolean"
+    },
+    "hideIfNoDeposits": {
+      "type": "boolean"
+    },
+    "depositsDisabled": {
+      "type": "boolean"
+    },
+    "withdrawalsDisabled": {
+      "type": "boolean"
+    },
+    "apyOverride": {
       "type": "string"
     },
-    "promoted": {
+    "order": {
+      "type": "number"
+    },
+    "migrationAvailable": {
       "type": "boolean"
     },
-    "retired": {
-      "type": "boolean"
-    },
-    "deposit": {
-      "type": "object",
-      "properties": {
-        "disabled": { "type": "boolean" },
-        "message": { "type": "string" }
-      }
-    },
-    "withdraw": {
-      "type": "object",
-      "properties": {
-        "disabled": { "type": "boolean" },
-        "message": { "type": "string" }
-      }
-    },
-    "apy": {
-      "type": "object",
-      "properties": {
-        "calculation": {
-          "type": "string",
-          "default": ""
-        }
-      },
-      "required": ["calculation"]
+    "latestVaultAddress": {
+      "type": "string",
+      "format": "address"
     }
   },
-  "required": ["name", "description", "promoted", "apy"]
+  "required": []
 }
