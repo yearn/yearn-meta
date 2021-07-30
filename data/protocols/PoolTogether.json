@@ -1,5 +1,5 @@
 {
-    "$schema": "protocol",
-    "name": "Pool Together",
-    "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+  "$schema": "protocol",
+  "name": "Pool Together",
+  "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
 }

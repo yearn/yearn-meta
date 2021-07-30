@@ -1,12 +1,12 @@
 {
-    "$schema": "strategy",
-    "name": "KeeperDAO Reinvest",
-    "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-    "addresses": [
-        "0x2B1a6CB0168aA540ee8D853aB1d10d7A89d6351b",
-        "0xB361a3E75Bc2Ae6c8A045b3A43E2B0c9aD890d48",
-        "0xbC0F2FF495eE2eb74A145EDAA457FA4Fa310DAC5"
-    ],
-    "protocols": ["KeeperDAO"],
-    "authors": []
+  "$schema": "strategy",
+  "name": "KeeperDAO Reinvest",
+  "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0x2B1a6CB0168aA540ee8D853aB1d10d7A89d6351b",
+    "0xB361a3E75Bc2Ae6c8A045b3A43E2B0c9aD890d48",
+    "0xbC0F2FF495eE2eb74A145EDAA457FA4Fa310DAC5"
+  ],
+  "protocols": ["KeeperDAO"],
+  "authors": []
 }
