@@ -7,6 +7,6 @@
     "0xe9bD008A97e362F7C501F6F5532A348d2e6B8131",
     "0x695F00450641968b264e1d2e98dFF3e013143a37"
   ],
-  "protocols": ["Aave", "C.R.E.A.M. Finance"],
+  "protocols": ["Aave", "CreamFinance"],
   "authors": []
 }

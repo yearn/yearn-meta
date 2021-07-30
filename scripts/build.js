@@ -6,16 +6,37 @@ const DataDirectory = "data";
 const SchemaDirectory = "schema";
 const OutDirectory = "build";
 
+const CustomBuildScript = "_build.js";
+
 const TrimmedExtensions = [".json"];
+const ExcludedExtensions = [".js"];
 
 function build(directory) {
   const map = { files: [], directories: [] };
+  const customBuildScript = path.join(directory, CustomBuildScript);
+  if (fs.existsSync(customBuildScript)) {
+    try {
+      const stdout = require("child_process").execSync(`node ${customBuildScript}`);
+      process.stdout.write(stdout.toString());
+    } catch (error) {
+      const message = error.stderr.toString();
+      console.error(
+        message ||
+          `Err: custom build script "${customBuildScript}" returned a non zero exit code`
+      );
+      process.exit(error.status || 1);
+    }
+  }
   for (let name of fs.readdirSync(directory)) {
     if (name.startsWith(".") || name === IndexName) continue;
     const file = path.join(directory, name);
     const stat = fs.lstatSync(file);
     if (stat.isFile()) {
       const parse = path.parse(file);
+      if (ExcludedExtensions.includes(parse.ext)) {
+        fs.removeSync(file);
+        continue;
+      }
       if (TrimmedExtensions.includes(parse.ext)) {
         name = parse.name;
         fs.renameSync(file, path.join(directory, name));

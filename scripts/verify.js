@@ -36,7 +36,6 @@ function loadValidators(schemaDir) {
 }
 
 function validate(directory, validators) {
-  const codeowners = new Codeowners();
   let allValid = true;
   for (let name of fs.readdirSync(directory)) {
     if (name.startsWith(".") || name === IndexName) continue;
@@ -92,6 +91,7 @@ function validate(directory, validators) {
       }
       allValid &= validate(file, validators);
     }
+    const codeowners = new Codeowners();
     const owners = codeowners.getOwner(file);
     if (owners.length === 0) {
       console.error(`Error: "${file}" has no codeowners.`);
