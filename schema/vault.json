@@ -29,6 +29,12 @@
     "migrationAvailable": {
       "type": "boolean"
     },
+    "allowZapIn": {
+      "type": "boolean"
+    },
+    "allowZapOut": {
+      "type": "boolean"
+    },
     "latestVaultAddress": {
       "type": "string",
       "format": "address"
