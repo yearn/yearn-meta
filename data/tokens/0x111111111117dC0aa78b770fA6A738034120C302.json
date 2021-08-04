@@ -1,0 +1,14 @@
+{
+  "$schema": "token",
+  "name": "1INCH Token",
+  "categories": [
+    "Decentralized Exchange Token (DEX)",
+    "Number",
+    "Polygon Ecosystem",
+    "Automated Market Maker (AMM)",
+    "Binance Smart Chain Ecosystem",
+    "Decentralized Finance (DeFi)",
+    "Exchange-based Tokens"
+  ],
+  "website": "https://1inch.io/"
+}

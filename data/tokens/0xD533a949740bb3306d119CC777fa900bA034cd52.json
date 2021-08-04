@@ -1,0 +1,16 @@
+{
+  "$schema": "token",
+  "name": "Curve DAO Token",
+  "categories": [
+    "Decentralized Exchange Token (DEX)",
+    "Polygon Ecosystem",
+    "xDAI Ecosystem",
+    "Automated Market Maker (AMM)",
+    "Yield Farming",
+    "Decentralized Finance (DeFi)",
+    "Governance",
+    "Exchange-based Tokens"
+  ],
+  "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value.",
+  "website": "https://www.curve.fi/"
+}

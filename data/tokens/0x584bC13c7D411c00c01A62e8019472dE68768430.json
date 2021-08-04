@@ -1,0 +1,11 @@
+{
+  "$schema": "token",
+  "name": "Hegic",
+  "categories": [
+    "Derivatives",
+    "Options",
+    "Decentralized Finance (DeFi)",
+    "Exchange-based Tokens"
+  ],
+  "website": "https://www.hegic.co/"
+}

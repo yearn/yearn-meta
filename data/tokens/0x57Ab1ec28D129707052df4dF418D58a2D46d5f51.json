@@ -1,0 +1,13 @@
+{
+  "$schema": "token",
+  "name": "Synth sUSD",
+  "categories": [
+    "USD Stablecoin",
+    "Synths",
+    "Decentralized Finance (DeFi)",
+    "Stablecoins",
+    "Asset-backed Tokens"
+  ],
+  "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. sUSD mirrors and tracks the price of USD provided by an oracle - Chainlink.",
+  "website": "https://synthetix.io"
+}

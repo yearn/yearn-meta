@@ -1,0 +1,11 @@
+{
+  "$schema": "token",
+  "name": "Dai Stablecoin",
+  "categories": [
+    "USD Stablecoin",
+    "Decentralized Finance (DeFi)",
+    "Stablecoins"
+  ],
+  "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
+  "website": "https://makerdao.com/"
+}
