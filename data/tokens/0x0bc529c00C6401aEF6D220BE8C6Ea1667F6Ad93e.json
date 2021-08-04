@@ -1,5 +1,6 @@
 {
   "$schema": "token",
+  "name": "yearn.finance",
   "categories": [
     "Yearn Ecosystem",
     "Yield Aggregator",

@@ -1,5 +1,6 @@
 {
   "$schema": "token",
+  "name": "Tether USD",
   "categories": ["USD Stablecoin", "Stablecoins"],
   "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
   "website": "https://tether.to/"

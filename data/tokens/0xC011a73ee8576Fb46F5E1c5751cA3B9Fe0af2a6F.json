@@ -1,5 +1,6 @@
 {
   "$schema": "token",
+  "name": "Synthetix Network Token",
   "categories": [
     "Derivatives",
     "Decentralized Exchange Token (DEX)",
@@ -9,6 +10,6 @@
     "Governance",
     "Exchange-based Tokens"
   ],
-  "description": "Synthetix aims to address the problem that companies running centralized payment networks such as PayPal, credit card networks, or the SWIFT banking network have “absolute control over the value within the network, so any transaction conducted within them may be blocked or reversed at any time.”",
+  "description": "Synthetix aims to address the problem that companies running centralized payment networks such as PayPal, credit card networks, or the SWIFT banking network have \"absolute control over the value within the network, so any transaction conducted within them may be blocked or reversed at any time.\"",
   "website": "https://www.synthetix.io/"
 }
