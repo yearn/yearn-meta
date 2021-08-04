@@ -1,0 +1,5 @@
+{
+  "$schema": "token",
+  "categories": ["Number", "LP Tokens", "Asset-backed Tokens"],
+  "website": "https://www.curve.fi/"
+}

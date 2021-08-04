@@ -1,0 +1,14 @@
+{
+  "$schema": "token",
+  "categories": [
+    "Derivatives",
+    "Decentralized Exchange Token (DEX)",
+    "Synthetic Issuer",
+    "Yield Farming",
+    "Decentralized Finance (DeFi)",
+    "Governance",
+    "Exchange-based Tokens"
+  ],
+  "description": "Synthetix aims to address the problem that companies running centralized payment networks such as PayPal, credit card networks, or the SWIFT banking network have “absolute control over the value within the network, so any transaction conducted within them may be blocked or reversed at any time.”",
+  "website": "https://www.synthetix.io/"
+}

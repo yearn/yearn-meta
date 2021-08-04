@@ -1,0 +1,6 @@
+{
+  "$schema": "token",
+  "categories": ["USD Stablecoin", "Stablecoins"],
+  "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges.",
+  "website": "https://www.circle.com/en/usdc"
+}

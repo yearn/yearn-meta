@@ -1,0 +1,15 @@
+{
+  "$schema": "token",
+  "categories": [
+    "Decentralized Exchange Token (DEX)",
+    "Polygon Ecosystem",
+    "xDAI Ecosystem",
+    "Automated Market Maker (AMM)",
+    "Yield Farming",
+    "Decentralized Finance (DeFi)",
+    "Governance",
+    "Exchange-based Tokens"
+  ],
+  "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. This is useful in the DeFi ecosystem as there are plenty of wrapped tokens and synthetic tokens that aim to mimic the price of the real underlying asset.",
+  "website": "https://www.curve.fi/"
+}

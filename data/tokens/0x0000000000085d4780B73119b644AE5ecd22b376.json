@@ -1,0 +1,6 @@
+{
+  "$schema": "token",
+  "categories": ["Avalanche Ecosystem", "USD Stablecoin", "Stablecoins"],
+  "description": "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD.",
+  "website": "https://trueusd.com/"
+}

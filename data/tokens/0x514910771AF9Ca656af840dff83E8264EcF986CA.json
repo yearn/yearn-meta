@@ -1,0 +1,17 @@
+{
+  "$schema": "token",
+  "categories": [
+    "Solana Ecosystem",
+    "Near Protocol Ecosystem",
+    "Polygon Ecosystem",
+    "xDAI Ecosystem",
+    "Business Services",
+    "Infrastructure",
+    "Smart Contract Platform",
+    "Polkadot Ecosystem",
+    "Decentralized Finance (DeFi)",
+    "Oracle"
+  ],
+  "description": "Chainlink is a decentralized oracle service, the first of its kind.",
+  "website": "https://chain.link/"
+}
