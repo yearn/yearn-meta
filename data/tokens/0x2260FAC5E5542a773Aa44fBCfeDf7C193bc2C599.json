@@ -1,6 +1,5 @@
 {
   "$schema": "token",
-  "name": "Wrapped BTC",
   "categories": ["Wrapped-Tokens", "Tokenized BTC"],
   "website": "https://www.wbtc.network/"
 }

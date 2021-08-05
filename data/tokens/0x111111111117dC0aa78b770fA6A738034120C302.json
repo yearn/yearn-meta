@@ -1,6 +1,5 @@
 {
   "$schema": "token",
-  "name": "1INCH Token",
   "categories": [
     "Decentralized Exchange Token (DEX)",
     "Number",
