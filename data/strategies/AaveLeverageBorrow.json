@@ -1,0 +1,9 @@
+{
+    "$schema": "strategy",
+    "name": "Aave Leverage Borrow",
+    "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. This strategy also borrows tokens against {{token}} with leverage. Borrowed tokens are then deposited into corresponding yVault to generate yield.",
+    "addresses": [
+      "0xDD387F2fe0D9B1E5768fc941e7E48AA8BfAf5e41"
+    ],
+    "protocols": ["Aave"]
+  }
