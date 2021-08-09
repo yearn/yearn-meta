@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Universe",
+    "description": "Universe protocol is a social media NFT platform which inculdes minting, marketplaces, social tools, NFT tools, auctions, and staking. Users can have a say in protocol governance with its native XYZ token."
+  }
