@@ -1,6 +1,5 @@
 {
   "$schema": "token",
-  "name": "Synthetix Network Token",
   "categories": [
     "Derivatives",
     "Decentralized Exchange Token (DEX)",

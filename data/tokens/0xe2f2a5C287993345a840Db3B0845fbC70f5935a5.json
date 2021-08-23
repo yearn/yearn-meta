@@ -1,6 +1,5 @@
 {
   "$schema": "token",
-  "name": "mStable USD",
   "categories": [
     "Polygon Ecosystem",
     "USD Stablecoin",

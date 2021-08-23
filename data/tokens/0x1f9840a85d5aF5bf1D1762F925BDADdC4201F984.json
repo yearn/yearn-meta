@@ -1,6 +1,5 @@
 {
   "$schema": "token",
-  "name": "Uniswap",
   "categories": [
     "Decentralized Exchange Token (DEX)",
     "Automated Market Maker (AMM)",

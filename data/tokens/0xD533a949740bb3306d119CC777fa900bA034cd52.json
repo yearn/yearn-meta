@@ -1,6 +1,5 @@
 {
   "$schema": "token",
-  "name": "Curve DAO Token",
   "categories": [
     "Decentralized Exchange Token (DEX)",
     "Polygon Ecosystem",

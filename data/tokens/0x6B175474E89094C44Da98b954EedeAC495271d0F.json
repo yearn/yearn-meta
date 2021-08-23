@@ -1,6 +1,5 @@
 {
   "$schema": "token",
-  "name": "Dai Stablecoin",
   "categories": [
     "USD Stablecoin",
     "Decentralized Finance (DeFi)",

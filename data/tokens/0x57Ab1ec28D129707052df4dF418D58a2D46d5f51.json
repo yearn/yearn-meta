@@ -1,6 +1,5 @@
 {
   "$schema": "token",
-  "name": "Synth sUSD",
   "categories": [
     "USD Stablecoin",
     "Synths",
