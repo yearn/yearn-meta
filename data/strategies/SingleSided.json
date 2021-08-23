@@ -3,11 +3,14 @@
   "name": "Curve Yield Seeker",
   "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool.",
   "addresses": [
-    "0x2E1ad896D3082C52A5AE7Af307131DE7a37a46a0",
     "0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36",
     "0xb85413f6d07454828eAc7E62df7d847316475178",
     "0xf840d061E83025F4cD6610AE5DDebCcA43327f9f",
-    "0x30010039Ea4a0c4fa1Ac051E8aF948239678353d"
+    "0x30010039Ea4a0c4fa1Ac051E8aF948239678353d",
+    "0x4b254EbBbb8FDb9D3E848501784692b2726b310c",
+    "0x29367915508e47c631d220caEbA855901c13a3dE",
+    "0x64B2a32f030D9210E51ed8884C0D58b89137Ca81",
+    "0xa6D1C610B3000F143c18c75D84BaA0eC22681185"
   ],
   "protocols": ["CurveFinance"]
 }
