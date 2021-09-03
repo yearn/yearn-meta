@@ -4,7 +4,10 @@
     "description": "Supplies {{token}} to [Universe](https://universe.xyz) to earn XYZ. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
     "addresses": [
       "0x29d23b73Dd0ed729F516bb55622765AF102f0e33",
-      "0xa2a182C5B5Ea1A3c90Cb5Bb718F9e62DBE052927"
+      "0xa2a182C5B5Ea1A3c90Cb5Bb718F9e62DBE052927",
+      "0x9a5AfC29186b5d27F12F8CE6fe9E6Bd2cbb2BCDC",
+      "0xB71252D990483079ccf76a85b623059b5e33D3db",
+      "0x95730d3E374b5E1F5b550Af059Af86D23feA79e3"
     ],
     "protocols": ["Universe"]
 }
