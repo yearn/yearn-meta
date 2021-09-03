@@ -1,6 +1,6 @@
 {
   "$schema": "token",
-  "categories": ["Avalanche Ecosystem", "USD Stablecoin", "Stablecoins"],
-  "description": "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD.",
+  "categories": ["USD Stablecoin"],
+  "description": "TrueUSD is a U.S. dollar stablecoin pegged to USD at 1:1.  TrueUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TrueUSD’s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities.",
   "website": "https://trueusd.com/"
 }

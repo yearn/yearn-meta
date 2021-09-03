@@ -1,10 +1,6 @@
 {
   "$schema": "token",
-  "categories": [
-    "USD Stablecoin",
-    "Decentralized Finance (DeFi)",
-    "Stablecoins"
-  ],
-  "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
+  "categories": ["USD Stablecoin"],
+  "description": "DAI is an Ethereum-based stablecoin whose issuance and development is managed by the Maker Protocol and MakerDAO. The price of DAI is soft-pegged to the U.S. dollar and is collateralized by a mix of other cryptocurrencies that are deposited into smart-contract vaults every time new DAI is minted.",
   "website": "https://makerdao.com/"
 }

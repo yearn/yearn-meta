@@ -1,14 +1,6 @@
 {
   "$schema": "token",
-  "categories": [
-    "Derivatives",
-    "Decentralized Exchange Token (DEX)",
-    "Synthetic Issuer",
-    "Yield Farming",
-    "Decentralized Finance (DeFi)",
-    "Governance",
-    "Exchange-based Tokens"
-  ],
-  "description": "Synthetix aims to address the problem that companies running centralized payment networks such as PayPal, credit card networks, or the SWIFT banking network have \"absolute control over the value within the network, so any transaction conducted within them may be blocked or reversed at any time.\"",
+  "categories": ["Governance Tokens"],
+  "description": "Synthetix is a decentralized finance (DeFi) protocol that provides on-chain exposure to a wide variety of crypto and non-crypto assets. The protocol is based on the Ethereum (ETH) blockchain and offers users access to highly liquid synthetic assets (synths). Synths track and provide returns on the underlying asset without requiring one to directly hold the asset. SNX tokens are used for protocol governance and can also be used as collateral to mint synths.",
   "website": "https://www.synthetix.io/"
 }

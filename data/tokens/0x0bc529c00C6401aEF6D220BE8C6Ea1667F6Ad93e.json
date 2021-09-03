@@ -1,12 +1,6 @@
 {
   "$schema": "token",
-  "categories": [
-    "Yearn Ecosystem",
-    "Yield Aggregator",
-    "Yield Farming",
-    "Decentralized Finance (DeFi)",
-    "Governance"
-  ],
-  "description": "Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.",
+  "categories": ["Governance Tokens"],
+  "description": "Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides yield aggregation, a decentralized money market, and several other DeFi building blocks on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.",
   "website": "https://yearn.finance"
 }
