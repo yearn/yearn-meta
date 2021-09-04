@@ -4,3 +4,4 @@ yarn-error.log
 index.json
 !schema/index.json
 build
+.DS_Store
