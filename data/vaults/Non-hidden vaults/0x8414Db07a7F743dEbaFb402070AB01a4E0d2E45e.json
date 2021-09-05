@@ -1,0 +1,11 @@
+{
+  "$schema": "vault",
+  "comment": "Curve sBTC",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 47,
+  "migrationAvailable": false,
+  "allowZapIn": true,
+  "allowZapOut": true
+}
