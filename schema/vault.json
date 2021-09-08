@@ -38,6 +38,9 @@
     "latestVaultAddress": {
       "type": "string",
       "format": "address"
+    },
+    "retired": {
+      "type": "boolean"
     }
   },
   "required": []

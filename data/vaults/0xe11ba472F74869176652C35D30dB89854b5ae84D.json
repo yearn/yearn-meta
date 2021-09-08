@@ -7,5 +7,6 @@
   "order": 98,
   "migrationAvailable": true,
   "allowZapIn": false,
-  "allowZapOut": true
+  "allowZapOut": true,
+  "retired": false
 }
