@@ -11,9 +11,6 @@
     "hideAlways": {
       "type": "boolean"
     },
-    "hideIfNoDeposits": {
-      "type": "boolean"
-    },
     "depositsDisabled": {
       "type": "boolean"
     },
