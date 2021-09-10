@@ -38,6 +38,9 @@
     },
     "retired": {
       "type": "boolean"
+    },
+    "displayName": {
+      "type": "string"
     }
   },
   "required": []

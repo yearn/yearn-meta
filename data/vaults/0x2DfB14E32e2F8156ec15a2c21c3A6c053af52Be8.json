@@ -1,13 +1,13 @@
 {
   "$schema": "vault",
-  "comment": "WETH",
+  "comment": "Curve MIM",
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
-  "order": 1,
+  "order": 20.5,
   "migrationAvailable": false,
   "allowZapIn": true,
   "allowZapOut": true,
   "retired": false,
-  "displayName": "ETH"
+  "displayName": "Curve MIM"
 }
