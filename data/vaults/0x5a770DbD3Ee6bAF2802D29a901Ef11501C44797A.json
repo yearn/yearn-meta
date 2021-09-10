@@ -1,0 +1,12 @@
+{
+  "$schema": "vault",
+  "comment": "Curve sUSD",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 36,
+  "migrationAvailable": false,
+  "allowZapIn": true,
+  "allowZapOut": true,
+  "retired": false
+}

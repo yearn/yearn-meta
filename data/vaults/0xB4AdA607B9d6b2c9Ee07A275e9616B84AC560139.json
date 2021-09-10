@@ -1,0 +1,12 @@
+{
+  "$schema": "vault",
+  "comment": "Curve FRAX",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 29,
+  "migrationAvailable": false,
+  "allowZapIn": true,
+  "allowZapOut": true,
+  "retired": false
+}

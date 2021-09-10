@@ -11,9 +11,6 @@
     "hideAlways": {
       "type": "boolean"
     },
-    "hideIfNoDeposits": {
-      "type": "boolean"
-    },
     "depositsDisabled": {
       "type": "boolean"
     },
@@ -38,6 +35,9 @@
     "latestVaultAddress": {
       "type": "string",
       "format": "address"
+    },
+    "retired": {
+      "type": "boolean"
     }
   },
   "required": []

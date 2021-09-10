@@ -1,0 +1,12 @@
+{
+  "$schema": "vault",
+  "comment": "USDT",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 6,
+  "migrationAvailable": false,
+  "allowZapIn": true,
+  "allowZapOut": true,
+  "retired": false
+}

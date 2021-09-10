@@ -1,0 +1,12 @@
+{
+  "$schema": "vault",
+  "comment": "Curve rETH",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 45,
+  "migrationAvailable": false,
+  "allowZapIn": true,
+  "allowZapOut": true,
+  "retired": false
+}
