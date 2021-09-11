@@ -41,6 +41,15 @@
     },
     "displayName": {
       "type": "string"
+    },
+    "vaultIconOverride": {
+      "type": "string"
+    },
+    "vaultSymbolOverride": {
+      "type": "string"
+    },
+    "vaultNameOverride": {
+      "type": "string"
     }
   },
   "required": []
