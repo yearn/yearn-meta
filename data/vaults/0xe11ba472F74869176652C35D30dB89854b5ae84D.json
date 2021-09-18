@@ -5,9 +5,10 @@
   "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 98,
-  "migrationAvailable": true,
+  "apyOverride": "N/A",
+  "migrationAvailable": false,
   "allowZapIn": false,
   "allowZapOut": true,
-  "retired": false,
+  "retired": true,
   "displayName": "HEGIC"
 }

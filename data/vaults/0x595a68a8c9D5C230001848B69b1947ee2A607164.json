@@ -1,14 +1,14 @@
 {
   "$schema": "vault",
-  "comment": "Curve ibEUR",
+  "comment": "Curve ibGBP",
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
-  "order": 21.6,
+  "order": 21.61,
   "apyOverride": "NEW✨",
   "migrationAvailable": false,
   "allowZapIn": true,
   "allowZapOut": true,
   "retired": false,
-  "displayName": "Curve ibEUR"
+  "displayName": "Curve ibGBP"
 }

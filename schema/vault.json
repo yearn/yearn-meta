@@ -36,6 +36,13 @@
       "type": "string",
       "format": "address"
     },
+    "migrationContract": {
+      "type": "string",
+      "format": "address"
+    },
+    "migrationCall": {
+      "type": "string"
+    },
     "retired": {
       "type": "boolean"
     },
@@ -50,6 +57,12 @@
     },
     "vaultNameOverride": {
       "type": "string"
+    },
+    "vaultDetailPageAssets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
     }
   },
   "required": []
