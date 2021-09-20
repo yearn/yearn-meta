@@ -1,0 +1,8 @@
+{
+  "$schema": "token",
+  "categories": ["Curve LP Tokens"],
+  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and stETH, a token that represents staked ether in Lido, a decentralized ETH 2.0 staking platform.",
+  "website": "https://www.curve.fi/",
+  "tokenSymbolOverride": "crvSTETH",
+  "tokenNameOverride": "Curve stETH Pool"
+}
