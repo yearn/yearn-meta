@@ -1,6 +1,6 @@
 {
   "$schema": "token",
-  "categories": [],
+  "categories": ["Wrapped or Synthetic Assets"],
   "description": "Fantom is a Smart Contract platform that intends to solve the scalability issues of existing public distributed ledger technologies. The platform intends to distinguish itself from the traditional block ledger-based storage infrastructure by attempting to employ an improved version of existing DAG-based protocols. The Fantom platform adopts a new protocol known as the “Lachesis Protocol” to maintain consensus. This protocol is intended to be integrated into the Fantom Opera Chain. The aim is to allow applications built on top of the Fantom Opera Chain to enjoy instant transactions and near zero transaction costs for all users.",
   "website": "https://fantom.foundation/"
 }
