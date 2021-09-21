@@ -32,7 +32,11 @@
     "allowZapOut": {
       "type": "boolean"
     },
-    "latestVaultAddress": {
+    "migrationContract": {
+      "type": "string",
+      "format": "address"
+    },
+    "migrationTargetVault": {
       "type": "string",
       "format": "address"
     },
@@ -50,6 +54,12 @@
     },
     "vaultNameOverride": {
       "type": "string"
+    },
+    "vaultDetailPageAssets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
     }
   },
   "required": []

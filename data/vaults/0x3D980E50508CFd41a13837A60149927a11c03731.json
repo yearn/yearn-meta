@@ -5,9 +5,11 @@
   "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 99,
+  "apyOverride": "N/A",
   "migrationAvailable": true,
+  "migrationContract": "0xC306a5ef4B990A7F2b3bC2680E022E6a84D75fC1",
   "allowZapIn": false,
   "allowZapOut": true,
-  "retired": true,
+  "retired": false,
   "displayName": "Curve triCrypto"
 }
