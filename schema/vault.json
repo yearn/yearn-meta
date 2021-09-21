@@ -32,16 +32,13 @@
     "allowZapOut": {
       "type": "boolean"
     },
-    "latestVaultAddress": {
-      "type": "string",
-      "format": "address"
-    },
     "migrationContract": {
       "type": "string",
       "format": "address"
     },
-    "migrationCall": {
-      "type": "string"
+    "migrationTargetVault": {
+      "type": "string",
+      "format": "address"
     },
     "retired": {
       "type": "boolean"
