@@ -18,6 +18,9 @@
       "type": "boolean"
     },
     "apyOverride": {
+      "type": "number"
+    },
+    "apyTypeOverride": {
       "type": "string"
     },
     "order": {

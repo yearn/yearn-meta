@@ -1,13 +1,14 @@
 {
   "$schema": "vault",
-  "comment": "Curve ibJPY",
+  "comment": "Curve ibAUD",
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
-  "order": 21.62,
+  "order": 21.51,
+  "apyTypeOverride": "new",
   "migrationAvailable": false,
   "allowZapIn": true,
   "allowZapOut": true,
   "retired": false,
-  "displayName": "Curve ibJPY"
+  "displayName": "Curve ibAUD"
 }
