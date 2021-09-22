@@ -5,12 +5,12 @@
   "description": "Preferences about what services are available for a chain",
   "type": "object",
   "properties": {
-    "simulations_enabled": {
+    "simulationsEnabled": {
       "type": "boolean"
     },
-    "zaps_enabled": {
+    "zapsEnabled": {
       "type": "boolean"
     }
   },
-  "required": ["simulations_enabled", "zaps_enabled"]
+  "required": ["simulationsEnabled", "zapsEnabled"]
 }
