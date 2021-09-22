@@ -5,7 +5,6 @@
   "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 4,
-  "apyOverride": "N/A",
   "migrationAvailable": true,
   "migrationContract": "0x1824df8D751704FA10FA371d62A37f9B8772ab90",
   "migrationTargetVault": "0xdA816459F1AB5631232FE5e97a05BBBb94970c95",
