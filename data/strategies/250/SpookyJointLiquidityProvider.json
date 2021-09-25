@@ -4,7 +4,8 @@
     "description": "Supplies {{token}} as half of a join liquidity provider for a pool on [Spookyswap](spookyswap.finance). Rewards are harvested, split between the two pairs, sold for more {{token}}, and re-deposited into the strategy.",
     "addresses": [
       "0x9963F18cA33e6CC0Bb8032D2B9E2511d4931037e",
-      "0xecc1DFF0C8450A5A16E56211c43182B95580f9Cf"
+      "0xecc1DFF0C8450A5A16E56211c43182B95580f9Cf",
+      "0xaA944D01b361b25a11F185C61530937a7a9C47a6"
     ],
     "protocols": ["Spookyswap"]
   }
