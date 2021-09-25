@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Synthetix Minter Reinvest",
+  "description": "Stakes {{token}} on [Synthetix](https://staking.synthetix.io/) and mints sUSD. The newly minted sUSD is then deposited into the sUSD yVault to generate yield. Generated yield, weekly {{token}} fees and vested rewards (when claimable) are harvested, sold for more {{token}} which is deposited back into the strategy. **Rewards on staked {{token}} are locked for 1 year**.",
+  "addresses": ["0xc9a62e09834cEdCFF8c136f33d0Ae3406aea66bD"],
+  "protocols": ["Synthetix"]
+}
