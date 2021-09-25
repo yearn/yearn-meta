@@ -1,0 +1,5 @@
+{
+    "$schema": "protocol",
+    "name": "Spookyswap",
+    "description": "Spookyswap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+  }
