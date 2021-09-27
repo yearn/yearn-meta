@@ -6,7 +6,7 @@
   "withdrawalsDisabled": false,
   "order": 0,
   "migrationAvailable": false,
-  "apyOverride": 0.9329,
+  "apyTypeOverride": "new",
   "allowZapIn": false,
   "allowZapOut": false,
   "retired": false,
