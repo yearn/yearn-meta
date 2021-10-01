@@ -7,6 +7,7 @@
   "order": 99,
   "migrationAvailable": true,
   "migrationContract": "0xC306a5ef4B990A7F2b3bC2680E022E6a84D75fC1",
+  "migrationTargetVault": "0xE537B5cc158EB71037D4125BDD7538421981E6AA",
   "allowZapIn": false,
   "allowZapOut": true,
   "retired": false,
