@@ -1,0 +1,14 @@
+{
+  "$schema": "vault",
+  "comment": "WFTM",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 0,
+  "migrationAvailable": false,
+  "apyTypeOverride": "new",
+  "allowZapIn": false,
+  "allowZapOut": false,
+  "retired": false,
+  "displayName": "WFTM"
+}
