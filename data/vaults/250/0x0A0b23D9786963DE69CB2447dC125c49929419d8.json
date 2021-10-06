@@ -1,0 +1,14 @@
+{
+  "$schema": "vault",
+  "comment": "MIM",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 3,
+  "migrationAvailable": false,
+  "apyTypeOverride": "new",
+  "allowZapIn": false,
+  "allowZapOut": false,
+  "retired": false,
+  "displayName": "MIM"
+}
