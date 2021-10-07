@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "Tarot Reinvest",
-  "description": "Supplies {{token}} to [Tarot](tarot.to) to earn TAROT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "description": "Supplies {{token}} to [Tarot](tarot.to) to generate yield. Optimizes the balancing of funds accross several lending pools. ",
   "addresses": [
     "0x1922Fde0C9f09cD1AEAe20C6021a2c18a9CBD589",
     "0x47C004db0Dd0dCe726827CAAac71b660FFF14fAb",
