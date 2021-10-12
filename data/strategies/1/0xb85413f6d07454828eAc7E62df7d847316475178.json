@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Curve Yield Seeker",
+  "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool.",
+  "protocols": ["CurveFinance"],
+  "address": "0xb85413f6d07454828eAc7E62df7d847316475178"
+}

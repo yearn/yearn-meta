@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Spookyswap Reinvest",
+  "description": "Supplies {{token}} to [Spookyswap](spookyswap.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "protocols": ["Spookyswap"],
+  "address": "0xf8c08cE855D1ABA492202ecf47eaa3d2a7DE2eC5"
+}
