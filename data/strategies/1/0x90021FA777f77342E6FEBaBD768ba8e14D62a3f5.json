@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Aave Flashloan Folding",
+  "description": "Supplies and borrows {{token}} on [Aave](https://app.aave.com/markets) simultaneously to earn stAAVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Flashloans are used to obtain additional {{token}} from [dYdX](https://margin.dydx.exchange/markets/overview) to boost the APY.",
+  "protocols": ["Aave", "dydx"],
+  "address": "0x90021FA777f77342E6FEBaBD768ba8e14D62a3f5"
+}

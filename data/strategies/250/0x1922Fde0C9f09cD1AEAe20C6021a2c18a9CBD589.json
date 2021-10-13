@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Tarot Reinvest",
+  "description": "Supplies {{token}} to [Tarot](tarot.to) to earn TAROT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "protocols": ["Tarot"],
+  "address": "0x1922Fde0C9f09cD1AEAe20C6021a2c18a9CBD589"
+}

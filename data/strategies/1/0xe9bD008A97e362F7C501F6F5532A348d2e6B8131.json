@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Aave / C.R.E.A.M. Lender Optimizer",
+  "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "protocols": ["Aave", "CreamFinance"],
+  "address": "0xe9bD008A97e362F7C501F6F5532A348d2e6B8131"
+}

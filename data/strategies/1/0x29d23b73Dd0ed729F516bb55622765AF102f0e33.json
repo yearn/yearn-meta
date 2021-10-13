@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Universe Reinvest",
+  "description": "Supplies {{token}} to [Universe](https://universe.xyz) to earn XYZ. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "protocols": ["Universe"],
+  "address": "0x29d23b73Dd0ed729F516bb55622765AF102f0e33"
+}

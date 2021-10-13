@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Compound Finance Flashloan Folding",
+  "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Flashloans are used to obtain additional {{token}} from [dYdX](https://margin.dydx.exchange/markets/overview) to boost the APY.",
+  "protocols": ["CompoundFinance", "dydx"],
+  "address": "0x4d7d4485fd600c61d840ccbec328bfd76a050f87"
+}

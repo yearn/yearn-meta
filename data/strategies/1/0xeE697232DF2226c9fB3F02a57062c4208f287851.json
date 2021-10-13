@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Alpha Homora Lender Optimizer",
+  "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest.",
+  "protocols": ["AlphaHomora"],
+  "address": "0xeE697232DF2226c9fB3F02a57062c4208f287851"
+}
