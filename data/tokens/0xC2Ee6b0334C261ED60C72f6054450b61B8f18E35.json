@@ -1,8 +1,0 @@
-{
-  "$schema": "token",
-  "categories": ["Curve LP Tokens"],
-  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and RSV.",
-  "website": "https://www.curve.fi/",
-  "tokenSymbolOverride": "crvRSV",
-  "tokenNameOverride": "Curve RSV Pool"
-}

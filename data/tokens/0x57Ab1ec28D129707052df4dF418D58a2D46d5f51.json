@@ -1,6 +1,0 @@
-{
-  "$schema": "token",
-  "categories": ["USD Stablecoin"],
-  "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles.",
-  "website": "https://synthetix.io"
-}
