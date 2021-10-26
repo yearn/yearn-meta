@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Maker Delegate",
-  "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield.",
-  "protocols": ["MakerDAO"],
-  "address": "0x7A5D88510cD49E878ADe26E0f08bF374b5eCAF49"
-}

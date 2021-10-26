@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Convex Reinvest",
-  "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "protocols": ["ConvexFinance", "CurveFinance"],
-  "address": "0x7Ed0d52C5944C7BF92feDC87FEC49D474ee133ce"
-}

@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Pool Together Reinvest",
-  "description": "Supplies {{token}} to [Pool Together](https://app.pooltogether.com) to earn POOL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. If strategy wins prize of the week, prize will also be added to the strategy.",
-  "protocols": ["PoolTogether"],
-  "address": "0x6EB00860260CF51623737e17579Db797d71cd337"
-}

@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Alpha Homora Reinvest",
-  "description": "Supplies {{token}} to [Alpha Homora](https://homora-v2.alphafinance.io) to generate interest and earn ALPHA tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "protocols": ["AlphaHomora"],
-  "address": "0x82292B8035873d7DD8a96767F6b3F885564aa919"
-}

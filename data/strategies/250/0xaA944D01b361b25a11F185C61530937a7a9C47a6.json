@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Spooky Joint Liquidity Provider",
-  "description": "Supplies {{token}} as half of a join liquidity provider for a pool on [Spookyswap](spookyswap.finance). Rewards are harvested, split between the two pairs, sold for more {{token}}, and re-deposited into the strategy.",
-  "protocols": ["Spookyswap"],
-  "address": "0xaA944D01b361b25a11F185C61530937a7a9C47a6"
-}

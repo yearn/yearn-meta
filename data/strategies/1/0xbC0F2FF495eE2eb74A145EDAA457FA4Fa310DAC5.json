@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "KeeperDAO Reinvest",
-  "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "protocols": ["KeeperDAO"],
-  "address": "0xbC0F2FF495eE2eb74A145EDAA457FA4Fa310DAC5"
-}
