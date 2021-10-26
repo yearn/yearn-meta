@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Idle Finance Reinvest",
-  "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "protocols": ["IdleFinance"],
-  "address": "0x2E1ad896D3082C52A5AE7Af307131DE7a37a46a0"
-}

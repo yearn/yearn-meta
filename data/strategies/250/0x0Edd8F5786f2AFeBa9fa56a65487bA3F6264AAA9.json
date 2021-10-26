@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Ester Reinvest",
-  "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "protocols": ["EsterFinance"],
-  "address": "0x0Edd8F5786f2AFeBa9fa56a65487bA3F6264AAA9"
-}

@@ -30,14 +30,17 @@
         "required": ["name"]
       }
     },
-    "address": {
-      "type": "string",
-      "format": "address"
+    "addresses": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "address"
+      }
     },
     "media": {
       "type": "string",
       "format": "uri"
     }
   },
-  "required": ["name", "description", "address"]
+  "required": ["name", "description", "addresses"]
 }
