@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve ibJPY",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 21.62,
   "migrationAvailable": false,

@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve ibGBP",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 21.61,
   "migrationAvailable": false,

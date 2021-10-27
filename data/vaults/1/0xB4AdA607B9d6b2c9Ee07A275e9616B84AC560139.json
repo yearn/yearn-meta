@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve FRAX",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 29,
   "migrationAvailable": false,

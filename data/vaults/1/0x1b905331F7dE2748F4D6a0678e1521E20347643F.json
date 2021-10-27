@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve ibAUD",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 21.51,
   "migrationAvailable": false,

@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve aETHc",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 44,
   "migrationAvailable": false,
