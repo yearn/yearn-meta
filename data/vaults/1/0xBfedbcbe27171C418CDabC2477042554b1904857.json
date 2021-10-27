@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve rETH",
   "hideAlways": false,
-  "depositsDisabled": true,
+  "depositsDisabled": false,
   "withdrawalsDisabled": false,
   "order": 45,
   "migrationAvailable": false,

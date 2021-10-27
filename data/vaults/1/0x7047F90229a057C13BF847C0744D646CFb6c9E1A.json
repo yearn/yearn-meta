@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve renBTC",
   "hideAlways": false,
-  "depositsDisabled": true,
+  "depositsDisabled": false,
   "withdrawalsDisabled": false,
   "order": 52,
   "migrationAvailable": false,

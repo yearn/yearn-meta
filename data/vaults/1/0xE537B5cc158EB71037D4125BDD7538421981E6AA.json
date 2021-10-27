@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve 3Crypto",
   "hideAlways": false,
-  "depositsDisabled": true,
+  "depositsDisabled": false,
   "withdrawalsDisabled": false,
   "order": 20,
   "migrationAvailable": false,
