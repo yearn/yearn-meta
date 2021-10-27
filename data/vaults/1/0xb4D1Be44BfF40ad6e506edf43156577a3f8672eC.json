@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve sAave",
   "hideAlways": false,
-  "depositsDisabled": true,
+  "depositsDisabled": false,
   "withdrawalsDisabled": false,
   "order": 35,
   "migrationAvailable": false,

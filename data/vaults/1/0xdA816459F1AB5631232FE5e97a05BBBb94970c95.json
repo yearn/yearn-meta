@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "DAI",
   "hideAlways": false,
-  "depositsDisabled": true,
+  "depositsDisabled": false,
   "withdrawalsDisabled": false,
   "order": 4,
   "migrationAvailable": false,

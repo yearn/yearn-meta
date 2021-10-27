@@ -1,7 +1,7 @@
 {
   "$schema": "vault",
   "comment": "Curve Y Pool, aka yUSD",
-  "hideAlways": true,
+  "hideAlways": false,
   "depositsDisabled": true,
   "withdrawalsDisabled": true,
   "order": 23,

@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve oBTC",
   "hideAlways": false,
-  "depositsDisabled": true,
+  "depositsDisabled": false,
   "withdrawalsDisabled": false,
   "order": 51,
   "migrationAvailable": false,
