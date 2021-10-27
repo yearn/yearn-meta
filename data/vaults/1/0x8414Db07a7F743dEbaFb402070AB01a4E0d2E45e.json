@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve sBTC",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 47,
   "migrationAvailable": false,

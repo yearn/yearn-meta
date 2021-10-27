@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve ibEUR",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 21.6,
   "migrationAvailable": false,

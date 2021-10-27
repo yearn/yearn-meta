@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "WFTM",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 0,
   "migrationAvailable": false,

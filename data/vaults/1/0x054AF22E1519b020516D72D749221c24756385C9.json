@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve HUSD, this vault is tiny",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 31,
   "migrationAvailable": false,

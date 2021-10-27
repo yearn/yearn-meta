@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "Curve GUSD",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 30,
   "migrationAvailable": false,

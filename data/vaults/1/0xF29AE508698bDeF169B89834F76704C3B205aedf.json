@@ -2,7 +2,7 @@
   "$schema": "vault",
   "comment": "SNX",
   "hideAlways": false,
-  "depositsDisabled": false,
+  "depositsDisabled": true,
   "withdrawalsDisabled": false,
   "order": 11,
   "migrationAvailable": false,
