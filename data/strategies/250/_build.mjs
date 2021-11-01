@@ -4,6 +4,8 @@ import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
+let all = [];
+
 for (const name of fs.readdirSync(__dirname)) {
   const file = path.join(__dirname, name);
   const stat = fs.lstatSync(file);
@@ -13,14 +15,16 @@ for (const name of fs.readdirSync(__dirname)) {
       const source = JSON.parse(fs.readFileSync(file));
       const addresses = source.addresses;
 
-      // const matches = [...source.description.matchAll(ReTemplate)];
-
       for (const address of addresses) {
         const copy = { ...source };
         delete copy.addresses;
 
         fs.writeFileSync(path.join(__dirname, address), JSON.stringify(copy));
       }
+
+      all.push(source)
     }
   }
 }
+
+fs.writeFileSync(path.join(__dirname, "all"), JSON.stringify(all));
