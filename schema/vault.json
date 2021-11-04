@@ -11,6 +11,9 @@
     "hideAlways": {
       "type": "boolean"
     },
+    "useVaultDataAsDefault": {
+      "type": "boolean"
+    },
     "depositsDisabled": {
       "type": "boolean"
     },
