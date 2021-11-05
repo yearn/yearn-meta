@@ -1,0 +1,5 @@
+{
+  "$schema": "protocol",
+  "name": "Balancer",
+  "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+}
