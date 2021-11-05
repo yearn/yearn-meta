@@ -1,0 +1,10 @@
+{
+  "$schema": "strategy",
+  "name": "Rebalancer Joint Provider",
+  "description": "Supplies {{token}} as half of a join liquidity provider for a liquidity pool on [Balancer](https://app.balancer.fi). Rewards are harvested, split between the two pairs, sold for more {{token}}, and deposited back into the strategy.",
+  "addresses": [
+    "0x4050eB90c15F27aa75b5CFcb934a26fDE60Cf9Cb",
+    "0x580Ae3AeD3E8e8d83c970FA6D2766C0Fb8AF759F"
+  ],
+  "protocols": ["Balancer"]
+}
