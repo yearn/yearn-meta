@@ -1,0 +1,12 @@
+{
+  "$schema": "strategy",
+  "name": "Aave Flashmint Folding",
+  "description": "Supplies and borrows {{token}} on [AAVE](https://app.aave.com/home) simultaneously to maximize stAAVE earnings. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0xBCF537f93FAc59D35a8e7Ac8d132ab5aE860481D",
+    "0xDfFe2E8B9DD8Cc0367AAED727c07a8d2bB36Ed8b",
+    "0x53b087ad0e7790477AF36429cFCa606D373E3EbD",
+    "0x429F5D3549096ec25D6F5E9BbA193bdDE9131584"
+  ],
+  "protocols": ["Aave", "MakerDAO"]
+}

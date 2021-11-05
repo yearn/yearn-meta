@@ -1,0 +1,12 @@
+{
+  "$schema": "strategy",
+  "name": "Compound Finance Flashmint Folding",
+  "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0x7900c70a377f89DF29D1D1939469ae3B74c5B740",
+    "0x1676055fE954EE6fc388F9096210E5EbE0A9070c",
+    "0x8C818613A97900CC1EDA5893F04701b62e7c1138"
+  ],
+  "protocols": ["CompoundFinance", "MakerDAO"]
+}
+  
