@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
           # # Make sure the actual branch is checked out when running on pull requests
-          ref: ${{ github.ref }}
+          ref: ${{ github.head_ref }}
           persist-credentials: False
 
       - name: Prettify code
