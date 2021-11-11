@@ -22,7 +22,7 @@ for (const name of fs.readdirSync(__dirname)) {
         fs.writeFileSync(path.join(__dirname, address), JSON.stringify(copy));
       }
 
-      all.push(source)
+      all.push(source);
     }
   }
 }
