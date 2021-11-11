@@ -2,8 +2,6 @@
   "$schema": "strategy",
   "name": "Scream Folding",
   "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": [
-    "0x935601c5694f23491921c14aA235c65c2ea2c4DE"
-  ],
+  "addresses": ["0x935601c5694f23491921c14aA235c65c2ea2c4DE"],
   "protocols": ["Scream"]
 }
