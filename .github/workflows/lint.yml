@@ -3,7 +3,10 @@ on:
   push:
     branches:
       - master
+
   pull_request:
+    branches:
+      - master
 jobs:
   lint:
     name: Lint data
@@ -12,19 +15,21 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
-
-      - name: Use Node 14.x
-        uses: actions/setup-node@v1
         with:
-          node-version: 14.x
+          # Make sure the actual branch is checked out when running on pull requests
+          ref: ${{ github.head_ref }}
+          # This is important to fetch the changes to the previous commit
+          fetch-depth: 0
+          persist-credentials: false
 
-      - name: Install deps (with cache)
-        uses: bahmutov/npm-install@v1
-
-      - name: Lint data
-        run: |
-          npm install -g prettier
-          prettier --check .
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.0
+        with:
+          # This part is also where you can pass other options, for example:
+          prettier_options: --write **/*.{js,mjs,json,md}
+          same_commit: False
+          commit_message: "style: lint code"
+          github_token: ${{ secrets.MILKYKLIM_WATCHING_YOU }}
 
   verify:
     name: Verify data
