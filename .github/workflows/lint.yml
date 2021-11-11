@@ -1,5 +1,9 @@
 name: Validation
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - master
+  pull_request:
 jobs:
   lint:
     name: Lint data
