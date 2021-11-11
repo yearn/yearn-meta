@@ -1,12 +1,9 @@
 name: Validation
 on:
-  push:
-    branches:
-      - master
-
   pull_request:
     branches:
       - master
+
 jobs:
   lint:
     name: Lint data
@@ -16,11 +13,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
         with:
-          # Make sure the actual branch is checked out when running on pull requests
-          ref: ${{ github.head_ref }}
-          # This is important to fetch the changes to the previous commit
           fetch-depth: 0
-          persist-credentials: false
+          # # Make sure the actual branch is checked out when running on pull requests
+          ref: ${{ github.ref }}
+          persist-credentials: False
 
       - name: Prettify code
         uses: creyD/prettier_action@v4.0
