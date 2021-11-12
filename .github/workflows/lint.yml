@@ -17,7 +17,7 @@ jobs:
           # # Make sure the actual branch is checked out when running on pull requests
           ref: ${{ github.head_ref }}
           repository: ${{github.event.pull_request.head.repo.full_name}}
-          persist-credentials: False
+          # persist-credentials: False
 
       - name: Prettify code
         uses: creyD/prettier_action@v4.0
@@ -26,7 +26,7 @@ jobs:
           prettier_options: --write **/*.{js,mjs,json,md}
           same_commit: False
           commit_message: "style: lint code"
-          github_token: ${{ secrets.MILKYKLIM_WATCHING_YOU }}
+          # github_token: ${{ secrets.MILKYKLIM_WATCHING_YOU }}
 
   verify:
     name: Verify data
