@@ -26,7 +26,7 @@ jobs:
           prettier_options: --write **/*.{js,mjs,json,md}
           same_commit: False
           commit_message: "style: lint code"
-          github_token: ${{ secrets.MILKYKLIM_WATCHING_YOU }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
   verify:
     name: Verify data
