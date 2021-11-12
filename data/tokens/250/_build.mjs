@@ -5,6 +5,7 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 let all = [];
+let supportedZaps = [];
 
 for (const name of fs.readdirSync(__dirname)) {
   const file = path.join(__dirname, name);
@@ -15,8 +16,18 @@ for (const name of fs.readdirSync(__dirname)) {
       const source = JSON.parse(fs.readFileSync(file));
       source.address = parse.name;
       all.push(source);
+
+      if (source.supportedZaps) {
+        let obj = {};
+        obj[source.address] = source.supportedZaps;
+        supportedZaps.push(obj);
+      }
     }
   }
 }
 
 fs.writeFileSync(path.join(__dirname, "all"), JSON.stringify(all));
+fs.writeFileSync(
+  path.join(__dirname, "allSupportedZaps"),
+  JSON.stringify(supportedZaps)
+);
