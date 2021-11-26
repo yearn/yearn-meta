@@ -9,6 +9,5 @@
   "allowZapIn": true,
   "allowZapOut": true,
   "retired": false,
-  "displayName": "USDC",
-  "apyTypeOverride": "new"
+  "displayName": "USDC"
 }
