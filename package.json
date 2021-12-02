@@ -17,5 +17,9 @@
     "fs-extra": "^9.1.0",
     "node-fetch": "^2.6.1",
     "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "format": "prettier --write . --verbose",
+    "format:check": "prettier --check ."
   }
 }
