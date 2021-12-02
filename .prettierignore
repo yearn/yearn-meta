@@ -5,8 +5,6 @@
 .gitattributes
 .env
 .env.example
-docs
-audits
 
 # JS
 node_modules
