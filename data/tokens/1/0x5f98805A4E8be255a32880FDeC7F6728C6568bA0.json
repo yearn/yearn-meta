@@ -1,0 +1,8 @@
+{
+  "$schema": "token",
+  "categories": ["USD Stablecoin"],
+  "description": "Liquity is a decentralized borrowing protocol that allows you to borrow LUSD (a USD pegged stablecoin) interest free using Ether as collateral. The loans are securated by a Stability Pool containing LUSD and by borrowers collectively acting as guarantors of last resort.",
+  "website": "https://www.liquity.org//",
+  "tokenSymbolOverride": "LUSD",
+  "tokenNameOverride": "Liquity LUSD"
+}
