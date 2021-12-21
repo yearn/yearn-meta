@@ -1,0 +1,8 @@
+{
+  "$schema": "token",
+  "categories": ["Curve LP Tokens"],
+  "description": "DOLA is a stablecoin token that tracks the price of $1. DOLA can be minted by using other assets on Anchor as collateral and can also be used itself as collateral to borrow other assets on Anchor.",
+  "website": "https://www.curve.fi/",
+  "tokenSymbolOverride": "DOLA-3pool",
+  "tokenNameOverride": "Curve DOLA 3crv Pool"
+}
