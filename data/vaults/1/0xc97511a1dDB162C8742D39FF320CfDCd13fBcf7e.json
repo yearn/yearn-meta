@@ -1,0 +1,14 @@
+{
+  "$schema": "vault",
+  "comment": "Curve USDPax vault",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 20.5,
+  "apyTypeOverride": "n/a",
+  "migrationAvailable": false,
+  "allowZapIn": true,
+  "allowZapOut": true,
+  "retired": false,
+  "displayName": "Curve USDPax"
+}
