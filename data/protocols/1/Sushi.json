@@ -1,0 +1,5 @@
+{
+  "$schema": "protocol",
+  "name": "Sushi Swap",
+  "description": "Sushi Swap is an automated market maker protocol designed for token swaps. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+}
