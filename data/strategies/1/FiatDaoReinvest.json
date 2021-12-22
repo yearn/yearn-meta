@@ -1,0 +1,9 @@
+{
+  "$schema": "strategy",
+  "name": "Fiat Dao Reinvest",
+  "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com/rewards) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0x0250AA4a3849F5958620048270e1FC1C9ADedC2C"
+  ],
+  "protocols": ["Fiat Dao"]
+}
