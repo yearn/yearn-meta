@@ -1,0 +1,6 @@
+{
+  "$schema": "token",
+  "categories": ["USD Stablecoin"],
+  "description": "Frapped USDT is an innovative wrapper for USDT token. A product of popsicle.finance",
+  "website": "https://frapped.io/"
+}

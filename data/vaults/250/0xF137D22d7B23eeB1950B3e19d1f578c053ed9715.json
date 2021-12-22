@@ -1,0 +1,13 @@
+{
+  "$schema": "vault",
+  "comment": "Geist Curve",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 6,
+  "migrationAvailable": false,
+  "allowZapIn": false,
+  "allowZapOut": false,
+  "retired": false,
+  "displayName": "g3CRV"
+}
