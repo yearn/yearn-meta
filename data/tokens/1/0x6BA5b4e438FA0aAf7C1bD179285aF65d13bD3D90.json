@@ -1,7 +1,7 @@
 {
   "$schema": "token",
   "categories": ["Curve LP Tokens"],
-  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains RAI and 3Crv.",
+  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and RAI. Please be aware that as RAI is not pegged to $1, this pool may be subject to impermanent loss.",
   "website": "https://www.curve.fi/",
   "tokenSymbolOverride": "crvRAI",
   "tokenNameOverride": "Curve RAI+3Crv Pool"
