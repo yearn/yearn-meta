@@ -1,6 +1,6 @@
 {
   "$schema": "vault",
-  "comment": "Curve UST",
+  "comment": "Curve UST, retired since there is now a better option with UST-Wormhole",
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
@@ -8,6 +8,6 @@
   "migrationAvailable": false,
   "allowZapIn": true,
   "allowZapOut": true,
-  "retired": false,
+  "retired": true,
   "displayName": "Curve UST"
 }
