@@ -1,13 +1,14 @@
 {
   "$schema": "vault",
-  "comment": "Curve UST, retired since there is now a better option with UST-Wormhole",
+  "comment": "Curve CRV-ETH vault",
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
-  "order": 40,
+  "order": 22.5,
+  "apyTypeOverride": "n/a",
   "migrationAvailable": false,
   "allowZapIn": true,
   "allowZapOut": true,
-  "retired": true,
-  "displayName": "Curve UST"
+  "retired": false,
+  "displayName": "Curve CRV-ETH"
 }
