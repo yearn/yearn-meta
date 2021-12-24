@@ -1,5 +1,5 @@
 {
   "$schema": "protocol",
   "name": "Fiat DAO",
-  "description": "Fiat DAO lets you borrow against your fixed income assets issued by leading DeFi protocols at high loan-to-value ratios via the FIAT token. Users can have a say in protocol governance with its native FDT token."
+  "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
 }
