@@ -2,10 +2,6 @@
   "$schema": "strategy",
   "name": "Kashi Lender",
   "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": [
-    "0xC8f17f8E15900b6D6079680b15Da3cE5263f62AA",
-    "0x564bf2844654f149821697cC56572eE4384c05f7",
-    "0xd2CF8B07fc913e6219E5031B147827c4D0e58A08"
-  ],
+  "addresses": ["0x24BC86a808D45f0AAd8008bd3ac2D9356007e833"],
   "protocols": ["Sushi"]
 }

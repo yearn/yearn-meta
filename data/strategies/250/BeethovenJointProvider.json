@@ -1,10 +1,13 @@
 {
   "$schema": "strategy",
   "name": "Beethoven-x Joint Provider",
-  "description": "Supplies {{token}} as half of a join liquidity provider for a liquidity pool on [Beethoven-x](https://www.beets.fi). Rewards are harvested, split between the two pairs, sold for more {{token}}, and deposited back into the strategy.",
+  "description": "Supplies {{token}} as half (or a third) of a joint liquidity provider for a liquidity pool on [Beethoven-x](https://beets.fi). Rewards are harvested, divided between the two (or three) pairs, sold for more {{token}}, and deposited back into the strategy.",
   "addresses": [
     "0xAB1d2ABbe31FA5945BfA0864f29dadDcB9cd9eAc",
-    "0xff3AeA00d3d58ba1a3672c766cc5060FfCb8cca3"
+    "0xff3AeA00d3d58ba1a3672c766cc5060FfCb8cca3",
+    "0xbBdc83357287a29Aae30cCa520D4ed6C750a2a11",
+    "0xfa9A5C7C27030602F1C03f7377553D1e694e1615",
+    "0xE6b7D27157673aD2ae21AFD23CC35DA766105431"
   ],
   "protocols": ["Beethoven-x"]
 }
