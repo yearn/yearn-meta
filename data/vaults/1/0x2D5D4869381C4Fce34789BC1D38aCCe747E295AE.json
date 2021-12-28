@@ -1,6 +1,6 @@
 {
   "$schema": "vault",
-  "comment": "Curve RAI vault",
+  "comment": "Curve RAI Vault",
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,

@@ -1,6 +1,6 @@
 {
   "$schema": "vault",
-  "comment": "Curve USDPax vault",
+  "comment": "Curve USDPax Vault",
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
