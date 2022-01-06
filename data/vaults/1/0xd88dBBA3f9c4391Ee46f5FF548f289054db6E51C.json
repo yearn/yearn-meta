@@ -5,7 +5,7 @@
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
   "order": 10.5,
-  "apyTypeOverride": "n/a",
+  "apyTypeOverride": "new",
   "migrationAvailable": false,
   "allowZapIn": true,
   "allowZapOut": true,
