@@ -1,0 +1,8 @@
+{
+  "$schema": "token",
+  "categories": ["Curve LP Tokens"],
+  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and OUSD, a decentralzed stablecoin backed 1:1 by other stablecoins.",
+  "website": "https://www.curve.fi/",
+  "tokenSymbolOverride": "crvOUSD",
+  "tokenNameOverride": "Curve OUSD Pool"
+}
