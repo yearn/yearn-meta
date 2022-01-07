@@ -1,0 +1,8 @@
+{
+  "$schema": "token",
+  "categories": ["Curve LP Tokens"],
+  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and ibBTC, a yield-bearing synthetic bitcoin from Badger Finance.",
+  "website": "https://www.curve.fi/",
+  "tokenSymbolOverride": "crvIBBTC",
+  "tokenNameOverride": "Curve ibBTC Pool"
+}

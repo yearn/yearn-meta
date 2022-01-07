@@ -1,0 +1,8 @@
+{
+  "$schema": "token",
+  "categories": ["Curve LP Tokens"],
+  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins.",
+  "website": "https://curve.fi",
+  "tokenSymbolOverride": "crvD3POOL",
+  "tokenNameOverride": "Curve d3pool"
+}

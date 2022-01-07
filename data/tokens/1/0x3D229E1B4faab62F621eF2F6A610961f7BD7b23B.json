@@ -1,0 +1,8 @@
+{
+  "$schema": "token",
+  "categories": ["Curve LP Tokens"],
+  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains both Stasis Euro (EURS) and USDC. Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss.",
+  "website": "https://www.curve.fi/",
+  "tokenSymbolOverride": "crvEURSUSDC",
+  "tokenNameOverride": "Curve EURS-USDC Pool"
+}
