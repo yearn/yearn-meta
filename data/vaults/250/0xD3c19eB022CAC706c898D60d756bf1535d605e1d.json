@@ -1,0 +1,14 @@
+{
+  "$schema": "vault",
+  "comment": "Abra gov token",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "apyTypeOverride": "new",
+  "order": 6,
+  "migrationAvailable": false,
+  "allowZapIn": false,
+  "allowZapOut": false,
+  "retired": false,
+  "displayName": "SPELL"
+}

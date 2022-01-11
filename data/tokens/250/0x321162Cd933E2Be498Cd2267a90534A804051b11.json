@@ -1,0 +1,6 @@
+{
+  "$schema": "token",
+  "categories": ["Wrapped or Synthetic Assets"],
+  "description": "Wrapped Bitcoin is a tokenized version of Bitcoin (BTC) that runs on the Ethereum blockchain. The Wrapped Tokens project, of which WBTC is a part, was founded as a joint project of three organizations: BitGo, Kyber Network and Ren. BitGo also serves as the entity that holds WBTC tokens and the keys needed to mint more of them. WBTC is backed by Bitcoin at a 1:1 ratio via a network of automatically monitored merchants and custodians.",
+  "website": "https://www.wbtc.network/"
+}
