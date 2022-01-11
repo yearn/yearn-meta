@@ -1,0 +1,9 @@
+{
+  "$schema": "strategy",
+  "name": "Inverse Sushibar reinvest",
+  "description": "Supplies {{token}} to SushiBar to earn protocol fees, further lends SushiBar token to InverseFinance for rewards. Both rewards are sold for {{token}} and reinvested back into the strategy.",
+  "addresses": [
+    "0xba794fb8F64Caedba76F592468bdFaE5147a6de0"
+  ],
+  "protocols": ["Sushi", "InverseFinance"]
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "LiquityUSD Stability Pool Strategy",
+  "description": "Supplies {{token}} to Liquity's Stability Popol to learn LQTY rewards and ETH (from trove liquidations.) Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": ["0x8ec4c06960c6BDBb4964D1830aC1355EE78401bD"],
+  "protocols": ["Liquity"]
+}
