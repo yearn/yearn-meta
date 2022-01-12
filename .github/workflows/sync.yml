@@ -44,3 +44,11 @@ jobs:
           cloudflare-secret: ${{ secrets.CLOUDFLARE_SECRET }}
           record-domain: yearn.network
           record-name: _dnslink.meta
+          
+      - name: Pin to Crust
+        uses: crustio/ipfs-crust-action@v2.0.6
+        continue-on-error: true
+        timeout-minutes: 2
+        with:
+          cid: ${{ steps.upload.outputs.cidv1 }}
+          seeds: ${{ secrets.CRUST_SEEDS }}
