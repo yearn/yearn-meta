@@ -1,0 +1,5 @@
+{
+  "$schema": "protocol",
+  "name": "Liquity",
+  "description": "Liquity is a decentralized borrowing protocol built on Ethereum that allows you to draw interest-free loans against Ether via its LUSD stablecoin."
+}
