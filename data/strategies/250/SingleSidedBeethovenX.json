@@ -1,0 +1,11 @@
+{
+  "$schema": "strategy",
+  "name": "Beethoven-x Yield Seeker",
+  "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0xbBdc83357287a29Aae30cCa520D4ed6C750a2a11",
+    "0xfa9A5C7C27030602F1C03f7377553D1e694e1615",
+    "0xE6b7D27157673aD2ae21AFD23CC35DA766105431"
+  ],
+  "protocols": ["Beethoven-x"]
+}
