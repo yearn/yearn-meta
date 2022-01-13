@@ -4,7 +4,8 @@
   "description": "Supplies {{token}} to [Scream](scream.sh) to generate interest and earn SCREAM tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
   "addresses": [
     "0x357ca46da26E1EefC195287ce9D838A6D5023ef3",
-    "0x83a5Af7540E919dE74cf2D6d5F40e47f11D3E8d1"
+    "0x83a5Af7540E919dE74cf2D6d5F40e47f11D3E8d1",
+    "0xfF8bb7261E4D51678cB403092Ae219bbEC52aa51"
   ],
   "protocols": ["Scream"]
 }
