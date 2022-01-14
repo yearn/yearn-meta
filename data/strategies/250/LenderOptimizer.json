@@ -3,14 +3,13 @@
   "name": "Lender Optimizer",
   "description": "Supplies {{token}} to [Iron Bank](https://beta.yearn.finance/#/ironbank) or [Scream](scream.sh) whichever has the best yield to generate interest. Earned tokens are harvested, sold for more {{token}}, then deposited back into the strategy.",
   "addresses": [
-    "0x695a4a6e5888934828cb97a3a7adbfc71a70922d",
-    "0xd0d1f041f93c0ff1091457618e529610c67a76de",
+    "0x695A4a6e5888934828Cb97A3a7ADbfc71A70922D",
+    "0xD0D1f041F93c0fF1091457618E529610C67A76de",
     "0x27a5ce447f4E581aE69061E90521da4B5b298818",
     "0xDf262B43bea0ACd0dD5832cf2422e0c9b2C539dc",
-    "0xd025b85db175ef1b175af223bd37f330db277786",
-    "0xF39E31D1bC0D43A0eb755f758d01fd70bECee471",
-    "0x754133e0f67CB51263d6d5F41f2dF1a58a9D36b7",
-    "0x5920892f23967728E16135c21aB8BeEC8C548927"
+    "0xd025b85db175EF1b175Af223BD37f330dB277786",
+    "0x83a5Af7540E919dE74cf2D6d5F40e47f11D3E8d1",
+    "0xfF8bb7261E4D51678cB403092Ae219bbEC52aa51"
   ],
   "protocols": ["Scream", "IronBank"]
 }
