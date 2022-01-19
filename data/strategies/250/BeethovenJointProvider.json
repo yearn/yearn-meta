@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
-  "name": "Beethoven-x Liquidity Boot Strapping Pool Joint Provider",
-  "description": "Supplies {{token}} as half (or a third) of a joint liquidity provider for a Liquidity Boot Strapping Pool on [Beethoven-x](https://beets.fi) which dynamically adjusts the pool's weights to limit Impermanent Loss to earn BEETS and trading fees. Rewards are harvested, divided between the two (or three) pairs, sold for more {{token}}, and deposited back into the strategy.",
+  "name": "Beethoven-x Joint Provider",
+  "description": "Supplies {{token}} as half of a joint liquidity provider for a Liquidity Boot Strapping Pool on [Beethoven-x](https://beets.fi) which dynamically adjusts the pool's weights to limit Impermanent Loss while earning BEETS and fees. Rewards are harvested, divided between the pairs, sold for more {{token}}, and deposited back into the strategy.",
   "addresses": [
     "0xAB1d2ABbe31FA5945BfA0864f29dadDcB9cd9eAc",
     "0xff3AeA00d3d58ba1a3672c766cc5060FfCb8cca3",
