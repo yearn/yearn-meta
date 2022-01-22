@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "veDAO Reinvest",
-  "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) {{token}} to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
   "addresses": [
     "0x235750AF5Fdb77cA827c2ee0Ab469188bC877cC6",
     "0x6a59081C7d5ac3e82c58D5f595ed25D55E71EBDa",
