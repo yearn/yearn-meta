@@ -1,9 +1,10 @@
 {
   "$schema": "vault",
-  "comment": "WFTM",
+  "comment": "WFTM prod vault",
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
+  "apyOverride": 1.4227,
   "order": 0,
   "migrationAvailable": false,
   "allowZapIn": false,
