@@ -1,6 +1,6 @@
 {
   "$schema": "strategy",
-  "name": "Spirit Joint Provider",
+  "name": "Spirit Joint Provider Hedged",
   "description": "Supplies {{token}} as half of a joint liquidity provider for a pool on [SpiritSwap](https://app.spiritswap.finance) also this strategy limits Impermanent Loss via Hedgil in a protection range while earning SPIRIT and fees. Earned tokens are harvested, divided between the pairs, sold for more {{token}} which is deposited back into the strategy.",
   "addresses": [
     "0x608eAA0d2dc7864E065930F09DDc541e0ABD9b60",
