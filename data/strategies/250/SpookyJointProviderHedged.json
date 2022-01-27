@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "Spooky Joint Provider Hedged",
-  "description": "Supplies {{token}} as half of a joint liquidity provider for a pool on [SpookySwap](https://spookyswap.finance/farms) also this strategy limits Impermanent Loss via Hedgil in a protection range while earning BOO and fees. Earned tokens are harvested, divided between the tokens, sold for more {{token}} which is deposited back into the strategy.",
+  "description": "Supplies {{token}} as half of a joint liquidity provider for a pool on [SpookySwap](https://spookyswap.finance/farms) also this strategy limits Impermanent Loss via Hedgil in a protected range while earning BOO and fees. Earned tokens are harvested, divided between the tokens, sold for more {{token}} which is deposited back into the strategy.",
   "addresses": [
     "0x9b536FD704944110d5F742840a206C45f6858920",
     "0x84A92b621897Bf7e4a95e80d91b3ab7491e9Db39"
