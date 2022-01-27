@@ -1,0 +1,12 @@
+{
+  "$schema": "strategy",
+  "name": "Spirit Joint Provider",
+  "description": "Supplies {{token}} as half of a joint liquidity provider for a Liquidity Pool on [SpiritSwap](https://app.spiritswap.finance) also this strategy limits Impermanent Loss while earning SPIRIT and fees. Earned tokens are harvested, divided between the pairs, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0x608eAA0d2dc7864E065930F09DDc541e0ABD9b60",
+    "0x9b536FD704944110d5F742840a206C45f6858920",
+    "0x92Bfa94ab2c84bae8eC3cd1876ee69E86ce9b24d",
+    "0x84A92b621897Bf7e4a95e80d91b3ab7491e9Db39"
+  ],
+  "protocols": ["SpiritSwap"]
+}
