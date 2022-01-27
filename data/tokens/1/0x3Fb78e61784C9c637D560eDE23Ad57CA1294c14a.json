@@ -1,0 +1,8 @@
+{
+  "$schema": "token",
+  "categories": ["Curve LP Tokens"],
+  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This curve pool contains EURN and EURT.",
+  "website": "https://curve.fi",
+  "tokenSymbolOverride": "crvEURN",
+  "tokenNameOverride": "Curve EURN Pool"
+}
