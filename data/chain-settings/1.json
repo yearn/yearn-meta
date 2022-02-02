@@ -1,5 +1,0 @@
-{
-  "$schema": "chain-settings",
-  "simulationsEnabled": true,
-  "zapsEnabled": true
-}
