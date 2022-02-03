@@ -2,7 +2,7 @@
   "$schema": "token",
   "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to Aave, a decentralized money market on Ethereum.",
-  "website": "https://www.curve.fi/",
+  "website": "https://www.curve.fi/aave/",
   "tokenSymbolOverride": "crvAAVE",
   "tokenNameOverride": "Curve Aave Pool"
 }
