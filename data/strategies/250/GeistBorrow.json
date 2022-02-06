@@ -1,0 +1,12 @@
+{
+  "$schema": "strategy",
+  "name": "Geist Borrow",
+  "description": "Supplies {{token}} to [Geist Finance](https://geist.finance/deposit) to generate interest and earn GEIST. This strategy also borrows tokens against {{token}}. Borrowed tokens are then deposited into the corresponding yVault to generate yield. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0x2195810c2A937259053C25AFc8D221ae2369cBAC",
+    "0xa09cC3C8b05eDC7eA9615fA8bb8e904814C73a15",
+    "0xcCd1938Ea67BFf58f859512F7C8E5b70928020E2",
+    "0x0e207674E05dC6Ff7fE949eB57409bF3B980FF41"
+  ],
+  "protocols": ["GeistFinance"]
+}
