@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "Masterchef Generic Reinvest",
-  "description": "Supplies {{token}} to a generic masterchef genesis pool to earn tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. The farming of a masterchef-forked contract is not an endorsement of the project by Yearn.",
+  "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
   "addresses": [
     "0x2327585bc4E6E505459C61CBF9a358a3558D6600",
     "0x6F1563CAA81004E87a7F3c476E19B355A11fc4eD",
