@@ -1,0 +1,5 @@
+{
+  "$schema": "protocol",
+  "name": "Ripae Finance",
+  "description": "RipaeFinance is an algorithmic stablecoin on Fantom, pegged to the price of 1 FTM via seigniorage."
+}
