@@ -1,7 +1,0 @@
-{
-  "$schema": "strategy",
-  "name": "Centurian Reinvest",
-  "description": "Supplies {{token}} to Centurian to earn CENT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": ["0x6F1563CAA81004E87a7F3c476E19B355A11fc4eD"],
-  "protocols": ["Centurian"]
-}
