@@ -8,6 +8,6 @@
   "migrationAvailable": false,
   "allowZapIn": true,
   "allowZapOut": true,
-  "retired": false,
+  "retired": true,
   "displayName": "Curve HUSD"
 }
