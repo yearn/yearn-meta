@@ -1,0 +1,7 @@
+{
+  "$schema": "strategy",
+  "name": "Fiat Dao Reinvest",
+  "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy.",
+  "addresses": ["0x0250AA4a3849F5958620048270e1FC1C9ADedC2C"],
+  "protocols": ["Notional Finance"]
+}
