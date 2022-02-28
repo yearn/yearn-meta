@@ -1,0 +1,5 @@
+{
+  "$schema": "protocol",
+  "name": "Notional Finance",
+  "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+}
