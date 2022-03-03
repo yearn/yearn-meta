@@ -1,6 +1,49 @@
 {
-  "$schema": "token",
-  "categories": ["USD Stablecoin"],
-  "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD’s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities.",
-  "website": "https://trueusd.com/"
+    "$schema": "token",
+    "categories": [
+        "USD Stablecoin"
+    ],
+    "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities.",
+    "website": "https://trueusd.com/",
+    "localization": {
+        "en": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "fr": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "es": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "de": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "pt": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "el": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "tr": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "vi": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "zh": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "hi": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "ja": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "id": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        },
+        "ru": {
+            "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1.  TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD\u2019s equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+        }
+    }
 }

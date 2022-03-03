@@ -1,5 +1,59 @@
 {
-  "$schema": "protocol",
-  "name": "Pool Together",
-  "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+    "$schema": "protocol",
+    "name": "Pool Together",
+    "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up.",
+    "localization": {
+        "en": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "fr": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "es": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "de": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "pt": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "el": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "tr": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "vi": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "zh": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "hi": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "ja": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "id": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        },
+        "ru": {
+            "name": "Pool Together",
+            "description": "PoolTogether is a deceptively simple DeFi app that incentivizes users to deposit funds with the opportunity to win prizes. In PoolTogether, there are two types of prize pools: those set up by the PoolTogether project and community prize pools that anyone can set up."
+        }
+    }
 }

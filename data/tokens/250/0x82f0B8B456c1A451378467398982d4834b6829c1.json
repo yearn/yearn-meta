@@ -1,6 +1,49 @@
 {
-  "$schema": "token",
-  "categories": ["USD Stablecoin"],
-  "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets.",
-  "website": "https://abracadabra.money/"
+    "$schema": "token",
+    "categories": [
+        "USD Stablecoin"
+    ],
+    "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets.",
+    "website": "https://abracadabra.money/",
+    "localization": {
+        "en": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "fr": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "es": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "de": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "pt": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "el": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "tr": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "vi": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "zh": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "hi": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "ja": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "id": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        },
+        "ru": {
+            "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
+        }
+    }
 }

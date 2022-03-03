@@ -1,6 +1,49 @@
 {
-  "$schema": "token",
-  "categories": ["Governance Tokens"],
-  "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees.",
-  "website": "https://www.curve.fi/"
+    "$schema": "token",
+    "categories": [
+        "Governance Tokens"
+    ],
+    "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees.",
+    "website": "https://www.curve.fi/",
+    "localization": {
+        "en": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "fr": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "es": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "de": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "pt": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "el": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "tr": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "vi": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "zh": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "hi": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "ja": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "id": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        },
+        "ru": {
+            "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+        }
+    }
 }

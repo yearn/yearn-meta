@@ -1,24 +1,80 @@
 {
-  "$schema": "strategy",
-  "name": "Curve Yield Seeker",
-  "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool.",
-  "addresses": [
-    "0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36",
-    "0xb85413f6d07454828eAc7E62df7d847316475178",
-    "0xf840d061E83025F4cD6610AE5DDebCcA43327f9f",
-    "0x30010039Ea4a0c4fa1Ac051E8aF948239678353d",
-    "0x4b254EbBbb8FDb9D3E848501784692b2726b310c",
-    "0x29367915508e47c631d220caEbA855901c13a3dE",
-    "0x64B2a32f030D9210E51ed8884C0D58b89137Ca81",
-    "0xa6D1C610B3000F143c18c75D84BaA0eC22681185",
-    "0xF9fDc2B5F60355A237deb8BD62CC117b1C907f7b",
-    "0xc57A4D3FBEF85e675f6C3656498beEfe6F9DcB55",
-    "0x148f64a2BeD9c815EDcD43754d3323283830070c",
-    "0x0c8f62939Aeee6376f5FAc88f48a5A3F2Cf5dEbB",
-    "0x65A8efC842D2Ba536d3F781F504A1940f61124b4",
-    "0x92c212F4d6A8Ad964ACAe745e1B45309B470Af6E",
-    "0xBEDDD783bE73805FEbda2C40a2BF3881F04Fd7Cc",
-    "0x494A7255C8df1f8d6064971707dB18dd1627d835"
-  ],
-  "protocols": ["CurveFinance"]
+    "$schema": "strategy",
+    "name": "Curve Yield Seeker",
+    "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool.",
+    "addresses": [
+        "0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36",
+        "0xb85413f6d07454828eAc7E62df7d847316475178",
+        "0xf840d061E83025F4cD6610AE5DDebCcA43327f9f",
+        "0x30010039Ea4a0c4fa1Ac051E8aF948239678353d",
+        "0x4b254EbBbb8FDb9D3E848501784692b2726b310c",
+        "0x29367915508e47c631d220caEbA855901c13a3dE",
+        "0x64B2a32f030D9210E51ed8884C0D58b89137Ca81",
+        "0xa6D1C610B3000F143c18c75D84BaA0eC22681185",
+        "0xF9fDc2B5F60355A237deb8BD62CC117b1C907f7b",
+        "0xc57A4D3FBEF85e675f6C3656498beEfe6F9DcB55",
+        "0x148f64a2BeD9c815EDcD43754d3323283830070c",
+        "0x0c8f62939Aeee6376f5FAc88f48a5A3F2Cf5dEbB",
+        "0x65A8efC842D2Ba536d3F781F504A1940f61124b4",
+        "0x92c212F4d6A8Ad964ACAe745e1B45309B470Af6E",
+        "0xBEDDD783bE73805FEbda2C40a2BF3881F04Fd7Cc",
+        "0x494A7255C8df1f8d6064971707dB18dd1627d835"
+    ],
+    "protocols": [
+        "CurveFinance"
+    ],
+    "localization": {
+        "en": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "fr": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "es": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "de": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "pt": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "el": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "tr": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "vi": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "zh": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "hi": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "ja": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "id": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        },
+        "ru": {
+            "name": "Curve Yield Seeker",
+            "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+        }
+    }
 }

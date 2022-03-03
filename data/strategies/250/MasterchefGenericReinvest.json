@@ -1,15 +1,69 @@
 {
-  "$schema": "strategy",
-  "name": "Masterchef Generic Reinvest",
-  "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": [
-    "0x2327585bc4E6E505459C61CBF9a358a3558D6600",
-    "0x6F1563CAA81004E87a7F3c476E19B355A11fc4eD",
-    "0xfeb61a9E0B4A55f65875486c61Bf313B32C48A46",
-    "0x28F2fB6730d5dbeFc4FF9eB375Bbf33BcB36e774",
-    "0xf84DD489ad9f55e95593eB266d9D4C1490ece915",
-    "0xE635905E321e404027bC369fF7FD5Ad63C26975f",
-    "0x4cF620a388d36Fb527ddc03a515b8677c14A967a"
-  ],
-  "protocols": []
+    "$schema": "strategy",
+    "name": "Masterchef Generic Reinvest",
+    "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": [
+        "0x2327585bc4E6E505459C61CBF9a358a3558D6600",
+        "0x6F1563CAA81004E87a7F3c476E19B355A11fc4eD",
+        "0xfeb61a9E0B4A55f65875486c61Bf313B32C48A46",
+        "0x28F2fB6730d5dbeFc4FF9eB375Bbf33BcB36e774",
+        "0xf84DD489ad9f55e95593eB266d9D4C1490ece915",
+        "0xE635905E321e404027bC369fF7FD5Ad63C26975f",
+        "0x4cF620a388d36Fb527ddc03a515b8677c14A967a"
+    ],
+    "protocols": [],
+    "localization": {
+        "en": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "fr": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "es": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "de": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "pt": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "el": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "tr": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "vi": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "zh": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "hi": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ja": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "id": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ru": {
+            "name": "Masterchef Generic Reinvest",
+            "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        }
+    }
 }

@@ -1,10 +1,68 @@
 {
-  "$schema": "strategy",
-  "name": "Staked AAVE Cooldown",
-  "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices.",
-  "addresses": [
-    "0x86bcA96E6f7e816884f752399bC9a60651B34B93",
-    "0xdcfFee74ABDCf70453Bb798Be1b41462EDdbC692"
-  ],
-  "protocols": ["AAVE", "Sushi", "Uniswap"]
+    "$schema": "strategy",
+    "name": "Staked AAVE Cooldown",
+    "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices.",
+    "addresses": [
+        "0x86bcA96E6f7e816884f752399bC9a60651B34B93",
+        "0xdcfFee74ABDCf70453Bb798Be1b41462EDdbC692"
+    ],
+    "protocols": [
+        "AAVE",
+        "Sushi",
+        "Uniswap"
+    ],
+    "localization": {
+        "en": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "fr": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "es": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "de": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "pt": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "el": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "tr": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "vi": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "zh": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "hi": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "ja": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "id": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        },
+        "ru": {
+            "name": "Staked AAVE Cooldown",
+            "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+        }
+    }
 }

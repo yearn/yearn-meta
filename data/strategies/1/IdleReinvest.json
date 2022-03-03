@@ -1,12 +1,68 @@
 {
-  "$schema": "strategy",
-  "name": "Idle Finance Reinvest",
-  "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": [
-    "0x9f51F4df0b275dfB1F74f6Db86219bAe622B36ca",
-    "0x2E1ad896D3082C52A5AE7Af307131DE7a37a46a0",
-    "0x01b54c320d6B3057377cbc71d953d1BBa84df44e",
-    "0x5D411D2cde10e138d68517c42bE2808C90c22026"
-  ],
-  "protocols": ["IdleFinance"]
+    "$schema": "strategy",
+    "name": "Idle Finance Reinvest",
+    "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": [
+        "0x9f51F4df0b275dfB1F74f6Db86219bAe622B36ca",
+        "0x2E1ad896D3082C52A5AE7Af307131DE7a37a46a0",
+        "0x01b54c320d6B3057377cbc71d953d1BBa84df44e",
+        "0x5D411D2cde10e138d68517c42bE2808C90c22026"
+    ],
+    "protocols": [
+        "IdleFinance"
+    ],
+    "localization": {
+        "en": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "fr": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "es": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "de": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "pt": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "el": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "tr": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "vi": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "zh": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "hi": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ja": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "id": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ru": {
+            "name": "Idle Finance Reinvest",
+            "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        }
+    }
 }
