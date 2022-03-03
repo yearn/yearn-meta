@@ -1,6 +1,49 @@
 {
-  "$schema": "token",
-  "categories": ["USD Stablecoin"],
-  "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles.",
-  "website": "https://synthetix.io"
+    "$schema": "token",
+    "categories": [
+        "USD Stablecoin"
+    ],
+    "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles.",
+    "website": "https://synthetix.io",
+    "localization": {
+        "en": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "fr": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "es": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "de": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "pt": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "el": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "tr": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "vi": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "zh": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "hi": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "ja": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "id": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        },
+        "ru": {
+            "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. Like all synthetic assets minted on Synthetix, sUSD is overcollateralized by SNX stakers and mirrors the price of real-world assets (in this case, the US Dollar) via integration with Chainlink oracles."
+        }
+    }
 }

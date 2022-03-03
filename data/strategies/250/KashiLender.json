@@ -1,7 +1,65 @@
 {
-  "$schema": "strategy",
-  "name": "Kashi Lender",
-  "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": ["0x24BC86a808D45f0AAd8008bd3ac2D9356007e833"],
-  "protocols": ["Sushi"]
+    "$schema": "strategy",
+    "name": "Kashi Lender",
+    "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": [
+        "0x24BC86a808D45f0AAd8008bd3ac2D9356007e833"
+    ],
+    "protocols": [
+        "Sushi"
+    ],
+    "localization": {
+        "en": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "fr": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "es": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "de": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "pt": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "el": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "tr": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "vi": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "zh": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "hi": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ja": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "id": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ru": {
+            "name": "Kashi Lender",
+            "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        }
+    }
 }

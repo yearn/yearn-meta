@@ -1,5 +1,59 @@
 {
-  "$schema": "protocol",
-  "name": "Fiat DAO",
-  "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+    "$schema": "protocol",
+    "name": "Fiat DAO",
+    "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token.",
+    "localization": {
+        "en": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "fr": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "es": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "de": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "pt": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "el": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "tr": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "vi": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "zh": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "hi": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "ja": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "id": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        },
+        "ru": {
+            "name": "Fiat DAO",
+            "description": "Fiat DAO lets you get leverage and access secondary liquidity for your favorite DeFi fixed income assets. Users can have a say in protocol governance with its native FDT token."
+        }
+    }
 }

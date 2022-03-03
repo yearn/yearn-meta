@@ -1,7 +1,65 @@
 {
-  "$schema": "strategy",
-  "name": "LiquityUSD Stability Pool Strategy",
-  "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": ["0x8ec4c06960c6BDBb4964D1830aC1355EE78401bD"],
-  "protocols": ["Liquity"]
+    "$schema": "strategy",
+    "name": "LiquityUSD Stability Pool Strategy",
+    "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": [
+        "0x8ec4c06960c6BDBb4964D1830aC1355EE78401bD"
+    ],
+    "protocols": [
+        "Liquity"
+    ],
+    "localization": {
+        "en": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "fr": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "es": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "de": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "pt": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "el": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "tr": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "vi": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "zh": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "hi": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ja": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "id": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ru": {
+            "name": "LiquityUSD Stability Pool Strategy",
+            "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+        }
+    }
 }

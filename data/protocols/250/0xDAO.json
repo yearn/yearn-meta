@@ -1,5 +1,59 @@
 {
-  "$schema": "protocol",
-  "name": "0xDAO",
-  "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+    "$schema": "protocol",
+    "name": "0xDAO",
+    "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD.",
+    "localization": {
+        "en": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "fr": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "es": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "de": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "pt": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "el": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "tr": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "vi": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "zh": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "hi": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "ja": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "id": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        },
+        "ru": {
+            "name": "0xDAO",
+            "description": "0xDAO is a protocol that is pooling money to distribute a Solidly NFT's token emissions via their governance token OXD."
+        }
+    }
 }

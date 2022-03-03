@@ -1,8 +1,51 @@
 {
-  "$schema": "token",
-  "categories": ["Curve LP Tokens"],
-  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO.",
-  "website": "https://curve.fi/obtc/",
-  "tokenSymbolOverride": "crvOBTC",
-  "tokenNameOverride": "Curve oBTC Pool"
+    "$schema": "token",
+    "categories": [
+        "Curve LP Tokens"
+    ],
+    "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO.",
+    "website": "https://curve.fi/obtc/",
+    "tokenSymbolOverride": "crvOBTC",
+    "tokenNameOverride": "Curve oBTC Pool",
+    "localization": {
+        "en": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "fr": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "es": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "de": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "pt": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "el": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "tr": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "vi": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "zh": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "hi": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "ja": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "id": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        },
+        "ru": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
+        }
+    }
 }

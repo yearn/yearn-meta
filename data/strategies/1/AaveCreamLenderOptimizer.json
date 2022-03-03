@@ -1,12 +1,69 @@
 {
-  "$schema": "strategy",
-  "name": "Aave / C.R.E.A.M. Lender Optimizer",
-  "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": [
-    "0x215DeE632335829155Dcb62452c4878C48c1C884",
-    "0xe9bD008A97e362F7C501F6F5532A348d2e6B8131",
-    "0x695F00450641968b264e1d2e98dFF3e013143a37",
-    "0x79Be3edA1d7FE92c18B9539bce2611bf8dc9BFc5"
-  ],
-  "protocols": ["Aave", "CreamFinance"]
+    "$schema": "strategy",
+    "name": "Aave / C.R.E.A.M. Lender Optimizer",
+    "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": [
+        "0x215DeE632335829155Dcb62452c4878C48c1C884",
+        "0xe9bD008A97e362F7C501F6F5532A348d2e6B8131",
+        "0x695F00450641968b264e1d2e98dFF3e013143a37",
+        "0x79Be3edA1d7FE92c18B9539bce2611bf8dc9BFc5"
+    ],
+    "protocols": [
+        "Aave",
+        "CreamFinance"
+    ],
+    "localization": {
+        "en": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "fr": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "es": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "de": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "pt": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "el": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "tr": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "vi": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "zh": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "hi": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ja": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "id": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ru": {
+            "name": "Aave / C.R.E.A.M. Lender Optimizer",
+            "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        }
+    }
 }

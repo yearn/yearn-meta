@@ -1,8 +1,51 @@
 {
-  "$schema": "token",
-  "categories": ["Curve LP Tokens"],
-  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins.",
-  "website": "https://curve.fi/factory/57/",
-  "tokenSymbolOverride": "crvD3POOL",
-  "tokenNameOverride": "Curve d3pool"
+    "$schema": "token",
+    "categories": [
+        "Curve LP Tokens"
+    ],
+    "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins.",
+    "website": "https://curve.fi/factory/57/",
+    "tokenSymbolOverride": "crvD3POOL",
+    "tokenNameOverride": "Curve d3pool",
+    "localization": {
+        "en": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "fr": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "es": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "de": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "pt": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "el": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "tr": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "vi": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "zh": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "hi": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "ja": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "id": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        },
+        "ru": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
+        }
+    }
 }

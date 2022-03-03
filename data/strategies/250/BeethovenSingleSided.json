@@ -1,29 +1,85 @@
 {
-  "$schema": "strategy",
-  "name": "Beethoven-x Yield Seeker",
-  "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": [
-    "0xbBdc83357287a29Aae30cCa520D4ed6C750a2a11",
-    "0xfa9A5C7C27030602F1C03f7377553D1e694e1615",
-    "0xE6b7D27157673aD2ae21AFD23CC35DA766105431",
-    "0x85c307D24da7086c41537b994de9bFc4C21BAEB5",
-    "0xB905eabA7A23424265638bdACFFE55564c7B299B",
-    "0xfD7E0cCc4dE0E3022F47834d7f0122274c37a0d1",
-    "0x8Bb79E595E1a21d160Ba3f7f6C94efF1484FB4c9",
-    "0x1c13C43f8F2fa0CdDEE6DFF6F785757650B8c2BF",
-    "0x4003eE222d44953B0C3eB61318dD211a4A6f109f",
-    "0x56aF79e182a7f98ff6d0bF99d589ac2CabA24e2d",
-    "0xBd3791F3Dcf9DD5633cd30662381C80a2Cd945bd",
-    "0xD2bA4C3c2F3aa9228ab9d82d3695174f95EEe824",
-    "0xfD7E0cCc4dE0E3022F47834d7f0122274c37a0d1",
-    "0x8Bb79E595E1a21d160Ba3f7f6C94efF1484FB4c9",
-    "0x1c13C43f8F2fa0CdDEE6DFF6F785757650B8c2BF",
-    "0x4003eE222d44953B0C3eB61318dD211a4A6f109f",
-    "0x56aF79e182a7f98ff6d0bF99d589ac2CabA24e2d",
-    "0xBd3791F3Dcf9DD5633cd30662381C80a2Cd945bd",
-    "0x85c307D24da7086c41537b994de9bFc4C21BAEB5",
-    "0xB905eabA7A23424265638bdACFFE55564c7B299B",
-    "0x36E74086C388305CEcdeff83d6cf31a2762A3c91"
-  ],
-  "protocols": ["Beethoven-x"]
+    "$schema": "strategy",
+    "name": "Beethoven-x Yield Seeker",
+    "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": [
+        "0xbBdc83357287a29Aae30cCa520D4ed6C750a2a11",
+        "0xfa9A5C7C27030602F1C03f7377553D1e694e1615",
+        "0xE6b7D27157673aD2ae21AFD23CC35DA766105431",
+        "0x85c307D24da7086c41537b994de9bFc4C21BAEB5",
+        "0xB905eabA7A23424265638bdACFFE55564c7B299B",
+        "0xfD7E0cCc4dE0E3022F47834d7f0122274c37a0d1",
+        "0x8Bb79E595E1a21d160Ba3f7f6C94efF1484FB4c9",
+        "0x1c13C43f8F2fa0CdDEE6DFF6F785757650B8c2BF",
+        "0x4003eE222d44953B0C3eB61318dD211a4A6f109f",
+        "0x56aF79e182a7f98ff6d0bF99d589ac2CabA24e2d",
+        "0xBd3791F3Dcf9DD5633cd30662381C80a2Cd945bd",
+        "0xD2bA4C3c2F3aa9228ab9d82d3695174f95EEe824",
+        "0xfD7E0cCc4dE0E3022F47834d7f0122274c37a0d1",
+        "0x8Bb79E595E1a21d160Ba3f7f6C94efF1484FB4c9",
+        "0x1c13C43f8F2fa0CdDEE6DFF6F785757650B8c2BF",
+        "0x4003eE222d44953B0C3eB61318dD211a4A6f109f",
+        "0x56aF79e182a7f98ff6d0bF99d589ac2CabA24e2d",
+        "0xBd3791F3Dcf9DD5633cd30662381C80a2Cd945bd",
+        "0x85c307D24da7086c41537b994de9bFc4C21BAEB5",
+        "0xB905eabA7A23424265638bdACFFE55564c7B299B",
+        "0x36E74086C388305CEcdeff83d6cf31a2762A3c91"
+    ],
+    "protocols": [
+        "Beethoven-x"
+    ],
+    "localization": {
+        "en": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "fr": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "es": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "de": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "pt": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "el": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "tr": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "vi": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "zh": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "hi": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ja": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "id": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ru": {
+            "name": "Beethoven-x Yield Seeker",
+            "description": "Supplies {{token}} to [Beethoven-x](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        }
+    }
 }

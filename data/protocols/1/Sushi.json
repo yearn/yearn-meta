@@ -1,5 +1,59 @@
 {
-  "$schema": "protocol",
-  "name": "Sushi",
-  "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+    "$schema": "protocol",
+    "name": "Sushi",
+    "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees.",
+    "localization": {
+        "en": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "fr": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "es": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "de": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "pt": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "el": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "tr": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "vi": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "zh": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "hi": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "ja": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "id": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        },
+        "ru": {
+            "name": "Sushi",
+            "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+        }
+    }
 }

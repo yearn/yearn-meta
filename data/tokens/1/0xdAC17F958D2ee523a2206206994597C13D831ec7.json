@@ -1,6 +1,49 @@
 {
-  "$schema": "token",
-  "categories": ["USD Stablecoin"],
-  "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token’s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation.",
-  "website": "https://tether.to/"
+    "$schema": "token",
+    "categories": [
+        "USD Stablecoin"
+    ],
+    "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation.",
+    "website": "https://tether.to/",
+    "localization": {
+        "en": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "fr": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "es": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "de": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "pt": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "el": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "tr": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "vi": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "zh": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "hi": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "ja": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "id": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        },
+        "ru": {
+            "description": "USDT is a centralized stablecoin that mirrors the price of the U.S. dollar, issued by Hong Kong-based company Tether. The token\u2019s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation."
+        }
+    }
 }

@@ -1,5 +1,59 @@
 {
-  "$schema": "protocol",
-  "name": "Synthetix",
-  "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+    "$schema": "protocol",
+    "name": "Synthetix",
+    "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets.",
+    "localization": {
+        "en": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "fr": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "es": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "de": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "pt": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "el": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "tr": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "vi": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "zh": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "hi": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "ja": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "id": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        },
+        "ru": {
+            "name": "Synthetix",
+            "description": "Synthetix is the backbone for derivatives trading in DeFi. It helps users to gain on-chain exposure to a vast range of assets."
+        }
+    }
 }

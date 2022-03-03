@@ -1,11 +1,67 @@
 {
-  "$schema": "strategy",
-  "name": "KeeperDAO Reinvest",
-  "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": [
-    "0x2B1a6CB0168aA540ee8D853aB1d10d7A89d6351b",
-    "0xB361a3E75Bc2Ae6c8A045b3A43E2B0c9aD890d48",
-    "0xbC0F2FF495eE2eb74A145EDAA457FA4Fa310DAC5"
-  ],
-  "protocols": ["KeeperDAO"]
+    "$schema": "strategy",
+    "name": "KeeperDAO Reinvest",
+    "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+    "addresses": [
+        "0x2B1a6CB0168aA540ee8D853aB1d10d7A89d6351b",
+        "0xB361a3E75Bc2Ae6c8A045b3A43E2B0c9aD890d48",
+        "0xbC0F2FF495eE2eb74A145EDAA457FA4Fa310DAC5"
+    ],
+    "protocols": [
+        "KeeperDAO"
+    ],
+    "localization": {
+        "en": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "fr": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "es": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "de": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "pt": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "el": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "tr": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "vi": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "zh": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "hi": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ja": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "id": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        },
+        "ru": {
+            "name": "KeeperDAO Reinvest",
+            "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+        }
+    }
 }

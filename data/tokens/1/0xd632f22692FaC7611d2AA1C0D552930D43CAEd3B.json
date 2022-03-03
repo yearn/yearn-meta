@@ -1,8 +1,51 @@
 {
-  "$schema": "token",
-  "categories": ["Curve LP Tokens"],
-  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin.",
-  "website": "https://www.curve.fi/frax/",
-  "tokenSymbolOverride": "crvFRAX",
-  "tokenNameOverride": "Curve FRAX Pool"
+    "$schema": "token",
+    "categories": [
+        "Curve LP Tokens"
+    ],
+    "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin.",
+    "website": "https://www.curve.fi/frax/",
+    "tokenSymbolOverride": "crvFRAX",
+    "tokenNameOverride": "Curve FRAX Pool",
+    "localization": {
+        "en": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "fr": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "es": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "de": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "pt": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "el": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "tr": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "vi": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "zh": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "hi": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "ja": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "id": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        },
+        "ru": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and FRAX, a partially-algorithmic stablecoin."
+        }
+    }
 }

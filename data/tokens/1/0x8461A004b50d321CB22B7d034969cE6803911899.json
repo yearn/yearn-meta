@@ -1,8 +1,51 @@
 {
-  "$schema": "token",
-  "categories": ["Curve LP Tokens"],
-  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform.",
-  "website": "https://www.curve.fi/factory/2/",
-  "tokenSymbolOverride": "crvIBKRW",
-  "tokenNameOverride": "Curve ibKRW Pool"
+    "$schema": "token",
+    "categories": [
+        "Curve LP Tokens"
+    ],
+    "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform.",
+    "website": "https://www.curve.fi/factory/2/",
+    "tokenSymbolOverride": "crvIBKRW",
+    "tokenNameOverride": "Curve ibKRW Pool",
+    "localization": {
+        "en": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "fr": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "es": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "de": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "pt": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "el": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "tr": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "vi": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "zh": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "hi": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "ja": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "id": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        },
+        "ru": {
+            "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+        }
+    }
 }

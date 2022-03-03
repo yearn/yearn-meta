@@ -1,5 +1,59 @@
 {
-  "$schema": "protocol",
-  "name": "1inch",
-  "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+    "$schema": "protocol",
+    "name": "1inch",
+    "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade.",
+    "localization": {
+        "en": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "fr": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "es": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "de": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "pt": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "el": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "tr": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "vi": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "zh": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "hi": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "ja": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "id": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        },
+        "ru": {
+            "name": "1inch",
+            "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+        }
+    }
 }
