@@ -1,0 +1,5 @@
+{
+  "$schema": "protocol",
+  "name": "Tokemak",
+  "description": "Tokemak is a decentralized market making protocol that seeks to generate better capital efficiency for Liquidity Providers (LPs) across the DeFi ecosystem. Tokemak serves as a “liquidity router” that sits on top of decentralized exchanges, controlling the flow of liquidity as a means to provide cheaper and more seamless liquidity sourcing."
+}
