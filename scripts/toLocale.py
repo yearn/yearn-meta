@@ -47,3 +47,4 @@ for folder in folders:
 					}
 				with open(filePath, 'w') as f:
 					json.dump(data, f, indent=4)
+print("The localization has been updated")
