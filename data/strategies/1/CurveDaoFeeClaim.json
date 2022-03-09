@@ -1,65 +1,61 @@
 {
-    "$schema": "strategy",
-    "name": "Curve DAO Fee Claim",
-    "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday.",
-    "addresses": [
-        "0xc5bDdf9843308380375a611c18B50Fb9341f502A"
-    ],
-    "protocols": [
-        "CurveFinance"
-    ],
-    "localization": {
-        "en": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "fr": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "es": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "de": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "pt": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "el": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "tr": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "vi": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "zh": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "hi": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "ja": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "id": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        },
-        "ru": {
-            "name": "Curve DAO Fee Claim",
-            "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
-        }
+  "$schema": "strategy",
+  "name": "Curve DAO Fee Claim",
+  "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday.",
+  "addresses": ["0xc5bDdf9843308380375a611c18B50Fb9341f502A"],
+  "protocols": ["CurveFinance"],
+  "localization": {
+    "en": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "fr": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "es": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "de": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "pt": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "el": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "tr": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "vi": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "zh": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "hi": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "ja": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "id": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+    },
+    "ru": {
+      "name": "Curve DAO Fee Claim",
+      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
     }
+  }
 }

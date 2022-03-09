@@ -1,59 +1,59 @@
 {
-    "$schema": "protocol",
-    "name": "MakerDAO",
-    "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man.",
-    "localization": {
-        "en": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "fr": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "es": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "de": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "pt": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "el": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "tr": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "vi": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "zh": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "hi": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "ja": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "id": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        },
-        "ru": {
-            "name": "MakerDAO",
-            "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
-        }
+  "$schema": "protocol",
+  "name": "MakerDAO",
+  "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man.",
+  "localization": {
+    "en": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "fr": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "es": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "de": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "pt": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "el": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "tr": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "vi": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "zh": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "hi": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "ja": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "id": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
+    },
+    "ru": {
+      "name": "MakerDAO",
+      "description": "MakerDAO is a decentralized organization built on Ethereum to allow borrowing of stablecoins without the need for a middle man."
     }
+  }
 }

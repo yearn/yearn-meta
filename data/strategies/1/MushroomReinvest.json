@@ -1,66 +1,64 @@
 {
-    "$schema": "strategy",
-    "name": "Mushroom Finance Reinvest",
-    "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-    "addresses": [
-        "0x53a65c8e238915c79a1e5C366Bc133162DBeE34f",
-        "0x036099f243E135cf2ADF449C2dD5497Da20FB82D"
-    ],
-    "protocols": [
-        "MushroomFinance"
-    ],
-    "localization": {
-        "en": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "fr": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "es": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "de": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "pt": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "el": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "tr": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "vi": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "zh": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "hi": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "ja": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "id": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "ru": {
-            "name": "Mushroom Finance Reinvest",
-            "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        }
+  "$schema": "strategy",
+  "name": "Mushroom Finance Reinvest",
+  "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0x53a65c8e238915c79a1e5C366Bc133162DBeE34f",
+    "0x036099f243E135cf2ADF449C2dD5497Da20FB82D"
+  ],
+  "protocols": ["MushroomFinance"],
+  "localization": {
+    "en": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "fr": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "es": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "de": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "pt": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "el": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "tr": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "vi": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "zh": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "hi": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ja": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "id": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ru": {
+      "name": "Mushroom Finance Reinvest",
+      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     }
+  }
 }

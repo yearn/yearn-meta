@@ -1,49 +1,47 @@
 {
-    "$schema": "token",
-    "categories": [
-        "USD Stablecoin"
-    ],
-    "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins.",
-    "website": "http://mstable.org",
-    "localization": {
-        "en": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "fr": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "es": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "de": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "pt": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "el": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "tr": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "vi": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "zh": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "hi": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "ja": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "id": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        },
-        "ru": {
-            "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
-        }
+  "$schema": "token",
+  "categories": ["USD Stablecoin"],
+  "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins.",
+  "website": "http://mstable.org",
+  "localization": {
+    "en": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "fr": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "es": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "de": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "pt": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "el": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "tr": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "vi": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "zh": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "hi": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "ja": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "id": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
+    },
+    "ru": {
+      "description": "mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets called mAssets. mAssets are backed by a basket of existing and whitelisted tokenized assets of that same peg, and held by the user. mStable's first mAsset is mUSD. mUSD is a mStable asset (mAsset) backed by a basket of USD-pegged stablecoins."
     }
+  }
 }

@@ -1,49 +1,47 @@
 {
-    "$schema": "token",
-    "categories": [
-        "USD Stablecoin"
-    ],
-    "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC.",
-    "website": "https://frax.finance/",
-    "localization": {
-        "en": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "fr": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "es": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "de": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "pt": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "el": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "tr": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "vi": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "zh": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "hi": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "ja": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "id": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        },
-        "ru": {
-            "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
-        }
+  "$schema": "token",
+  "categories": ["USD Stablecoin"],
+  "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC.",
+  "website": "https://frax.finance/",
+  "localization": {
+    "en": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "fr": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "es": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "de": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "pt": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "el": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "tr": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "vi": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "zh": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "hi": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "ja": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "id": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
+    },
+    "ru": {
+      "description": "Frax is the first fractional-algorithmic stablecoin protocol. This means that parts of its supply are backed by collateral and parts of the supply algorithmic. Frax is open-source, permissionless, and entirely on-chain \u2013 currently implemented on Ethereum and other chains. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply digital assets like BTC."
     }
+  }
 }

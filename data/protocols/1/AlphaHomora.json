@@ -1,59 +1,59 @@
 {
-    "$schema": "protocol",
-    "name": "Alpha Homora",
-    "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders.",
-    "localization": {
-        "en": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "fr": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "es": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "de": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "pt": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "el": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "tr": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "vi": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "zh": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "hi": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "ja": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "id": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        },
-        "ru": {
-            "name": "Alpha Homora",
-            "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
-        }
+  "$schema": "protocol",
+  "name": "Alpha Homora",
+  "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders.",
+  "localization": {
+    "en": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "fr": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "es": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "de": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "pt": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "el": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "tr": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "vi": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "zh": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "hi": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "ja": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "id": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
+    },
+    "ru": {
+      "name": "Alpha Homora",
+      "description": "Alpha Homora is the first leveraged yield farming product in DeFi and first product by Alpha Finance Lab. Users can lever their positions and boost their returns by borrowing collateral supplied by Alpha Homora lenders."
     }
+  }
 }

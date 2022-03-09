@@ -1,59 +1,59 @@
 {
-    "$schema": "protocol",
-    "name": "Hegic",
-    "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7.",
-    "localization": {
-        "en": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "fr": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "es": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "de": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "pt": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "el": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "tr": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "vi": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "zh": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "hi": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "ja": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "id": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        },
-        "ru": {
-            "name": "Hegic",
-            "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
-        }
+  "$schema": "protocol",
+  "name": "Hegic",
+  "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7.",
+  "localization": {
+    "en": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "fr": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "es": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "de": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "pt": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "el": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "tr": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "vi": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "zh": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "hi": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "ja": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "id": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
+    },
+    "ru": {
+      "name": "Hegic",
+      "description": "Hegic is an on-chain decentralized peer-to-pool options trading protocol. Users can trade American, cash-settled wBTC and ETH call/put options 24/7."
     }
+  }
 }

@@ -1,65 +1,61 @@
 {
-    "$schema": "strategy",
-    "name": "Fiat Dao Reinvest",
-    "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-    "addresses": [
-        "0x0250AA4a3849F5958620048270e1FC1C9ADedC2C"
-    ],
-    "protocols": [
-        "Fiat Dao"
-    ],
-    "localization": {
-        "en": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "fr": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "es": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "de": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "pt": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "el": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "tr": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "vi": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "zh": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "hi": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "ja": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "id": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "ru": {
-            "name": "Fiat Dao Reinvest",
-            "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        }
+  "$schema": "strategy",
+  "name": "Fiat Dao Reinvest",
+  "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": ["0x0250AA4a3849F5958620048270e1FC1C9ADedC2C"],
+  "protocols": ["Fiat Dao"],
+  "localization": {
+    "en": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "fr": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "es": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "de": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "pt": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "el": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "tr": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "vi": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "zh": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "hi": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ja": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "id": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ru": {
+      "name": "Fiat Dao Reinvest",
+      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     }
+  }
 }

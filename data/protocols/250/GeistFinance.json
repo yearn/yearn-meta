@@ -1,59 +1,59 @@
 {
-    "$schema": "protocol",
-    "name": "GeistFinance",
-    "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets.",
-    "localization": {
-        "en": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "fr": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "es": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "de": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "pt": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "el": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "tr": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "vi": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "zh": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "hi": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "ja": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "id": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        },
-        "ru": {
-            "name": "GeistFinance",
-            "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
-        }
+  "$schema": "protocol",
+  "name": "GeistFinance",
+  "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets.",
+  "localization": {
+    "en": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "fr": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "es": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "de": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "pt": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "el": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "tr": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "vi": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "zh": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "hi": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "ja": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "id": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
+    },
+    "ru": {
+      "name": "GeistFinance",
+      "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
     }
+  }
 }

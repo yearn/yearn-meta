@@ -1,70 +1,68 @@
 {
-    "$schema": "strategy",
-    "name": "veDAO Reinvest",
-    "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-    "addresses": [
-        "0x235750AF5Fdb77cA827c2ee0Ab469188bC877cC6",
-        "0x6a59081C7d5ac3e82c58D5f595ed25D55E71EBDa",
-        "0xcc94F866717093Bd60b9a58AD9ca343b1438c865",
-        "0xff0bCcA5848a063D3D23aC9d534CE4F5A8286BeE",
-        "0x3f4100F690a435b63Ad5e27B7d0d2587128B12fe",
-        "0x15045FC686d1E597D5bb6390d33CEA99C809C9A3"
-    ],
-    "protocols": [
-        "veDAO"
-    ],
-    "localization": {
-        "en": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "fr": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "es": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "de": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "pt": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "el": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "tr": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "vi": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "zh": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "hi": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "ja": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "id": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "ru": {
-            "name": "veDAO Reinvest",
-            "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        }
+  "$schema": "strategy",
+  "name": "veDAO Reinvest",
+  "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0x235750AF5Fdb77cA827c2ee0Ab469188bC877cC6",
+    "0x6a59081C7d5ac3e82c58D5f595ed25D55E71EBDa",
+    "0xcc94F866717093Bd60b9a58AD9ca343b1438c865",
+    "0xff0bCcA5848a063D3D23aC9d534CE4F5A8286BeE",
+    "0x3f4100F690a435b63Ad5e27B7d0d2587128B12fe",
+    "0x15045FC686d1E597D5bb6390d33CEA99C809C9A3"
+  ],
+  "protocols": ["veDAO"],
+  "localization": {
+    "en": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "fr": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "es": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "de": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "pt": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "el": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "tr": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "vi": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "zh": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "hi": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ja": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "id": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ru": {
+      "name": "veDAO Reinvest",
+      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     }
+  }
 }

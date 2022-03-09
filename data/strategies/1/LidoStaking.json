@@ -1,65 +1,61 @@
 {
-    "$schema": "strategy",
-    "name": "Lido Eth 2.0 Staking",
-    "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking.",
-    "addresses": [
-        "0x0967aFe627C732d152e3dFCAdd6f9DBfecDE18c3"
-    ],
-    "protocols": [
-        "LidoFinance"
-    ],
-    "localization": {
-        "en": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "fr": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "es": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "de": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "pt": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "el": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "tr": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "vi": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "zh": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "hi": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "ja": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "id": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        },
-        "ru": {
-            "name": "Lido Eth 2.0 Staking",
-            "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
-        }
+  "$schema": "strategy",
+  "name": "Lido Eth 2.0 Staking",
+  "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking.",
+  "addresses": ["0x0967aFe627C732d152e3dFCAdd6f9DBfecDE18c3"],
+  "protocols": ["LidoFinance"],
+  "localization": {
+    "en": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "fr": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "es": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "de": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "pt": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "el": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "tr": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "vi": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "zh": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "hi": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "ja": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "id": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+    },
+    "ru": {
+      "name": "Lido Eth 2.0 Staking",
+      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
     }
+  }
 }

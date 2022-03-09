@@ -1,59 +1,59 @@
 {
-    "$schema": "protocol",
-    "name": "Convex Finance",
-    "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token.",
-    "localization": {
-        "en": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "fr": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "es": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "de": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "pt": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "el": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "tr": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "vi": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "zh": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "hi": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "ja": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "id": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        },
-        "ru": {
-            "name": "Convex Finance",
-            "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
-        }
+  "$schema": "protocol",
+  "name": "Convex Finance",
+  "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token.",
+  "localization": {
+    "en": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "fr": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "es": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "de": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "pt": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "el": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "tr": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "vi": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "zh": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "hi": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "ja": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "id": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
+    },
+    "ru": {
+      "name": "Convex Finance",
+      "description": "Convex Finance is a platform built to boost rewards for CRV stakers and Curve liquidity providers \u2013 all in a simple and easy to use interface. Convex Finance aims to simplify staking and liquidity provision with its native fee-earning CVX token."
     }
+  }
 }

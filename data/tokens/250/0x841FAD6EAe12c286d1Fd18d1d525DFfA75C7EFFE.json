@@ -1,49 +1,47 @@
 {
-    "$schema": "token",
-    "categories": [
-        "Governance Tokens"
-    ],
-    "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service.",
-    "website": "https://spookyswap.finance",
-    "localization": {
-        "en": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "fr": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "es": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "de": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "pt": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "el": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "tr": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "vi": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "zh": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "hi": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "ja": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "id": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        },
-        "ru": {
-            "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
-        }
+  "$schema": "token",
+  "categories": ["Governance Tokens"],
+  "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service.",
+  "website": "https://spookyswap.finance",
+  "localization": {
+    "en": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "fr": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "es": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "de": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "pt": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "el": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "tr": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "vi": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "zh": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "hi": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "ja": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "id": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
+    },
+    "ru": {
+      "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service."
     }
+  }
 }

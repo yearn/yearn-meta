@@ -1,66 +1,64 @@
 {
-    "$schema": "strategy",
-    "name": "Alpha Homora Lender Optimizer",
-    "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest.",
-    "addresses": [
-        "0xeE697232DF2226c9fB3F02a57062c4208f287851",
-        "0xec2DB4A1Ad431CC3b102059FA91Ba643620F0826"
-    ],
-    "protocols": [
-        "AlphaHomora"
-    ],
-    "localization": {
-        "en": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "fr": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "es": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "de": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "pt": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "el": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "tr": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "vi": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "zh": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "hi": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "ja": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "id": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        },
-        "ru": {
-            "name": "Alpha Homora Lender Optimizer",
-            "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
-        }
+  "$schema": "strategy",
+  "name": "Alpha Homora Lender Optimizer",
+  "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest.",
+  "addresses": [
+    "0xeE697232DF2226c9fB3F02a57062c4208f287851",
+    "0xec2DB4A1Ad431CC3b102059FA91Ba643620F0826"
+  ],
+  "protocols": ["AlphaHomora"],
+  "localization": {
+    "en": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "fr": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "es": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "de": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "pt": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "el": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "tr": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "vi": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "zh": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "hi": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "ja": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "id": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+    },
+    "ru": {
+      "name": "Alpha Homora Lender Optimizer",
+      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
     }
+  }
 }

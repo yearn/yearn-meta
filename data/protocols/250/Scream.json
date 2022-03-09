@@ -1,59 +1,59 @@
 {
-    "$schema": "protocol",
-    "name": "Scream",
-    "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account.",
-    "localization": {
-        "en": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "fr": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "es": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "de": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "pt": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "el": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "tr": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "vi": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "zh": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "hi": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "ja": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "id": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        },
-        "ru": {
-            "name": "Scream",
-            "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
-        }
+  "$schema": "protocol",
+  "name": "Scream",
+  "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account.",
+  "localization": {
+    "en": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "fr": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "es": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "de": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "pt": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "el": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "tr": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "vi": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "zh": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "hi": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "ja": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "id": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
+    },
+    "ru": {
+      "name": "Scream",
+      "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
     }
+  }
 }

@@ -1,67 +1,65 @@
 {
-    "$schema": "strategy",
-    "name": "League Dao Reinvest",
-    "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-    "addresses": [
-        "0xcB787FC49d54047688e58D283BE9b809b41395A9",
-        "0x4FC500c2d49d54a99368852e42405B62C59D42A6",
-        "0xf6D87dFC0841A289614B3d6fdb78D956ebd3cfF0"
-    ],
-    "protocols": [
-        "League Dao"
-    ],
-    "localization": {
-        "en": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "fr": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "es": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "de": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "pt": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "el": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "tr": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "vi": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "zh": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "hi": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "ja": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "id": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        },
-        "ru": {
-            "name": "League Dao Reinvest",
-            "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
-        }
+  "$schema": "strategy",
+  "name": "League Dao Reinvest",
+  "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0xcB787FC49d54047688e58D283BE9b809b41395A9",
+    "0x4FC500c2d49d54a99368852e42405B62C59D42A6",
+    "0xf6D87dFC0841A289614B3d6fdb78D956ebd3cfF0"
+  ],
+  "protocols": ["League Dao"],
+  "localization": {
+    "en": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "fr": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "es": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "de": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "pt": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "el": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "tr": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "vi": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "zh": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "hi": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ja": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "id": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ru": {
+      "name": "League Dao Reinvest",
+      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     }
+  }
 }

@@ -1,49 +1,47 @@
 {
-    "$schema": "token",
-    "categories": [
-        "Governance Tokens"
-    ],
-    "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets.",
-    "website": "https://abracadabra.money",
-    "localization": {
-        "en": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "fr": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "es": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "de": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "pt": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "el": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "tr": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "vi": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "zh": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "hi": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "ja": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "id": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        },
-        "ru": {
-            "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
-        }
+  "$schema": "token",
+  "categories": ["Governance Tokens"],
+  "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets.",
+  "website": "https://abracadabra.money",
+  "localization": {
+    "en": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "fr": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "es": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "de": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "pt": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "el": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "tr": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "vi": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "zh": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "hi": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "ja": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "id": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
+    },
+    "ru": {
+      "description": "SPELL is the governance token for Abracadabra, a protocol that allows users to deposit interest-bearing assets such as Yearn vault tokens and mint Magic Internet Money (MIM), a synthetic stablecoin. SPELL can be staked to earn fees paid to the protocol from users borrowing against their assets."
     }
+  }
 }
