@@ -1,0 +1,5 @@
+{
+  "$schema": "protocol",
+  "name": "Tokemak",
+  "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+}
