@@ -8,9 +8,7 @@
     "0xAE159E657712CC68C8A28B6749eC044a7fEABe21",
     "0xC9db3AF6603329dF6C85E168D41B74832452ef08"
   ],
-  "protocols": [
-    "Aave"
-  ],
+  "protocols": ["Aave"],
   "localization": {
     "en": {
       "name": "Aave Borrow",

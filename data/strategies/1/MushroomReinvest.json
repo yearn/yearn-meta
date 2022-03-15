@@ -6,9 +6,7 @@
     "0x53a65c8e238915c79a1e5C366Bc133162DBeE34f",
     "0x036099f243E135cf2ADF449C2dD5497Da20FB82D"
   ],
-  "protocols": [
-    "MushroomFinance"
-  ],
+  "protocols": ["MushroomFinance"],
   "localization": {
     "en": {
       "name": "Mushroom Finance Reinvest",
