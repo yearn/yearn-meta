@@ -14,7 +14,9 @@
     "0xbC27C4873D0ddE214387cE5a838DC78857633Ea2",
     "0xb698f815918e0A11cf802184f36f02cD4602EBD4"
   ],
-  "protocols": ["MakerDAO"],
+  "protocols": [
+    "MakerDAO"
+  ],
   "localization": {
     "en": {
       "name": "Maker Delegate",

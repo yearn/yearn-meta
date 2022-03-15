@@ -1,6 +1,8 @@
 {
   "$schema": "token",
-  "categories": ["Curve LP Tokens"],
+  "categories": [
+    "Curve LP Tokens"
+  ],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains WBTC and HBTC, a tokenized BTC custodied by Huobi.",
   "website": "https://www.curve.fi/hbtc/",
   "tokenSymbolOverride": "crvHBTC",

@@ -8,7 +8,9 @@
     "0xaA944D01b361b25a11F185C61530937a7a9C47a6",
     "0xb51a8a88a3ed9e5043e710BFfC8EaD680395566b"
   ],
-  "protocols": ["SpookySwap"],
+  "protocols": [
+    "SpookySwap"
+  ],
   "localization": {
     "en": {
       "name": "Spooky Joint Liquidity Provider",
