@@ -1,5 +1,59 @@
 {
   "$schema": "protocol",
   "name": "Mushroom Finance",
-  "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+  "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns.",
+  "localization": {
+    "en": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "fr": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "es": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "de": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "pt": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "el": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "tr": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "vi": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "zh": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "hi": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "ja": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "id": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "ru": {
+      "name": "Mushroom Finance",
+      "description": "Mushroom Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    }
+  }
 }

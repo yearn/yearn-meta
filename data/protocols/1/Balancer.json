@@ -1,5 +1,59 @@
 {
   "$schema": "protocol",
   "name": "Balancer",
-  "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+  "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token.",
+  "localization": {
+    "en": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "fr": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "es": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "de": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "pt": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "el": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "tr": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "vi": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "zh": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "hi": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "ja": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "id": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    },
+    "ru": {
+      "name": "Balancer",
+      "description": "Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum. Users can have a say in protocol governance with its native BAL token."
+    }
+  }
 }

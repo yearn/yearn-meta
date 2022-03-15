@@ -1,5 +1,59 @@
 {
   "$schema": "protocol",
   "name": "Ester Finance",
-  "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+  "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns.",
+  "localization": {
+    "en": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "fr": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "es": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "de": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "pt": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "el": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "tr": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "vi": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "zh": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "hi": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "ja": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "id": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    },
+    "ru": {
+      "name": "Ester Finance",
+      "description": "Ester Finance is a yield aggregator. It helps users to earn interest where strategies optimize the returns."
+    }
+  }
 }

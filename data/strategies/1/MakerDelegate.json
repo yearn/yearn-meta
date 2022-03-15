@@ -14,5 +14,59 @@
     "0xbC27C4873D0ddE214387cE5a838DC78857633Ea2",
     "0xb698f815918e0A11cf802184f36f02cD4602EBD4"
   ],
-  "protocols": ["MakerDAO"]
+  "protocols": ["MakerDAO"],
+  "localization": {
+    "en": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "fr": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "es": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "de": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "pt": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "el": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "tr": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "vi": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "zh": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "hi": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "ja": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "id": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    },
+    "ru": {
+      "name": "Maker Delegate",
+      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+    }
+  }
 }

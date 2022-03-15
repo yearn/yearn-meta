@@ -2,5 +2,46 @@
   "$schema": "token",
   "categories": ["Governance Tokens"],
   "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance.",
-  "website": "https://compound.finance"
+  "website": "https://compound.finance",
+  "localization": {
+    "en": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "fr": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "es": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "de": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "pt": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "el": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "tr": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "vi": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "zh": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "hi": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "ja": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "id": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    },
+    "ru": {
+      "description": "Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. It establishes money markets by pooling assets together and algorithmically setting interest rates based on supply and demand of assets. COMP tokens are used for protocol governance."
+    }
+  }
 }

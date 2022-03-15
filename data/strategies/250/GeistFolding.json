@@ -16,5 +16,59 @@
     "0x108383E62992b9a90eD3A43c2c9FA26cA052D99b",
     "0x0683B5B75bD0514B5604D3c79A61647d83A02A3f"
   ],
-  "protocols": ["GeistFinance"]
+  "protocols": ["GeistFinance"],
+  "localization": {
+    "en": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "fr": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "es": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "de": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "pt": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "el": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "tr": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "vi": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "zh": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "hi": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ja": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "id": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ru": {
+      "name": "Geist Folding",
+      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    }
+  }
 }

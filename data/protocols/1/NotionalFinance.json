@@ -1,5 +1,59 @@
 {
   "$schema": "protocol",
   "name": "Notional Finance",
-  "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+  "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility.",
+  "localization": {
+    "en": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "fr": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "es": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "de": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "pt": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "el": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "tr": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "vi": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "zh": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "hi": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "ja": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "id": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    },
+    "ru": {
+      "name": "Notional Finance",
+      "description": "Notional Finance is a fixed-rate crypto lending and borrowing platform. It helps users to earn interest with certainty and minimize yield volatility."
+    }
+  }
 }

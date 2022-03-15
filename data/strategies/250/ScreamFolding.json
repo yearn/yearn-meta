@@ -15,5 +15,59 @@
     "0x0ed5C4effED69B39C86a8D806462d709Fb96A9E4",
     "0x1e0F7D116ffB998EeC879B96698222D1Ee8d87CB"
   ],
-  "protocols": ["Scream"]
+  "protocols": ["Scream"],
+  "localization": {
+    "en": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "fr": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "es": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "de": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "pt": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "el": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "tr": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "vi": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "zh": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "hi": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ja": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "id": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ru": {
+      "name": "Scream Folding",
+      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    }
+  }
 }

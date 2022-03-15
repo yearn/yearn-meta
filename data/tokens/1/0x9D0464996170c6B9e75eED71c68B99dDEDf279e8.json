@@ -4,5 +4,46 @@
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV).",
   "website": "https://curve.fi/factory/22/",
   "tokenSymbolOverride": "crvCVXCRV",
-  "tokenNameOverride": "Curve cvxCRV Pool"
+  "tokenNameOverride": "Curve cvxCRV Pool",
+  "localization": {
+    "en": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "fr": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "es": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "de": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "pt": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "el": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "tr": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "vi": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "zh": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "hi": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "ja": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "id": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    },
+    "ru": {
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+    }
+  }
 }

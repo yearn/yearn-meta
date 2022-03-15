@@ -2,5 +2,46 @@
   "$schema": "token",
   "categories": ["USD Stablecoin"],
   "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral.",
-  "website": "https://www.inverse.finance"
+  "website": "https://www.inverse.finance",
+  "localization": {
+    "en": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "fr": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "es": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "de": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "pt": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "el": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "tr": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "vi": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "zh": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "hi": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "ja": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "id": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    },
+    "ru": {
+      "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral."
+    }
+  }
 }

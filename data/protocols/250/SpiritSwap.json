@@ -1,5 +1,59 @@
 {
   "$schema": "protocol",
   "name": "SpiritSwap",
-  "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+  "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees.",
+  "localization": {
+    "en": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "fr": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "es": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "de": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "pt": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "el": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "tr": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "vi": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "zh": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "hi": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "ja": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "id": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    },
+    "ru": {
+      "name": "SpiritSwap",
+      "description": "SpiritSwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+    }
+  }
 }
