@@ -1,5 +1,59 @@
 {
   "$schema": "protocol",
   "name": "Tokemak",
-  "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+  "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi.",
+  "localization": {
+    "en": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "fr": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "es": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "de": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "pt": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "el": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "tr": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "vi": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "zh": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "hi": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "ja": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "id": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    },
+    "ru": {
+      "name": "Tokemak",
+      "description": "Tokemak is a protocol designed to generate deep, sustainable liquidity for DeFi. It is a decentralized market making platform and liquidity router that disaggregates traditional liquidity provision and market making for DeFi."
+    }
+  }
 }
