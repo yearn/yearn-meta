@@ -6,5 +6,59 @@
     "0x8a08ABB97B88DF8bd0d26EE0Ee7d831ff6640aFA",
     "0x80332Ecdc7CcdB187b95C97d4b33A8E918F8dd70"
   ],
-  "protocols": ["SolidexFinance"]
+  "protocols": ["SolidexFinance"],
+  "localization": {
+    "en": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "fr": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "es": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "de": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "pt": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "el": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "tr": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "vi": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "zh": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "hi": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ja": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "id": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ru": {
+      "name": "Solidex Joint Provider",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+    }
+  }
 }
