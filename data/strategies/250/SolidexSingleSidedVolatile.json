@@ -6,5 +6,59 @@
     "0xADE3BaC94177295329474aAd6A253Bae979BFA68",
     "0x768F43717899FD0f1B45Ea7f23b66e191348073E"
   ],
-  "protocols": ["SolidexFinance"]
+  "protocols": ["SolidexFinance"],
+  "localization": {
+    "en": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "fr": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "es": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "de": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "pt": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "el": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "tr": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "vi": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "zh": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "hi": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ja": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "id": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ru": {
+      "name": "Solidex Volatile Yield Seeker",
+      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    }
+  }
 }
