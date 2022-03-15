@@ -8,10 +8,7 @@
     "0x695F00450641968b264e1d2e98dFF3e013143a37",
     "0x79Be3edA1d7FE92c18B9539bce2611bf8dc9BFc5"
   ],
-  "protocols": [
-    "Aave",
-    "CreamFinance"
-  ],
+  "protocols": ["Aave", "CreamFinance"],
   "localization": {
     "en": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",

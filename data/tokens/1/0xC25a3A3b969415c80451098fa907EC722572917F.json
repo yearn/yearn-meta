@@ -1,8 +1,6 @@
 {
   "$schema": "token",
-  "categories": [
-    "Curve LP Tokens"
-  ],
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, USDT, and synthetic USD (sUSD) minted on the Synthetix platform. ",
   "website": "https://www.curve.fi/susdv2/",
   "tokenSymbolOverride": "crvSUSD",

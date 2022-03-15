@@ -7,9 +7,7 @@
     "0xB361a3E75Bc2Ae6c8A045b3A43E2B0c9aD890d48",
     "0xbC0F2FF495eE2eb74A145EDAA457FA4Fa310DAC5"
   ],
-  "protocols": [
-    "KeeperDAO"
-  ],
+  "protocols": ["KeeperDAO"],
   "localization": {
     "en": {
       "name": "KeeperDAO Reinvest",

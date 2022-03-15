@@ -6,11 +6,7 @@
     "0x86bcA96E6f7e816884f752399bC9a60651B34B93",
     "0xdcfFee74ABDCf70453Bb798Be1b41462EDdbC692"
   ],
-  "protocols": [
-    "AAVE",
-    "Sushi",
-    "Uniswap"
-  ],
+  "protocols": ["AAVE", "Sushi", "Uniswap"],
   "localization": {
     "en": {
       "name": "Staked AAVE Cooldown",

@@ -81,10 +81,7 @@
     "0xB2690ec8179A220f494Dbf486Bd8E2E508455fB4",
     "0xa04947059831783C561e59A43B93dCB5bEE7cab2"
   ],
-  "protocols": [
-    "ConvexFinance",
-    "CurveFinance"
-  ],
+  "protocols": ["ConvexFinance", "CurveFinance"],
   "localization": {
     "en": {
       "name": "Convex Reinvest",

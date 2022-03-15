@@ -35,9 +35,7 @@
     "0x70184BFcED3fC09fa4205D9795005c7aFDDD9e96",
     "0x00CB7bB3100dD17D4aE075F37367c5E6Fe960f77"
   ],
-  "protocols": [
-    "Beethoven-x"
-  ],
+  "protocols": ["Beethoven-x"],
   "localization": {
     "en": {
       "name": "Beethoven-x Yield Seeker",
