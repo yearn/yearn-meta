@@ -53,7 +53,7 @@ see [meta.yearn.network/index.json](https://meta.yearn.network/json)
 
 ## Translations
 
-Anything under protocols, strategies, and tokens are able to be translated. In the json files listed, we have locale codes and the English text to be translated. The name (if applicable) and description are what should be translated. If you dont see your locale code, make an issue and it will be added manually. To update new json's with the locale information run the python script `toLocale.py` located in the scripts folder.  
+Anything under protocols, strategies, and tokens are able to be translated. In the json files listed, we have locale codes and the English text to be translated. The name (if applicable) and description are what should be translated. If you dont see your locale code, make an issue and it will be added manually. To update new json's with the locale information run the python script `toLocale.py` located in the scripts folder.
 
 ## Helpful links
 
