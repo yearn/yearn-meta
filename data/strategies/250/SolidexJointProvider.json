@@ -1,0 +1,10 @@
+{
+  "$schema": "strategy",
+  "name": "Solidex Joint Provider",
+  "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": [
+    "0x8a08ABB97B88DF8bd0d26EE0Ee7d831ff6640aFA",
+    "0x80332Ecdc7CcdB187b95C97d4b33A8E918F8dd70"
+  ],
+  "protocols": ["SolidexFinance"]
+}
