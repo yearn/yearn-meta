@@ -9,7 +9,9 @@
     "0x20B5e014F7251DfeE5e51b5d2d627dFa5Ff73824",
     "0xca25d703cD814E8f5cEF9aACEe0E7424BB4bCCC6"
   ],
-  "protocols": ["Beethoven-x"],
+  "protocols": [
+    "Beethoven-x"
+  ],
   "localization": {
     "en": {
       "name": "Beethoven-x Joint Provider",

@@ -10,7 +10,9 @@
     "0x3ef6Ec70D4D8fE69365C92086d470bb7D5fC92Eb",
     "0x7A32aA9a16A59CB335ffdEe3dC94024b7F8A9a47"
   ],
-  "protocols": ["Balancer"],
+  "protocols": [
+    "Balancer"
+  ],
   "localization": {
     "en": {
       "name": "Rebalancer Stable Joint Provider",

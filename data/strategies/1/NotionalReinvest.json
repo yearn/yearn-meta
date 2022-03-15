@@ -8,7 +8,9 @@
     "0x9D42427830e617C7cf55050092E899569CeE0233",
     "0x1c48c959562bEb01eDcc08F0a037Eb97f299ea66"
   ],
-  "protocols": ["Notional Finance"],
+  "protocols": [
+    "Notional Finance"
+  ],
   "localization": {
     "en": {
       "name": "Notional Reinvest",

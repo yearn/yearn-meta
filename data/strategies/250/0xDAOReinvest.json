@@ -11,7 +11,9 @@
     "0x71304d618bd2F1334d25F3aC836a2BA94A0622Ae",
     "0xA36c91E38bf24E9F2df358E47D4134a8894C6a4c"
   ],
-  "protocols": ["0xDAO"],
+  "protocols": [
+    "0xDAO"
+  ],
   "localization": {
     "en": {
       "name": "0xDAO Reinvest",

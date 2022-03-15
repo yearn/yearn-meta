@@ -10,7 +10,9 @@
     "0x3f4100F690a435b63Ad5e27B7d0d2587128B12fe",
     "0x15045FC686d1E597D5bb6390d33CEA99C809C9A3"
   ],
-  "protocols": ["veDAO"],
+  "protocols": [
+    "veDAO"
+  ],
   "localization": {
     "en": {
       "name": "veDAO Reinvest",

@@ -1,6 +1,8 @@
 {
   "$schema": "token",
-  "categories": ["USD Stablecoin"],
+  "categories": [
+    "USD Stablecoin"
+  ],
   "description": "DOLA is a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance as collateral.",
   "website": "https://www.inverse.finance",
   "localization": {

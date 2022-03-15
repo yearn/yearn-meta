@@ -9,7 +9,9 @@
     "0xB71252D990483079ccf76a85b623059b5e33D3db",
     "0x95730d3E374b5E1F5b550Af059Af86D23feA79e3"
   ],
-  "protocols": ["Universe"],
+  "protocols": [
+    "Universe"
+  ],
   "localization": {
     "en": {
       "name": "Universe Reinvest",

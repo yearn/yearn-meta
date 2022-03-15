@@ -7,7 +7,9 @@
     "0x564bf2844654f149821697cC56572eE4384c05f7",
     "0xd2CF8B07fc913e6219E5031B147827c4D0e58A08"
   ],
-  "protocols": ["Sushi"],
+  "protocols": [
+    "Sushi"
+  ],
   "localization": {
     "en": {
       "name": "Kashi Lender",

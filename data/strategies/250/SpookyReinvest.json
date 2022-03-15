@@ -2,8 +2,12 @@
   "$schema": "strategy",
   "name": "Spookyswap Reinvest",
   "description": "Supplies {{token}} to [SpookySwap](https://spookyswap.finance/farms) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": ["0xf8c08cE855D1ABA492202ecf47eaa3d2a7DE2eC5"],
-  "protocols": ["SpookySwap"],
+  "addresses": [
+    "0xf8c08cE855D1ABA492202ecf47eaa3d2a7DE2eC5"
+  ],
+  "protocols": [
+    "SpookySwap"
+  ],
   "localization": {
     "en": {
       "name": "Spookyswap Reinvest",
