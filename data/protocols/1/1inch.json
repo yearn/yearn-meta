@@ -45,7 +45,7 @@
     },
     "ja": {
       "name": "1inch",
-      "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+      "description": "1inch exchangeは分散型取引所（DEX）アグリケーターです。ユーザーはトークンの最適な取引価格を探すことができます。1inchは一つのDEXの流動性プールからトークンをスワップするのではなく、異なるプール間のスワップを集約し、最も効率的な取引を提案します。"
     },
     "id": {
       "name": "1inch",
