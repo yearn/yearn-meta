@@ -5,5 +5,3 @@ index.json
 !schema/index.json
 build
 .DS_Store
-yarn.lock
-package-lock
