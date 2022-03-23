@@ -19,7 +19,7 @@
     },
     "de": {
       "name": "Curve Gauge",
-      "description": "Liefert {{Token}} an [Curve Finance](https://arbitrum.curve.fi) und setzt sie in der Lehre ein, um alle verfügbaren Token zu sammeln und CRV-Belohnungen zu verdienen. Verdiente Token werden geerntet und für weitere {{Token}} verkauft, die dann wieder in die Strategie eingezahlt werden."
+      "description": "Liefert {{token}} an [Curve Finance](https://arbitrum.curve.fi) und setzt sie in der Lehre ein, um alle verfügbaren Token zu sammeln und CRV-Belohnungen zu verdienen. Verdiente Token werden geerntet und für weitere {{token}} verkauft, die dann wieder in die Strategie eingezahlt werden."
     },
     "pt": {
       "name": "Curve Gauge",
