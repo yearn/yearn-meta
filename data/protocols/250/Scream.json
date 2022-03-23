@@ -44,8 +44,8 @@
       "description": "Scream is a decentralized lending protocol for individuals to access financial services. It is a permissionless, open source protocol serving users on Fantom. Users can deposit their assets on Scream to earn yield, similar to a traditional savings account."
     },
     "ja": {
-      "名前": "Scream",
-      "説明": "Screamは個人が金融サービスにアクセスするための分散型融資プロトコルです。パーミッションレスでオープンソースのプロトコルであり、Fantom上のユーザーにサービスを提供します。ユーザーはScreamに資産を預けることで、従来の普通預金と同様に利回りを得ることができます。"
+      "name": "Scream",
+      "description": "Screamは個人が金融サービスにアクセスするための分散型融資プロトコルです。パーミッションレスでオープンソースのプロトコルであり、Fantom上のユーザーにサービスを提供します。ユーザーはScreamに資産を預けることで、従来の普通預金と同様に利回りを得ることができます。"
     },
     "id": {
       "name": "Scream",

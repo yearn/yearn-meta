@@ -44,8 +44,8 @@
       "description": "Geist is a decentralized money market running on the Fantom blockchain. It helps users to lend and borrow a range of crypto assets."
     },
     "ja": {
-      "名前": "GeistFinance",
-      "説明": "Geist FinanceはFantomブロックチェーン上で動作する分散型マネーマーケットです。ユーザーがさまざまな暗号資産を貸し借りできるようにします。"
+      "name": "GeistFinance",
+      "description": "Geist FinanceはFantomブロックチェーン上で動作する分散型マネーマーケットです。ユーザーがさまざまな暗号資産を貸し借りできるようにします。"
     },
     "id": {
       "name": "GeistFinance",
