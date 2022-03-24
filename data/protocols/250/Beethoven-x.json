@@ -1,59 +1,59 @@
 {
   "$schema": "protocol",
-  "name": "Beethoven-x",
-  "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees.",
+  "name": "Beethoven-X",
+  "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees.",
   "localization": {
     "en": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
     },
     "fr": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
     },
     "es": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
     },
     "de": {
       "name": "Beethoven-x",
       "description": "Beethoven X ist ein automatisiertes Market-Maker-Protokoll im Fantom-Netzwerk. Es ist ein dezentraler Liquiditätsaggregator, bei dem Nutzer ihre Vermögenswerte zu verschiedenen Liquiditätspools hinzufügen und Gebühren verdienen können."
     },
     "pt": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X é um protocolo AMM na rede Fantom. É um agregador descentralizado de liquidez onde os usuários podem adicionar seus ativos em diferentes pools de liquidez e receber taxas por isto."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X é um protocolo AMM na rede Fantom. É um agregador descentralizado de liquidez onde os usuários podem adicionar seus ativos em diferentes pools de liquidez e receber taxas por isto."
     },
     "el": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
     },
     "tr": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X, Fantom ağındaki otomatik bir piyasa yapıcı protokolüdür. Kullanıcıların varlıklarını birkaç farklı likidite havuzuna ekleyebilecekleri ve ücret kazanabilecekleri merkezi olmayan bir likidite toplayıcıdır."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X, Fantom ağındaki otomatik bir piyasa yapıcı protokolüdür. Kullanıcıların varlıklarını birkaç farklı likidite havuzuna ekleyebilecekleri ve ücret kazanabilecekleri merkezi olmayan bir likidite toplayıcıdır."
     },
     "vi": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
     },
     "zh": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
     },
     "hi": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
     },
     "ja": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-XはFantomネットワーク上の自動マーケットメーカープロトコルです。これは分散型流動性アグリゲーターであり、ユーザーは自分の資産をいくつかの異なる流動性プールに追加し、手数料を得ることができます。"
     },
     "id": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
     },
     "ru": {
-      "name": "Beethoven-x",
-      "description": "Beethoven X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "name": "Beethoven-X",
+      "description": "Beethoven-X is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
     }
   }
 }

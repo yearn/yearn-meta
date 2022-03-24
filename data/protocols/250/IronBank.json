@@ -45,7 +45,7 @@
     },
     "ja": {
       "name": "Iron Bank",
-      "description": "Iron Bank is a decentralized lending protocol for individuals, institutions and protocols to access financial services. Built by Cream in collaboration with Yearn Finance, it is a permissionless, open source and blockchain agnostic protocol serving users on Ethereum and Fantom. Users can deposit their assets on Iron Bank to earn yield, similar to a traditional savings account. The difference between Iron Bank and Cream v1 is that in Iron Bank trusted protocols can take out a zero collateral loan when whitelisted."
+      "description": "Iron Bankは個人、機関、プロトコルが金融サービスにアクセスするための分散型融資プロトコルです。CreamがYearn Financeと共同で構築したこのプロトコルは、パーミッションレスであり、オープンソースであり、ブロックチェーンにとらわれずEthereumとFantom上にサービスを提供しています。ユーザーはIron Bankに資産を預けることで従来の普通預金と同様に利回りを得ることができます。Iron BankとCream v1の違いは、Iron Bankでは信頼できるプロトコルがホワイトリストに掲載されている場合に担保ゼロのローンを組むことができる点です。"
     },
     "id": {
       "name": "Iron Bank",
