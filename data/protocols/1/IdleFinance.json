@@ -44,8 +44,8 @@
       "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
     },
     "ja": {
-      "name": "Idle Finance",
-      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+      "名前": "Idle Finance",
+      "説明": "Idle Financeは分散型リバランスプロトコルです。ユーザーが異なるサードパーティのDeFiプロトコルの間でデジタル資産の配分を自動的かつアルゴリズム的に管理するのを助けます。ユーザーはMaxYieldストラテジーによって金利リターンを最大化するか、RiskAdjusted配分戦略によってリスクエクスポージャを最小化するかを選択することができます。"
     },
     "id": {
       "name": "Idle Finance",
