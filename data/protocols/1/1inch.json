@@ -29,7 +29,7 @@
     },
     "tr": {
       "name": "1inch",
-      "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+      "description": "1inch exchange, merkezi olmayan bir takas (DEX) toplayıcısıdır. Kullanıcıların token'ler için en iyi takas fiyatlarını keşfetmesine yardımcı olur. Tek bir DEX likidite havuzundan token'leri takas etmek yerine, 1inch takasları farklı havuzlar arasında toplar ve en verimli takası önerir."
     },
     "vi": {
       "name": "1inch",
@@ -37,7 +37,7 @@
     },
     "zh": {
       "name": "1inch",
-      "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
+      "description": "1inch 是一个去中心化交易平台（DEX）聚合器。它可以提供用户最佳的交易价格。与其在单个 DEX 的流动性池中做代币交换，1inch 聚合不同池的交换并可以提供最高效的交易的建议。"
     },
     "hi": {
       "name": "1inch",
