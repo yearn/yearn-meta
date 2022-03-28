@@ -12,8 +12,8 @@
       "description": "Compound is an algorithmic, autonomous interest rate protocol that allows you to lend and borrow crypto. Users can have a say in protocol governance with its native COMP token."
     },
     "es": {
-      "name": "Compound Finance",
-      "description": "Compound is an algorithmic, autonomous interest rate protocol that allows you to lend and borrow crypto. Users can have a say in protocol governance with its native COMP token."
+      "nombre": "Compound Finance",
+      "descripción": "Compound es un protocolo de tasa de interés algorítmico y autónomo que le permite prestar y tomar prestadas criptomonedas. Los usuarios pueden opinar sobre la gobernanza del protocolo con su token COMP nativo."
     },
     "de": {
       "name": "Compound Finance",
