@@ -12,8 +12,8 @@
       "description": "Iron Bank is a protocol-to-protocol lending platform and liquidity backstop for the entire DeFi ecosystem. It offers whitelisted protocols access to uncollateralized loans."
     },
     "es": {
-      "name": "Iron Bank",
-      "description": "Iron Bank is a protocol-to-protocol lending platform and liquidity backstop for the entire DeFi ecosystem. It offers whitelisted protocols access to uncollateralized loans."
+      "nombre": "Iron Bank",
+      "descripción": "Iron Bank es una plataforma de préstamo de protocolo a protocolo y respaldo de liquidez para todo el ecosistema DeFi. Ofrece protocolos preaprobados el acceso a préstamos sin garantía."
     },
     "de": {
       "name": "Iron Bank",
