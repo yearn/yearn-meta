@@ -37,7 +37,7 @@
     },
     "zh": {
       "name": "Iron Bank",
-      "description": "Iron Bank is a decentralized lending protocol for individuals, institutions and protocols to access financial services. Built by C.R.E.A.M. Finance in collaboration with Yearn Finance, it is a permissionless, open source and blockchain agnostic protocol serving users on Ethereum and Fantom. Users can deposit their assets on Iron Bank to earn yield, similar to a traditional savings account. The difference between Iron Bank and C.R.E.A.M. v1 is that in Iron Bank, trusted protocols can take out a zero collateral loan when whitelisted."
+      "description": "Iron Bank 是个去中心化的借贷协议，主要目的是提供金融服务给个人、机构和协议。它是由 C.R.E.A.M. Finance 和 Yearn Finance 合作打造的。它是一种无需许可，开源而且无特定区块链的协议，为以太坊和 Fantom 上的用户提供服务。用户可以将资产存入 Iron Bank 以赚取收益，就像传统的储蓄账户一样。Iron Bank 和第一版本的 C.R.E.A.M. 之间的区别在于，在 Iron Bank 上，已经被列入白名单的协议可以做零抵押的贷款。"
     },
     "hi": {
       "name": "Iron Bank",
