@@ -12,8 +12,8 @@
       "description": "Liquity is a decentralized borrowing protocol built on Ethereum that allows you to draw interest-free loans against Ether via its LUSD stablecoin."
     },
     "es": {
-      "name": "Liquity",
-      "description": "Liquity is a decentralized borrowing protocol built on Ethereum that allows you to draw interest-free loans against Ether via its LUSD stablecoin."
+      "nombre": "Liquity",
+      "descripción": "Liquity es un protocolo de préstamo descentralizado basado en Ethereum que le permite obtener préstamos sin intereses contra Ether a través de su moneda estable LUSD."
     },
     "de": {
       "name": "Liquity",
