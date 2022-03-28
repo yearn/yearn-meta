@@ -13,7 +13,7 @@
     },
     "es": {
       "nombre": "Iron Bank",
-      "descripción": "Iron Bank es un protocolo de préstamo descentralizado para individuos, instituciones y protocolos para acceder a servicios financieros. Creado por Cream en colaboración con Yearn Finance, es un protocolo agnóstico de cadena de bloques, de código abierto y sin permiso que sirve a los usuarios en Ethereum y Fantom. Los usuarios pueden depositar su activos en Iron Bank para obtener rendimiento, similar a una cuenta de ahorros tradicional. La diferencia entre Iron Bank y Cream v1 es que en Iron Bank, los protocolos confiables pueden obtener un préstamo con garantía cero cuando están en la lista blanca"."
+      "descripción": "Iron Bank es un protocolo de préstamo descentralizado para individuos, instituciones y protocolos para acceder a servicios financieros. Creado por Cream en colaboración con Yearn Finance, es un protocolo agnóstico de cadena de bloques, de código abierto y sin permiso que sirve a los usuarios en Ethereum y Fantom. Los usuarios pueden depositar su activos en Iron Bank para obtener rendimiento, similar a una cuenta de ahorros tradicional. La diferencia entre Iron Bank y Cream v1 es que en Iron Bank, los protocolos confiables pueden obtener un préstamo con garantía cero cuando están en la lista blanca."
     },
     "de": {
       "name": "Iron Bank",
