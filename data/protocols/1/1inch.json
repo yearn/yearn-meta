@@ -12,8 +12,8 @@
       "description": "1inch exchange is a decentralized exchange (DEX) aggregator. It helps users discover the best trade prices for tokens. Instead of swapping tokens from a single DEX liquidity pool, 1inch aggregates swaps across different pools and suggests the most efficient trade."
     },
     "es": {
-      "name": "1inch",
-      "description": "1inch exchange es un agregador de intercambio descentralizado (DEX). Ayuda a los usuarios a descubrir los mejores precios comerciales para tokens. En lugar de intercambiar tokens de un solo grupo de liquidez, en 1inch se intercambian entre diferentes grupos y sugiere el intercambio más eficiente."
+      "nombre": "1inch",
+      "descripción": "1inch exchange es un agregador de intercambio descentralizado (DEX). Ayuda a los usuarios a descubrir los mejores precios comerciales para tokens. En lugar de intercambiar tokens de un solo grupo de liquidez, en 1inch se intercambian entre diferentes grupos y sugiere el intercambio más eficiente."
     },
     "de": {
       "name": "1inch",
