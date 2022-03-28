@@ -12,8 +12,8 @@
       "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
     },
     "es": {
-      "name": "Sushi",
-      "description": "Sushi is an automated market making protocol designed for token swaps. It is a decentralized liquidity aggregator where users add their assets to different liquidity pools and earn fees."
+      "nombre": "Sushi",
+      "descripción": "Sushi es un protocolo de creación de mercado automatizado diseñado para intercambios de tokens. Es un agregador de liquidez descentralizado donde los usuarios agregan sus activos a diferentes fondos de liquidez y ganan parte de las tarifas."
     },
     "de": {
       "name": "Sushi",
