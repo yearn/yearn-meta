@@ -1,11 +1,11 @@
 {
   "$schema": "protocol",
   "name": "KeeperDAO",
-  "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols.",
+  "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols.",
   "localization": {
     "en": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "fr": {
       "name": "KeeperDAO",
@@ -13,47 +13,47 @@
     },
     "es": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "de": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "pt": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "el": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "tr": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "vi": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "zh": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "hi": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "ja": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "id": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     },
     "ru": {
       "name": "KeeperDAO",
-      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes  game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
+      "description": "KeeperDAO is an on-chain liquidity underwriter for DeFi. KeeperDAO incentivizes game theory optimal strategy for cooperation among on-chain arbitrageurs and provides an efficient mechanism for large scale arbitrage and liquidation trades on all DeFi protocols."
     }
   }
 }
