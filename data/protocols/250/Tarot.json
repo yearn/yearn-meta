@@ -1,15 +1,15 @@
 {
   "$schema": "protocol",
   "name": "Tarot",
-  "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leverage yield farming.",
+  "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leveraged yield farming.",
   "localization": {
     "en": {
       "name": "Tarot",
-      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leverage yield farming."
+      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leveraged yield farming."
     },
     "fr": {
       "name": "Tarot",
-      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leverage yield farming."
+      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leveraged yield farming."
     },
     "es": {
       "name": "Tarot",
@@ -17,7 +17,7 @@
     },
     "de": {
       "name": "Tarot",
-      "description": "Tarot ist ein dezentrales Kreditprotokoll im Fantom-Netzwerk. Es ist ein dezentralisiertes Kreditprotokoll, bei dem Nutzer in isolierten Pools leihen oder verleihen können, was es Kreditnehmern ermöglicht, ihre LP-Token für Leverage Yield Farming zu nutzen."
+      "description": "Tarot ist ein dezentrales Kreditprotokoll im Fantom-Netzwerk. Es ist ein dezentralisiertes Kreditprotokoll, bei dem Nutzer in isolierten Pools leihen oder verleihen können, was es Kreditnehmern ermöglicht, ihre LP-Token für Leveraged Yield Farming zu nutzen."
     },
     "pt": {
       "name": "Tarot",
@@ -25,7 +25,7 @@
     },
     "el": {
       "name": "Tarot",
-      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leverage yield farming."
+      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leveraged yield farming."
     },
     "tr": {
       "name": "Tarot",
@@ -33,15 +33,15 @@
     },
     "vi": {
       "name": "Tarot",
-      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leverage yield farming."
+      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leveraged yield farming."
     },
     "zh": {
       "name": "Tarot",
-      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leverage yield farming."
+      "description": "Tarot 是个在 Fantom 网络上的去中心化借贷协议。其去中心化借贷协议让用户可以在独立的池中借出或借入资产，从而使得借款人能够应用他们的 LP 代币做杠杆挖矿。"
     },
     "hi": {
       "name": "Tarot",
-      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leverage yield farming."
+      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leveraged yield farming."
     },
     "ja": {
       "name": "Tarot",
@@ -49,11 +49,11 @@
     },
     "id": {
       "name": "Tarot",
-      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leverage yield farming."
+      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leveraged yield farming."
     },
     "ru": {
       "name": "Tarot",
-      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leverage yield farming."
+      "description": "Tarot is a decentralized lending protocol on the Fantom network. It's a decentralized lending protocol where users can lend or borrow in isolated pools which enables borrowers to leverage their LP tokens for leveraged yield farming."
     }
   }
 }
