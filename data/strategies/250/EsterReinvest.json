@@ -1,61 +1,61 @@
 {
   "$schema": "strategy",
   "name": "Ester Reinvest",
-  "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
   "addresses": ["0x0Edd8F5786f2AFeBa9fa56a65487bA3F6264AAA9"],
   "protocols": ["EsterFinance"],
   "localization": {
     "en": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "fr": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "es": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "de": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "pt": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "el": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "tr": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "vi": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "zh": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "hi": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "ja": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "id": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     },
     "ru": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
     }
   }
 }

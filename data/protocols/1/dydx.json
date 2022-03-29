@@ -1,59 +1,59 @@
 {
   "$schema": "protocol",
   "name": "dYdX",
-  "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies.",
+  "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies.",
   "localization": {
     "en": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     },
     "fr": {
       "name": "dYdX",
-      "description": "dYdX est une plateforme de margin trading décentralisée basée sur Ethereum. Elle aide les utilisateurs à emprunter, à prêter et à parier sur les prix futurs des crypto-monnaies les plus populaires."
+  "description": "dYdX est une plateforme de margin trading décentralisée basée sur Ethereum. Elle aide les utilisateurs à emprunter, à prêter et à parier sur les prix futurs des crypto-monnaies les plus populaires."
     },
     "es": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX es una plataforma de comercio de margen descentralizada basada en Ethereum. Ayuda a los usuarios a pedir prestado y hacer apuestas sobre los precios futuros de las criptomonedas populares."
     },
     "de": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     },
     "pt": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     },
     "el": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     },
     "tr": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX, Ethereum'a dayalı merkezi olmayan bir marj ticaret platformudur. Kullanıcıların ödünç almalarına ve popüler kripto para birimlerinin gelecekteki fiyatlarına bahis yapmalarına yardımcı olur."
     },
     "vi": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     },
     "zh": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     },
     "hi": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     },
     "ja": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     },
     "id": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     },
     "ru": {
       "name": "dYdX",
-      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow lend and make bets on the future prices of popular cryptocurrencies."
+      "description": "dYdX is a decentralized margin trading platform based on Ethereum. It helps users to borrow, lend, and make bets on the future prices of popular cryptocurrencies."
     }
   }
 }
