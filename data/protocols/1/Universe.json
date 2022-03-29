@@ -1,11 +1,11 @@
 {
   "$schema": "protocol",
   "name": "Universe",
-  "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token.",
+  "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token.",
   "localization": {
     "en": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "fr": {
       "name": "Universe",
@@ -13,47 +13,47 @@
     },
     "es": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "de": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "pt": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "el": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "tr": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "vi": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "zh": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "hi": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "ja": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "id": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     },
     "ru": {
       "name": "Universe",
-      "description": "Universe protocol is an NFT platfrom where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
+      "description": "Universe protocol is an NFT platform where people can mint NFTs, create and edit NFT Collections and run auctions with multiple NFTs per winner. Users can have a say in protocol governance with its native XYZ token."
     }
   }
 }
