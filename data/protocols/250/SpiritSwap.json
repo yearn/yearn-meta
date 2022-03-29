@@ -13,7 +13,7 @@
     },
     "es": {
       "name": "SpiritSwap",
-      "description": "SpiritSwap es un protocolo de creación de mercado automatizado en la red Fantom. Es un agregador de liquidez descentralizado donde los usuarios pueden agregar sus activos a varios grupos de liquidez diferentes y ganar parte de las tarifas."
+      "description": "SpiritSwap es un creador automático de mercado en la red Fantom. Es un agregador de liquidez descentralizado donde los usuarios pueden agregar sus activos a varios pools de liquidez diferentes y ganar parte de las comisiones."
     },
     "de": {
       "name": "SpiritSwap",
