@@ -13,7 +13,7 @@
     },
     "es": {
       "name": "Iron Bank",
-      "description": "Iron Bank es un protocolo de préstamo descentralizado para individuos, instituciones y protocolos para acceder a servicios financieros. Creado por C.R.E.A.M. Finance en colaboración con Yearn Finance, es un protocolo agnóstico a cualquier blockchain, de código abierto y que no requiere de ninguna autorización que opera en Ethereum y Fantom. Los usuarios pueden depositar sus activos en Iron Bank para obtener rendimiento, similar a una cuenta de ahorros tradicional. La diferencia entre Iron Bank y C.R.E.A.M. v1 es que en Iron Bank, los protocolos confiables pueden obtener un préstamo con garantía cero cuando están en la whitelist."
+      "description": "Iron Bank es un protocolo descentralizado de préstamos para individuos, instituciones y protocolos para acceder a servicios financieros. Creado por C.R.E.A.M. Finance en colaboración con Yearn Finance, es un protocolo agnóstico a cualquier blockchain, de código abierto y que no requiere de ninguna autorización que opera en Ethereum y Fantom. Los usuarios pueden depositar sus activos en Iron Bank para obtener rendimiento, similar a una cuenta de ahorros tradicional. La diferencia entre Iron Bank y C.R.E.A.M. v1 es que en Iron Bank, los protocolos confiables pueden obtener un préstamo con garantía cero cuando están en la whitelist."
     },
     "de": {
       "name": "Iron Bank",
