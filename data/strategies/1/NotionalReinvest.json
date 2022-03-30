@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "Notional Reinvest",
-  "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy.",
+  "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy.",
   "addresses": [
     "0x091ceD53A84dad18486Afc4d05F313116AEbEf74",
     "0x253898A4B57615949eE73892bA22b7cFAc17f715",
@@ -12,55 +12,55 @@
   "localization": {
     "en": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "fr": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "es": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "de": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "pt": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "el": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "tr": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "vi": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "zh": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "hi": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "ja": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "id": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     },
     "ru": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for three months to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
     }
   }
 }
