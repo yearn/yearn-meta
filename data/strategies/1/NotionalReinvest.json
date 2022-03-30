@@ -1,7 +1,7 @@
 {
   "$schema": "strategy",
   "name": "Notional Reinvest",
-  "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various time periods, depending on calculated return, to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy. If you see multiple Notional Strategies listed, each has a different maturity date.",
+  "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy.",
   "addresses": ["0x0250AA4a3849F5958620048270e1FC1C9ADedC2C"],
   "protocols": ["Notional Finance"]
 }
