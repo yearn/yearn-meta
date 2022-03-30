@@ -1,5 +1,59 @@
 {
   "$schema": "protocol",
   "name": "Idle Finance",
-  "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+  "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy.",
+  "localization": {
+    "en": {
+      "name": "Idle Finance",
+      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+    },
+    "fr": {
+      "name": "Idle Finance",
+      "description": "Idle Finance est un protocole décentralisé de rééquilibrage. Il aide les utilisateurs à gérer automatiquement et de manière algorithmique leur allocation d'actifs numériques entre différents protocoles tiers dans la DeFi. Les utilisateurs peuvent choisir de maximiser leurs rendements des taux d'intérêt grâce à la stratégie MaxYield ou de minimiser leur exposition au risque grâce à la stratégie d'allocation RiskAdjusted."
+    },
+    "es": {
+      "name": "Idle Finance",
+      "description": "Idle Finance es un protocolo de rebalanceo descentralizado. Ayuda a los usuarios a administrar de forma automática y algorítmica su asignación de activos digitales entre diferentes protocolos DeFi de terceros. Los usuarios pueden optar por maximizar los rendimientos de las tasas de interés a través de la estrategia MaxYield o minimizar su exposición al riesgo a través de la estrategia de asignación RiskAdjusted."
+    },
+    "de": {
+      "name": "Idle Finance",
+      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+    },
+    "pt": {
+      "name": "Idle Finance",
+      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+    },
+    "el": {
+      "name": "Idle Finance",
+      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+    },
+    "tr": {
+      "name": "Idle Finance",
+      "description": "Idle Finance, merkezi olmayan bir yeniden dengeleme protokolüdür. Kullanıcıların, farklı üçüncü taraf DeFi protokolleri arasında dijital varlık tahsislerini otomatik ve algoritmik olarak yönetmelerine yardımcı olur. Kullanıcılar, MaxYield stratejisi aracılığıyla faiz oranı getirilerini en üst düzeye çıkarmayı veya RiskAdjusted tahsis stratejisi aracılığıyla risk maruziyetlerini en aza indirmeyi seçebilir."
+    },
+    "vi": {
+      "name": "Idle Finance",
+      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+    },
+    "zh": {
+      "name": "Idle Finance",
+      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+    },
+    "hi": {
+      "name": "Idle Finance",
+      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+    },
+    "ja": {
+      "name": "Idle Finance",
+      "description": "Idle Financeは分散型リバランスプロトコルです。ユーザーが異なるサードパーティのDeFiプロトコルの間でデジタル資産の配分を自動的かつアルゴリズム的に管理するのを助けます。ユーザーはMaxYield戦略によって金利リターンを最大化するか、RiskAdjusted配分戦略によってリスクエクスポージャを最小化するかを選択することができます。"
+    },
+    "id": {
+      "name": "Idle Finance",
+      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+    },
+    "ru": {
+      "name": "Idle Finance",
+      "description": "Idle Finance is a decentralized rebalancing protocol. It helps users to automatically and algorithmically manage their digital asset allocation among different third-party DeFi protocols. Users can choose to maximize interest rate returns through MaxYield strategy or minimize their risk exposure through RiskAdjusted allocation strategy."
+    }
+  }
 }

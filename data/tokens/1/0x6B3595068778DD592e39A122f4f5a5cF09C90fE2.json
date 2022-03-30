@@ -1,6 +1,47 @@
 {
   "$schema": "token",
   "categories": ["Governance Tokens"],
-  "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains.  SUSHI tokens are used for protocol governance and can be staked for protocol fees.",
-  "website": "https://sushi.com/"
+  "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees.",
+  "website": "https://sushi.com/",
+  "localization": {
+    "en": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "fr": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "es": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "de": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "pt": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "el": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "tr": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "vi": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "zh": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "hi": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "ja": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "id": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    },
+    "ru": {
+      "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees."
+    }
+  }
 }
