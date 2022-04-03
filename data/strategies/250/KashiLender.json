@@ -31,7 +31,7 @@
     },
     "tr": {
       "name": "Kashi Lender",
-      "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Faiz ve SUSHI jetonları kazanmak için [Kashi](https://app.sushi.com/lend) aracılığıyla Sushi'ye {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Kashi Lender",
