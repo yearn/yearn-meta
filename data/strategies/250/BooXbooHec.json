@@ -31,7 +31,7 @@
     },
     "tr": {
       "name": "Boo Xboo Hec",
-      "description": "Stakes {{token}} in [SpookySwap](https://www.oxdao.fi) to receive xBOO which is staked to earn HEC. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "HEC kazanmak için stake edilen xBOO'yu almak için [SpookySwap](https://www.oxdao.fi)'de {{token}} stake eder. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Boo Xboo Hec",
