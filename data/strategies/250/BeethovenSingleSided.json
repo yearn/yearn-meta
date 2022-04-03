@@ -63,7 +63,7 @@
     },
     "tr": {
       "name": "Beethoven-X Yield Seeker",
-      "description": "Supplies {{token}} to [Beethoven-X](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "BEETS ve işlem ücretleri kazanmak için [Beethoven-X](https://beets.fi) Stable Havuzlarına {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Beethoven-X Yield Seeker",
