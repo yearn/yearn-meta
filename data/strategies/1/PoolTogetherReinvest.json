@@ -19,7 +19,7 @@
     },
     "es": {
       "name": "Pool Together Reinvest",
-      "description": "Supplies {{token}} to [Pool Together](https://app.pooltogether.com) to earn POOL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. If strategy wins prize of the week, prize will also be added to the strategy."
+      "description": "Suministra {{token}} a [Pool Together](https://app.pooltogether.com) para ganar POOL. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia. Si la estrategia gana el premio de la semana, el premio también se agregará a la estrategia.."
     },
     "de": {
       "name": "Pool Together Reinvest",
