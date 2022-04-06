@@ -15,7 +15,7 @@
     },
     "es": {
       "name": "Curve Gauge",
-      "description": "Suministra {{token}} a [Curve Finance](https://arbitrum.curve.fi) y hace staking en el indicador para recolectar los tokens disponibles y ganar recompensas en CRV. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
+      "description": "Suministra {{token}} a [Curve Finance](https://arbitrum.curve.fi) y hace staking en el gauge para recolectar los tokens disponibles y ganar recompensas en CRV. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Curve Gauge",
