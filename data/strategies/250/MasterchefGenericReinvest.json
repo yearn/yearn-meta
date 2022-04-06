@@ -27,7 +27,7 @@
     },
     "es": {
       "name": "Masterchef Generic Reinvest",
-      "description": "Suministra {{token}} a un grupo genérico de masterchef genesis para ganar tokens de protocolo. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
+      "description": "Suministra {{token}} a un grupo genérico de masterchef génesis para ganar tokens de protocolo. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia.."
     },
     "de": {
       "name": "Masterchef Generic Reinvest",
