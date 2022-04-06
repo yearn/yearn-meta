@@ -13,7 +13,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and Binance USD, a regulated stablecoin issued by Paxos."
     },
     "es": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and Binance USD, a regulated stablecoin issued by Paxos."
+      "description": "Este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los gauges de Curve para obtener emisiones de CRV. Este metapool de fábrica contiene 3Crv (DAI, USDC y USDT) y Binance USD, una moneda estable regulada emitida por Paxos."
     },
     "de": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and Binance USD, a regulated stablecoin issued by Paxos."
