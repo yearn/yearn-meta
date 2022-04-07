@@ -13,7 +13,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and tBTC, an ERC-20 supply-pegged to native BTC and overcollateralized with ETH."
     },
     "es": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and tBTC, an ERC-20 supply-pegged to native BTC and overcollateralized with ETH."
+      "description": "Este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los gauges de Curve para obtener emisiones de CRV. Este metapool contiene sBTC-Crv (sBTC, WBTC y renBTC) y tBTC, un suministro ERC-20 vinculado a BTC nativo y sobregarantizado con ETH."
     },
     "de": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and tBTC, an ERC-20 supply-pegged to native BTC and overcollateralized with ETH."
