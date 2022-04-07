@@ -15,7 +15,7 @@
     },
     "es": {
       "name": "Aave Folding",
-      "description": "Supplies and borrows {{token}} repeatedly on [AAVE](https://app.aave.com/home) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra y pide prestado {{token}} repetidamente en [AAVE](https://app.aave.com/home) para generar intereses y ganar tokens AAVE en staking. Una vez desbloqueados, los tokens ganados se cosechan y se venden por más {{token}} que se depositan nuevamente en la estrategia."
     },
     "de": {
       "name": "Aave Folding",

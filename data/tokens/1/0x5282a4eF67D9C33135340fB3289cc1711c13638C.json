@@ -1,49 +1,49 @@
 {
   "$schema": "token",
   "categories": ["Curve LP Tokens"],
-  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance.",
+  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance.",
   "website": "https://www.curve.fi/ib/",
   "tokenSymbolOverride": "crvIB",
   "tokenNameOverride": "Curve Iron Bank Pool",
   "localization": {
     "en": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "fr": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "es": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "Este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los gauges de Curve para obtener emisiones de CRV. Este grupo contiene DAI, USDC y USDT que se prestan al Iron Bank, un mercado monetario descentralizado en Ethereum lanzado en colaboración por C.R.E.A.M. Finanzas y Yearn Finance."
     },
     "de": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "pt": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "el": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "tr": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "vi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "zh": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "hi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "ja": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "id": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "ru": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. and Yearn Finance."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     }
   }
 }

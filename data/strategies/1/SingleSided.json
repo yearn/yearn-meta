@@ -32,7 +32,7 @@
     },
     "es": {
       "name": "Curve Yield Seeker",
-      "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) to earn CRV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable Curve pool."
+      "description": "Suministra {{token}} a [Curve Finance](https://curve.fi) para ganar CRV. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia. La estrategia cambia automáticamente al grupo de Curve más rentable."
     },
     "de": {
       "name": "Curve Yield Seeker",

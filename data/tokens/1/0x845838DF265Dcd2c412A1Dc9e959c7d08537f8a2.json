@@ -13,7 +13,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI and USDC lent out to Compound, a decentralized money market on Ethereum."
     },
     "es": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI and USDC lent out to Compound, a decentralized money market on Ethereum."
+      "description": "Este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los gauges de Curve para obtener emisiones de CRV. Este grupo contiene DAI y USDC prestados a Compound, un mercado monetario descentralizado en Ethereum."
     },
     "de": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI and USDC lent out to Compound, a decentralized money market on Ethereum."

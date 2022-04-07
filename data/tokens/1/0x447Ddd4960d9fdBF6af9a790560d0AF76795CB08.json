@@ -13,7 +13,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains rETH and wstETH. rETH is a token that represents staked ether in Rocket Pool, while wstETH is a wrapped token that represents staked ether in Lido. Both are decentralized ETH 2.0 staking platforms."
     },
     "es": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains rETH and wstETH. rETH is a token that represents staked ether in Rocket Pool, while wstETH is a wrapped token that represents staked ether in Lido. Both are decentralized ETH 2.0 staking platforms."
+      "description": "Este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los gauges de Curve para obtener emisiones de CRV. Este grupo contiene rETH y wstETH. rETH es un token que representa éter apostado en Rocket Pool, mientras que wstETH es un token envuelto que representa éter en staking en Lido. Ambas son plataformas de participación ETH 2.0 descentralizadas."
     },
     "de": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains rETH and wstETH. rETH is a token that represents staked ether in Rocket Pool, while wstETH is a wrapped token that represents staked ether in Lido. Both are decentralized ETH 2.0 staking platforms."

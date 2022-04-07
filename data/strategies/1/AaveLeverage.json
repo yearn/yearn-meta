@@ -19,7 +19,7 @@
     },
     "es": {
       "name": "Aave Flashloan Folding",
-      "description": "Supplies and borrows {{token}} on [Aave](https://app.aave.com/markets) simultaneously to earn stkAAVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Flashloans are used to obtain additional {{token}} from [dYdX](https://margin.dydx.exchange/markets/overview) to boost the APY."
+      "description": "Suministra y pide prestado {{token}} en [Aave](https://app.aave.com/markets) simultáneamente para ganar stkAAVE. Los tokens ganados se cosechan, se venden por más {{token}} que se depositan nuevamente en la estrategia. Los préstamos flash se utilizan para obtener {{token}} adicionales de [dYdX](https://margin.dydx.exchange/markets/overview) para aumentar el APY."
     },
     "de": {
       "name": "Aave Flashloan Folding",

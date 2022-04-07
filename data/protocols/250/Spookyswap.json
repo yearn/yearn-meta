@@ -9,7 +9,7 @@
     },
     "fr": {
       "name": "SpookySwap",
-      "description": "SpookySwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "description": "SpookySwap est un protocole market maker automatisé sur le réseau Fantom. Il s'agit d'un agrégateur de liquidités décentralisé avec lequel les utilisateurs peuvent ajouter leurs actifs dans plusieurs pools de liquidités différentes et gagner une partie des frais."
     },
     "es": {
       "name": "SpookySwap",
@@ -37,7 +37,7 @@
     },
     "zh": {
       "name": "SpookySwap",
-      "description": "SpookySwap is an automated market maker protocol on the Fantom network. It's a decentralized liquidity aggregator where users can add their assets to several different liquidity pools and earn fees."
+      "description": "SpookySwap 是个在 Fantom 网络上的自动做市商协议。它是个去中心化的流动性聚合器。用户可以将他们的资产添加到各个不同的流动性池中以赚取费用。"
     },
     "hi": {
       "name": "SpookySwap",

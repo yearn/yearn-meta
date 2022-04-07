@@ -27,7 +27,7 @@
     },
     "es": {
       "name": "Scream Folding",
-      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra y pide prestado {{token}} en [Scream](http://scream.sh) simultáneamente para ganar SCREAM. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Scream Folding",
@@ -43,7 +43,7 @@
     },
     "tr": {
       "name": "Scream Folding",
-      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "SCREAM kazanmak için aynı anda [Scream](http://scream.sh)'de hem {{token}} sağlar hem ödünç alır. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Scream Folding",
