@@ -20,7 +20,7 @@
     },
     "es": {
       "name": "Spirit Joint Provider Hedged",
-      "description": "Supplies {{token}} as half of a joint liquidity provider for a pool on [SpiritSwap](https://app.spiritswap.finance) also this strategy limits Impermanent Loss via Hedgil in a protected range while earning SPIRIT and fees. Earned tokens are harvested, divided between the tokens, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} como la mitad de un proveedor de liquidez conjunto para un grupo en [SpiritSwap](https://app.spiritswap.finance). Además, esta estrategia limita la pérdida impermanente a través de Hedgil en un rango protegido mientras gana SPIRIT y tarifas. Los tokens ganados se cosechan, se dividen entre los tokens, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Spirit Joint Provider Hedged",
