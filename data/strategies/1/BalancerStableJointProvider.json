@@ -22,7 +22,7 @@
     },
     "es": {
       "name": "Rebalancer Stable Joint Provider",
-      "description": "Supplies {{token}} as half of a join liquidity provider for a Stable Pool on [Balancer](https://app.balancer.fi). Rewards are harvested, split between the pairs, sold for more {{token}}, and deposited back into the strategy."
+      "description": "Suministra {{token}} como la mitad de un proveedor de liquidez para un grupo de estables en [Balancer](https://app.balancer.fi). Las recompensas se cosechan, se dividen entre los pares, se venden por más {{token}} y se vuelven a depositar en la estrategia."
     },
     "de": {
       "name": "Rebalancer Stable Joint Provider",

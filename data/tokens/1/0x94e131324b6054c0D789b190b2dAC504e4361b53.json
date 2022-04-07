@@ -13,7 +13,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and UST. While still active, this pool also has a newer UST v2 Wormhole pool."
     },
     "es": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and UST. While still active, this pool also has a newer UST v2 Wormhole pool."
+      "description": "Este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los gauges de Curve para obtener emisiones de CRV. Este metapool contiene 3Crv (DAI, USDC y USDT) y UST. Si bien aún está activo, este grupo también tiene un grupo UST v2 Wormhole más nuevo."
     },
     "de": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and UST. While still active, this pool also has a newer UST v2 Wormhole pool."

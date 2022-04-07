@@ -13,7 +13,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains DAI, USDC, USDT, and Euro Tether (EURT). Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss."
     },
     "es": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains DAI, USDC, USDT, and Euro Tether (EURT). Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss."
+      "description": "Este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los gauges de Curve para obtener emisiones de CRV. Este grupo de criptomonedas contiene DAI, USDC, USDT y Euro Tether (EURT). Tenga en cuenta que, dado que los criptogrupos están compuestos por activos de diferentes precios, están sujetos a pérdidas temporales."
     },
     "de": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains DAI, USDC, USDT, and Euro Tether (EURT). Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss."

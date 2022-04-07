@@ -4,7 +4,6 @@
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
-  "apyTypeOverride": "new",
   "order": 0,
   "migrationAvailable": false,
   "allowZapIn": false,
