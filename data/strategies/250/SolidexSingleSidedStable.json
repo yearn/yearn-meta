@@ -31,7 +31,7 @@
     },
     "tr": {
       "name": "Solidex Stable Yield Seeker",
-      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "SOLID ve SEX kazanmak için bir [Solidex Finance](https://solidexfinance.com/#/pools) Stable Havuzuna {{token}} sağlar. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Solidex Stable Yield Seeker",

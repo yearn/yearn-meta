@@ -38,7 +38,7 @@
     },
     "tr": {
       "name": "veDAO Reinvest",
-      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "WEVE kazanmak için [veDAO](https://www.vedao.io)'ya {{token}} sağlar. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "veDAO Reinvest",

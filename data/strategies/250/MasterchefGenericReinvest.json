@@ -43,7 +43,7 @@
     },
     "tr": {
       "name": "Masterchef Generic Reinvest",
-      "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Protokol token'lerinden kazanmak için genel bir masterchef oluşum havuzuna {{token}} sağlar. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Masterchef Generic Reinvest",

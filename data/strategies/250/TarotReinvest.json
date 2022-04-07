@@ -36,7 +36,7 @@
     },
     "tr": {
       "name": "Tarot Reinvest",
-      "description": "Supplies {{token}} to [Tarot](tarot.to) to earn TAROT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "TAROT kazanmak için [Tarot](tarot.to)'a {{token}} sağlar. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Tarot Reinvest",

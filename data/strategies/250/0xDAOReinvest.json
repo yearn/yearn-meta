@@ -39,7 +39,7 @@
     },
     "tr": {
       "name": "0xDAO Reinvest",
-      "description": "Supplies {{token}} to [0xDAO](https://www.oxdao.fi) to earn OXD. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "OXD kazanmak için [0xDAO](https://www.oxdao.fi)'ya {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "0xDAO Reinvest",
