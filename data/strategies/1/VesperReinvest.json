@@ -36,7 +36,7 @@
     },
     "tr": {
       "name": "Vesper Finance Reinvest",
-      "description": "Supplies {{token}} to [Vesper Finance](https://vesper.finance) to earn VSP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "VSP kazanmak için [Vesper Finance](https://vesper.finance)'a {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Vesper Finance Reinvest",

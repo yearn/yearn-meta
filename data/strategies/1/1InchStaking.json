@@ -31,7 +31,7 @@
     },
     "tr": {
       "name": "1inch Staking Reinvest",
-      "description": "Stakes {{token}} on [1inch DAO](https://app.1inch.io/#/1/dao/governance) to collect governance rewards. Rewards are harvested and deposited back into the strategy."
+      "description": "{{token}} [1inch DAO](https://app.1inch.io/#/1/dao/governance) adresine yönetim ödüllerini toplamak için stake edilir. Ödüller toplanır ve stratejiye geri yatırılır."
     },
     "vi": {
       "name": "1inch Staking Reinvest",

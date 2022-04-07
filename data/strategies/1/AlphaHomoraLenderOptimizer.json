@@ -34,7 +34,7 @@
     },
     "tr": {
       "name": "Alpha Homora Lender Optimizer",
-      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+      "description": "Kar sağlamak için [Alpha Homora](https://homora.alphafinance.io/)'ya {{token}} sağlar."
     },
     "vi": {
       "name": "Alpha Homora Lender Optimizer",

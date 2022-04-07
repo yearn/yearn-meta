@@ -35,7 +35,7 @@
     },
     "tr": {
       "name": "Alpha Homora Reinvest",
-      "description": "Supplies {{token}} to [Alpha Homora](https://homora-v2.alphafinance.io) to generate interest and earn ALPHA tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "İlgi yaratmak ve ALPHA jetonları kazanmak için [Alpha Homora](https://homora-v2.alphafinance.io)'ya {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Alpha Homora Reinvest",

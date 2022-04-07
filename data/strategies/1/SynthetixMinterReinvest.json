@@ -34,7 +34,7 @@
     },
     "tr": {
       "name": "Synthetix Minter Reinvest",
-      "description": "Stakes {{token}} on [Synthetix](https://staking.synthetix.io/) and mints sUSD. The newly minted sUSD is then deposited into the sUSD yVault to generate yield. Generated yield, weekly {{token}} fees and vested rewards (when claimable) are harvested, sold for more {{token}} which is deposited back into the strategy. **Rewards on staked {{token}} are locked for 1 year**."
+      "description": "[Synthetix](https://staking.synthetix.io/) üzerinde {{token}} stake eder ve karşılığında sUSD mint eder. Yeni basılan sUSD daha sonra getiri elde etmek için sUSD yVault'a yatırılır. Oluşturulan getiri, haftalık {{token}} ücretler ve kazanılmış ödüller (talep edilebilir olduğunda) hasat edilir, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır. **Stake edilen {{token}} üzerindeki ödüller 1 yıl süreyle kilitlenir**."
     },
     "vi": {
       "name": "Synthetix Minter Reinvest",

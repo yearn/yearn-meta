@@ -35,7 +35,7 @@
     },
     "tr": {
       "name": "KeeperDAO Reinvest",
-      "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "ROOK kazanmak için [KeeperDAO](https://app.keeperdao.com)'a {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "KeeperDAO Reinvest",

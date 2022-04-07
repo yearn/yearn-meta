@@ -35,7 +35,7 @@
     },
     "tr": {
       "name": "Pool Together Reinvest",
-      "description": "Supplies {{token}} to [Pool Together](https://app.pooltogether.com) to earn POOL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. If strategy wins prize of the week, prize will also be added to the strategy."
+      "description": "POOL kazanmak için [Pool Together](https://app.pooltogether.com)'a {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır. Strateji haftanın ödülünü kazanırsa, ödül de stratejiye eklenecektir."
     },
     "vi": {
       "name": "Pool Together Reinvest",

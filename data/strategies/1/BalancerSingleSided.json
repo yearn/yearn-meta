@@ -43,7 +43,7 @@
     },
     "tr": {
       "name": "Single Sided Balancer",
-      "description": "Supplies {{token}} to a Stable Pool on [Balancer](https://app.balancer.fi) to earn BAL and trading fees. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy."
+      "description": "BAL ve işlem ücretleri kazanmak için [Balancer](https://app.balancer.fi) üzerindeki bir Stabil Havuza {{token}} sağlar. Ödüller toplanır, daha fazla {{token}} karşılığında satılır ve stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Single Sided Balancer",
