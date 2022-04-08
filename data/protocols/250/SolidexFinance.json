@@ -1,11 +1,11 @@
 {
   "$schema": "protocol",
   "name": "Solidex Finance",
-  "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers \u2013 all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token.",
+  "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers - all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token.",
   "localization": {
     "en": {
       "name": "Solidex Finance",
-      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers \u2013 all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
+      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers - all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
     },
     "fr": {
       "name": "Solidex Finance",
@@ -13,19 +13,19 @@
     },
     "es": {
       "name": "Solidex Finance",
-      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers \u2013 all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
+      "description": "Solidex Finance es una plataforma creada para aumentar las recompensas para los participantes de SOLID y los proveedores de liquidez de Solidly - todo en una interfaz simple y fácil de usar. Solidex Finance tiene como objetivo simplificar el staking y la provisión de liquidez con su token SEX nativo que genera comisiones."
     },
     "de": {
       "name": "Solidex Finance",
-      "description": "Solidex Finance ist eine Plattform, die die Belohnungen für SOLID-Staker und Solidly-Liquiditätsanbieter \u2013 über eine einfache und leicht zu bedienende Schnittstelle erhöht. Solidex Finance zielt darauf ab, das Staking und die Bereitstellung von Liquidität mit seinem gebührenpflichtigen SEX-Token zu vereinfachen."
+      "description": "Solidex Finance ist eine Plattform, die die Belohnungen für SOLID-Staker und Solidly-Liquiditätsanbieter - über eine einfache und leicht zu bedienende Schnittstelle erhöht. Solidex Finance zielt darauf ab, das Staking und die Bereitstellung von Liquidität mit seinem gebührenpflichtigen SEX-Token zu vereinfachen."
     },
     "pt": {
       "name": "Solidex Finance",
-      "description": "Solidex Finance é uma plataforma construída para impulsionar recompensas para os stakers de SOLID e provedores de liquidez da plataforma Solidly \u2013 numa forma simples e com interface fácil de usar. Solidex Finance procura simplificar o processo de fornecimento de liquidez e staking com seu token nativo, recebedor de rendimentos, chamado SEX."
+      "description": "Solidex Finance é uma plataforma construída para impulsionar recompensas para os stakers de SOLID e provedores de liquidez da plataforma Solidly - numa forma simples e com interface fácil de usar. Solidex Finance procura simplificar o processo de fornecimento de liquidez e staking com seu token nativo, recebedor de rendimentos, chamado SEX."
     },
     "el": {
       "name": "Solidex Finance",
-      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers \u2013 all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
+      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers - all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
     },
     "tr": {
       "name": "Solidex Finance",
@@ -33,7 +33,7 @@
     },
     "vi": {
       "name": "Solidex Finance",
-      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers \u2013 all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
+      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers - all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
     },
     "zh": {
       "name": "Solidex Finance",
@@ -41,19 +41,19 @@
     },
     "hi": {
       "name": "Solidex Finance",
-      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers \u2013 all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
+      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers - all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
     },
     "ja": {
       "name": "Solidex Finance",
-      "description": "Solidex FinanceはSOLIDステーカーとSolidly流動性プロバイダー\u2013すべての報酬を高めるために構築されたプラットフォームであり、シンプルで使いやすいインターフェースを備えています。Solidex Financeは、そのネイティブな手数料稼ぐSEXトークンによりステーキングと流動性提供を簡素化することを目的としています。"
+      "description": "Solidex FinanceはSOLIDステーカーとSolidly流動性プロバイダーすべての報酬を高めるために構築されたプラットフォームであり、シンプルで使いやすいインターフェースを備えています。Solidex Financeは、そのネイティブな手数料稼ぐSEXトークンによりステーキングと流動性提供を簡素化することを目的としています。"
     },
     "id": {
       "name": "Solidex Finance",
-      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers \u2013 all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
+      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers - all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
     },
     "ru": {
       "name": "Solidex Finance",
-      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers \u2013 all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
+      "description": "Solidex Finance is a platform built to boost rewards for SOLID stakers and Solidly liquidity providers - all in a simple and easy to use interface. Solidex Finance aims to simplify staking and liquidity provision with its native fee-earning SEX token."
     }
   }
 }
