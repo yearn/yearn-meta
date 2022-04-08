@@ -11,7 +11,7 @@
     },
     "fr": {
       "name": "Ester Reinvest",
-      "description": "Supplies {{token}} to [Ester.Finance](https://ester.finance) to earn EST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [Ester.Finance](https://ester.finance) pour gagner des EST. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Ester Reinvest",

@@ -17,7 +17,7 @@
     },
     "fr": {
       "name": "Beethoven-X Joint Provider",
-      "description": "Supplies {{token}} as half of a joint liquidity provider for a Liquidity Boot Strapping Pool on [Beethoven-X](https://beets.fi) which dynamically adjusts the pool's weights to limit Impermanent Loss while earning BEETS and fees. Earned tokens are harvested, divided between the tokens, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} dans une pool de démarrage de liquidité (Liquidity Boot Strapping) sur [Beethoven-X](https://beets.fi) qui ajuste dynamiquement les pondérations de la pool pour limiter les pertes impermanentes (Impermanent Loss) tout en gagnant des récompenses BEETS et des frais . Les jetons gagnés sont récoltés, divisés entre les jetons, vendus pour plus de {{token}}, qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Beethoven-X Joint Provider",

@@ -11,7 +11,7 @@
     },
     "fr": {
       "name": "Boo Xboo Hec",
-      "description": "Stakes {{token}} in [SpookySwap](https://spookyswap.finance) to receive xBOO which is staked to earn HEC. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Stake du {{token}} sur [SpookySwap](https://spookyswap.finance) pour recevoir du xBOO qui est staké pour gagner du HEC. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie ."
     },
     "es": {
       "name": "Boo Xboo Hec",
