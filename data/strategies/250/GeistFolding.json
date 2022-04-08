@@ -26,7 +26,7 @@
     },
     "fr": {
       "name": "Geist Folding",
-      "description": "Fournit et emprunte du {{token}} sur [Geist Finance](https://geist.finance/deposit) simultanément pour gagner des GEIST. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie ."
+      "description": "Fournit et emprunte du {{token}} sur [Geist Finance](https://geist.finance/deposit) simultanément pour gagner des GEIST. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Geist Folding",
