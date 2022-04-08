@@ -25,7 +25,7 @@
     },
     "fr": {
       "name": "Lender Optimizer",
-      "description": "Supplies {{token}} to [Iron Bank](https://beta.yearn.finance/#/ironbank) or [Scream](https://scream.sh) whichever has the best yield to generate interest. Earned tokens are harvested, sold for more {{token}}, then deposited back into the strategy."
+      "description": "Fournit du {{token}} sur l'[Iron Bank](https://beta.yearn.finance/#/ironbank) ou sur [Scream](https://scream.sh) selon  le meilleur rendement pour générer des intérêts. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Lender Optimizer",
