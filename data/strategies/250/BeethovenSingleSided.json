@@ -43,7 +43,7 @@
     },
     "fr": {
       "name": "Beethoven-X Yield Seeker",
-      "description": "Fournit du {{token}} sur des [Beethoven-X](https://beets.fi) Stable Pools pour gagner des BEETS et des frais de négociation. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans le stratégie."
+      "description": "Fournit du {{token}} sur des [Beethoven-X](https://beets.fi) Pools stables pour gagner des BEETS et des frais de négociation. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans le stratégie."
     },
     "es": {
       "name": "Beethoven-X Yield Seeker",

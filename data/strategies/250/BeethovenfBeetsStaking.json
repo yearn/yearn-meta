@@ -11,7 +11,7 @@
     },
     "fr": {
       "name": "Beethoven fBEETS Staking",
-      "description": "Fournit du fBEETS sur [Beethoven-X](https://beets.fi) pour gagner des récompenses BEETS. Les récompenses sont ensuite récoltées et stakées dans la pool BEETS-WFTM pour gagner plus de fBEETS. De plus, les fBEETS déposés sont périodiquement utilisés le vote concernant la jauge pour booster toutes les pools stables de Beethoven-X dans lesquelles Yearn investit."
+      "description": "Fournit du fBEETS sur [Beethoven-X](https://beets.fi) pour gagner des récompenses BEETS. Les récompenses sont ensuite récoltées et stakées dans la pool BEETS-WFTM pour gagner plus de fBEETS. De plus, les fBEETS déposés sont périodiquement utilisés pour le vote concernant la jauge pour booster toutes les pools stables de Beethoven-X dans lesquelles Yearn investit."
     },
     "es": {
       "name": "Beethoven fBEETS Staking",

@@ -19,7 +19,7 @@
     },
     "fr": {
       "name": "0xDAO Reinvest",
-      "description": "Fournit du {{token}} sur [0xDAO](https://www.oxdao.fi) pour gagner des OXD. Les jetons gagnés sont récoltés, vendus pour plus de {{token}}, qui sont ensuite redéposé dans la stratégie."
+      "description": "Fournit du {{token}} sur [0xDAO](https://www.oxdao.fi) pour gagner des OXD. Les jetons gagnés sont récoltés, vendus pour plus de {{token}}, qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "0xDAO Reinvest",
