@@ -18,7 +18,7 @@
     },
     "fr": {
       "name": "veDAO Reinvest",
-      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [veDAO](https://www.vedao.io) pour gagner des jetons WEVE. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "veDAO Reinvest",

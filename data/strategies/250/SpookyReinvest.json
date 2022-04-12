@@ -11,7 +11,7 @@
     },
     "fr": {
       "name": "Spookyswap Reinvest",
-      "description": "Supplies {{token}} to [SpookySwap](https://spookyswap.finance/farms) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [SpookySwap](https://spookyswap.finance/farms) pour gagner des BOO. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Spookyswap Reinvest",

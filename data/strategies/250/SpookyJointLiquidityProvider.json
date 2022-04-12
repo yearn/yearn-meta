@@ -16,7 +16,7 @@
     },
     "fr": {
       "name": "Spooky Joint Liquidity Provider",
-      "description": "Supplies {{token}} as half of a joint liquidity provider for a pool on [SpookySwap](https://spookyswap.finance/farms). Rewards are harvested, split between the two tokens, sold for more {{token}}, and re-deposited into the strategy."
+      "description": "Fournit du {{token}} sur le coté d'une pool sur [SpookySwap](https://spookyswap.finance/farms). Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Spooky Joint Liquidity Provider",
