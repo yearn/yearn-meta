@@ -18,7 +18,7 @@
     },
     "es": {
       "name": "Solidex Volatile Yield Seeker",
-      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a un grupo volátil de [Solidex Finance](https://solidexfinance.com/#/pools) para obtener SOLID y SEX. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Solidex Volatile Yield Seeker",
@@ -34,7 +34,7 @@
     },
     "tr": {
       "name": "Solidex Volatile Yield Seeker",
-      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "SOLID ve SEX kazanmak için bir [Solidex Finance](https://solidexfinance.com/#/pools) Değişken Havuza {{token}} sağlar. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Solidex Volatile Yield Seeker",

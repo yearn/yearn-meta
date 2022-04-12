@@ -20,7 +20,7 @@
     },
     "es": {
       "name": "Aave Borrow",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. This strategy also borrows tokens against {{token}}. Borrowed tokens are then deposited into corresponding yVault to generate yield."
+      "description": "Suministra {{token}} a [AAVE](https://app.aave.com/home) para generar interés y ganar tokens AAVE apostados. Una vez desbloqueados, los tokens ganados se cosechan y se venden por más {{token}} que se depositan nuevamente en la estrategia. Esta estrategia también toma prestados tokens contra {{token}}. Los tokens prestados luego se depositan en el yVault correspondiente para generar rendimiento."
     },
     "de": {
       "name": "Aave Borrow",
@@ -36,7 +36,7 @@
     },
     "tr": {
       "name": "Aave Borrow",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. This strategy also borrows tokens against {{token}}. Borrowed tokens are then deposited into corresponding yVault to generate yield."
+      "description": "[AAVE](https://app.aave.com/home)'a faiz oluşturmak ve bahisli AAVE belirteçleri kazanmak için {{token}} yatırır. Vade bozulduktan sonra, kazanılan jetonlar hasat edilir, daha fazla {{token}} karşılığında stratejiye geri yatırılması için satılır. Bu strateji ayrıca {{token}} karşılığında jeton ödünç alır. Ödünç alınan jetonlar daha sonra verim elde etmek için ilgili yVault'a yatırılır."
     },
     "vi": {
       "name": "Aave Borrow",

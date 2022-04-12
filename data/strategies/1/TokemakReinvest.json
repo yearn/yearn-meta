@@ -15,7 +15,7 @@
     },
     "es": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [Tokemak](https://www.tokemak.xyz) para ganar TOKE. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Tokemak Reinvest",
@@ -31,7 +31,7 @@
     },
     "tr": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "TOKE kazanmak için [Tokemak](https://www.tokemak.xyz)'a {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Tokemak Reinvest",

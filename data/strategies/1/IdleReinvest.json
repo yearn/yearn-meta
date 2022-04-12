@@ -20,7 +20,7 @@
     },
     "es": {
       "name": "Idle Finance Reinvest",
-      "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [Idle Finance](https://idle.finance) para ganar IDLE y COMP. Los tokens ganados se cosechan y se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Idle Finance Reinvest",
@@ -36,7 +36,7 @@
     },
     "tr": {
       "name": "Idle Finance Reinvest",
-      "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "IDLE ve COMP kazanmak için [Idle Finance](https://idle.finance)'a {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Idle Finance Reinvest",

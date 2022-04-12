@@ -13,7 +13,7 @@
     },
     "es": {
       "name": "Tarot",
-      "description": "Tarot es un protocolo de préstamo descentralizado en la red Fantom. Es un protocolo de préstamo descentralizado en el que los usuarios pueden prestar o pedir prestado en grupos aislados que les permite aprovechar sus tokens LP para aprovechar la agricultura de rendimiento."
+      "description": "Tarot es un protocolo descentralizado de préstamos en la red Fantom. Es un protocolo de préstamos en el que los usuarios pueden prestar o pedir prestado en pools aislados que les permite aprovechar sus tokens LP para apalancar su rendimiento."
     },
     "de": {
       "name": "Tarot",

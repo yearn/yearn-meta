@@ -29,7 +29,7 @@
     },
     "es": {
       "name": "Lender Optimizer",
-      "description": "Supplies {{token}} to [Iron Bank](https://beta.yearn.finance/#/ironbank) or [Scream](https://scream.sh) whichever has the best yield to generate interest. Earned tokens are harvested, sold for more {{token}}, then deposited back into the strategy."
+      "description": "Suministra {{token}} a [Iron Bank](https://beta.yearn.finance/#/ironbank) o [Scream](https://scream.sh), lo que tenga el mejor rendimiento para generar intereses. Los tokens ganados se recolectan, se venden por más {{token}} y luego se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Lender Optimizer",
@@ -45,7 +45,7 @@
     },
     "tr": {
       "name": "Lender Optimizer",
-      "description": "Supplies {{token}} to [Iron Bank](https://beta.yearn.finance/#/ironbank) or [Scream](https://scream.sh) whichever has the best yield to generate interest. Earned tokens are harvested, sold for more {{token}}, then deposited back into the strategy."
+      "description": "Faiz oluşturmak için en iyi getiriye sahip olan [Iron Bank](https://beta.yearn.finance/#/ironbank) veya [Scream](https://scream.sh)'e {{token}} sağlar. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Lender Optimizer",

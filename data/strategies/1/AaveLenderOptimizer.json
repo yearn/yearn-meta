@@ -22,7 +22,7 @@
     },
     "es": {
       "name": "Aave Lender Optimizer",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn stkAAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [AAVE](https://app.aave.com/home) para generar intereses y ganar tokens stkAAVE. Una vez desbloqueados, los tokens ganados se cosechan y se venden por más {{token}} que se depositan nuevamente en la estrategia."
     },
     "de": {
       "name": "Aave Lender Optimizer",
@@ -38,7 +38,7 @@
     },
     "tr": {
       "name": "Aave Lender Optimizer",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn stkAAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "İlgi oluşturmak ve stkAAVE jetonları kazanmak için [AAVE](https://app.aave.com/home)'a {{token}} sağlar. Kilidi açıldıktan sonra, kazanılan jetonlar hasat edilir, stratejiye geri yatırılmak üzere daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Aave Lender Optimizer",

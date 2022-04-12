@@ -18,7 +18,7 @@
     },
     "es": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",
-      "description": "Accepts {{token}} to earn a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees are harvested, swapped for more {{token}} which is deposited back into the strategy. Swap happens either via market-buy or mint, depending which is more capital efficient."
+      "description": "Acepta {{token}} para ganar una parte continua de las tarifas de [Curve Finance](https://curve.fi). Las tarifas ganadas de [3Crv](https://curve.fi/3pool) (token 3pool LP de Curve) se obtienen, se intercambian por más {{token}} que se depositan nuevamente en la estrategia. El intercambio se realiza a través de compra en el mercado o de acuñación, según cuál sea más eficiente en términos de capital."
     },
     "de": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",
@@ -34,7 +34,7 @@
     },
     "tr": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",
-      "description": "Accepts {{token}} to earn a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees are harvested, swapped for more {{token}} which is deposited back into the strategy. Swap happens either via market-buy or mint, depending which is more capital efficient."
+      "description": "[Curve Finance](https://curve.fi) ücretlerinden sürekli bir pay almak için {{token}} tutarını kabul eder. Kazanılan [3Crv](https://curve.fi/3pool) (Curve'un 3pool LP jetonu) ücretleri toplanır, stratejiye geri yatırılan daha fazla {{token}} ile değiştirilir. Takas, hangisinin sermaye açısından daha verimli olduğuna bağlı olarak piyasadan satın alma veya mint yoluyla gerçekleşir."
     },
     "vi": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",
