@@ -25,7 +25,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains EURT, a centralized euro stablecoin issued by Tether, and synthetic euro (sEUR) minted on the Synthetix platform."
     },
     "tr": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains EURT, a centralized euro stablecoin issued by Tether, and synthetic euro (sEUR) minted on the Synthetix platform."
+      "description": "Bu jeton, bir Curve likidite havuzunu temsil eder. Sahipler, havuzda işlem yapan kullanıcılardan ücret alır ve ayrıca CRV emisyonları kazanmak için LP'yi Curve'un göstergelerine yatırabilir. Bu havuz, Tether tarafından çıkarılan merkezi bir euro stabilcoin olan EURT ve Synthetix platformunda basılan sentetik euro (sEUR) içerir."
     },
     "vi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains EURT, a centralized euro stablecoin issued by Tether, and synthetic euro (sEUR) minted on the Synthetix platform."
