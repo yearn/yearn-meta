@@ -14,7 +14,7 @@
     },
     "fr": {
       "name": "Alpha Homora Lender Optimizer",
-      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+      "description": "Fournit du {{token}} sur [Alpha Homora](https://homora.alphafinance.io/) pour générer des intérêts."
     },
     "es": {
       "name": "Alpha Homora Lender Optimizer",
