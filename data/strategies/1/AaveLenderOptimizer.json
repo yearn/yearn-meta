@@ -18,7 +18,7 @@
     },
     "fr": {
       "name": "Aave Lender Optimizer",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn stkAAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [AAVE](https://app.aave.com/home) pour générer des intérêts et gagner des jetons stkAAVE. Une fois déverrouillés, les jetons gagnés sont récoltés, vendus pour plus de {{token}}, qui est ensuite redéposé dans la stratégie."
     },
     "es": {
       "name": "Aave Lender Optimizer",

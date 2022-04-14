@@ -11,7 +11,7 @@
     },
     "fr": {
       "name": "1inch Staking Reinvest",
-      "description": "Stakes {{token}} on [1inch DAO](https://app.1inch.io/#/1/dao/governance) to collect governance rewards. Rewards are harvested and deposited back into the strategy."
+      "description": "Stake du {{token}} sur [1inch DAO](https://app.1inch.io/#/1/dao/governance) pour collecter les récompenses issues de la gouvernance. Les récompenses sont récoltées et redéposées dans la stratégie."
     },
     "es": {
       "name": "1inch Staking Reinvest",
