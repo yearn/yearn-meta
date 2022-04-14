@@ -1,14 +1,14 @@
 {
   "$schema": "vault",
-  "comment": "yvBOOST",
+  "comment": "Curve MIM 3Pool",
   "hideAlways": false,
-  "useVaultDataAsDefault": true,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
-  "order": 101,
+  "order": 8,
   "migrationAvailable": false,
-  "allowZapIn": true,
-  "allowZapOut": true,
+  "allowZapIn": false,
+  "allowZapOut": false,
   "retired": false,
-  "displayName": "yvBOOST"
+  "apyTypeOverride": "new",
+  "displayName": "Curve MIM 3Pool"
 }

@@ -25,7 +25,7 @@
     },
     "es": {
       "name": "Compound Finance Flashloan Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Flashloans are used to obtain additional {{token}} from [dYdX](https://margin.dydx.exchange/markets/overview) to boost the APY."
+      "description": "Suministra y pide prestado {{token}} en [Compound Finance](https://app.compound.finance) simultáneamente para ganar COMP. Los tokens ganados se cosechan, se venden por más {{token}} que se depositan nuevamente en la estrategia. Los préstamos flash se utilizan para obtener {{token}} adicionales de [dYdX](https://margin.dydx.exchange/markets/overview) para aumentar el APY."
     },
     "de": {
       "name": "Compound Finance Flashloan Folding",
@@ -41,7 +41,7 @@
     },
     "tr": {
       "name": "Compound Finance Flashloan Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Flashloans are used to obtain additional {{token}} from [dYdX](https://margin.dydx.exchange/markets/overview) to boost the APY."
+      "description": "COMP kazanmak için aynı anda [Compound Finance](https://app.compound.finance) üzerinde hem {{token}} sağlar hem ödünç alır. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır. Flashloan'lar, APY'yi artırmak için [dYdX](https://margin.dydx.exchange/markets/overview)'dan ek {{token}} elde etmek için kullanılır."
     },
     "vi": {
       "name": "Compound Finance Flashloan Folding",

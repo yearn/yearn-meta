@@ -18,7 +18,7 @@
     },
     "es": {
       "name": "Mushroom Finance Reinvest",
-      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a la vault de {{token}} en [Mushroom Finance](https://mushrooms.finance) para ganar MM. Los tokens ganados se cosechan, se venden por más {{token}} que se depositan nuevamente en la estrategia."
     },
     "de": {
       "name": "Mushroom Finance Reinvest",
@@ -34,7 +34,7 @@
     },
     "tr": {
       "name": "Mushroom Finance Reinvest",
-      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "MM kazanmak için [Mushroom Finance](https://mushrooms.finance) {{token}} Vault'una {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Mushroom Finance Reinvest",

@@ -15,7 +15,7 @@
     },
     "es": {
       "name": "Curve Gauge",
-      "description": "Supplies {{token}} to [Curve Finance](https://arbitrum.curve.fi) and stakes it in gauge to collect any available tokens and earn CRV rewards. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [Curve Finance](https://arbitrum.curve.fi) y hace staking en el gauge para recolectar los tokens disponibles y ganar recompensas en CRV. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Curve Gauge",
@@ -31,7 +31,7 @@
     },
     "tr": {
       "name": "Curve Gauge",
-      "description": "Supplies {{token}} to [Curve Finance](https://arbitrum.curve.fi) and stakes it in gauge to collect any available tokens and earn CRV rewards. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "[Curve Finance](https://arbitrum.curve.fi)'ye {{token}} sağlar ve mevcut jetonları toplamak ve CRV ödülleri kazanmak için bunu göstergeye yatırır. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Curve Gauge",
@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Curve Gauge",
-      "description": "Supplies {{token}} to [Curve Finance](https://arbitrum.curve.fi) and stakes it in gauge to collect any available tokens and earn CRV rewards. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Curve Finance](https://arbitrum.curve.fi) 再质押到 gauge 赚取各种代币奖励。收获奖励卖掉换为更多的 {{token}} 再进行复投。"
     },
     "hi": {
       "name": "Curve Gauge",

@@ -15,7 +15,7 @@
     },
     "es": {
       "name": "Fiat Dao Reinvest",
-      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [Fiat Dao](https://app.fiatdao.com) para ganar FDT. Los tokens ganados se cosechan, se venden por más {{token}} que se depositan nuevamente en la estrategia."
     },
     "de": {
       "name": "Fiat Dao Reinvest",
@@ -31,7 +31,7 @@
     },
     "tr": {
       "name": "Fiat Dao Reinvest",
-      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "FDT kazanmak için [Fiat Dao](https://app.fiatdao.com)'ya {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Fiat Dao Reinvest",

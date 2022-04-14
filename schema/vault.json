@@ -38,6 +38,12 @@
     "allowZapOut": {
       "type": "boolean"
     },
+    "zapInWith": {
+      "type": "string"
+    },
+    "zapOutWith": {
+      "type": "string"
+    },
     "migrationContract": {
       "type": "string",
       "format": "address"
