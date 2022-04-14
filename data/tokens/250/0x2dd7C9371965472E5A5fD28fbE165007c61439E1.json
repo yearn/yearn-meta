@@ -4,7 +4,7 @@
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains MIM, fUSDT, and USDC.",
   "website": "https://curve.fi",
   "tokenSymbolOverride": "crvMIM3Pool",
-  "tokenNameOverride": "Curve MIM 3 Pool",
+  "tokenNameOverride": "Curve MIM 3Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains MIM, fUSDT, and USDC."
