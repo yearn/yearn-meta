@@ -14,7 +14,7 @@
     },
     "fr": {
       "name": "Rebalancer Oracle Weighted Joint Provider",
-      "description": "Supplies {{token}} as half of a joint liquidity provider for a Oracle Weighted Pool on [Balancer](https://app.balancer.fi). Rewards are harvested, split between the pairs, sold for more {{token}}, and deposited back into the strategy."
+      "description": "Fournit du {{token}} dans l'un des cotés d'une pool (single side LP) Oracle Weighted sur [Balancer](https://app.balancer.fi). Les récompenses sont récoltées, réparties entre les paires, vendues pour plus de {{token }}, et redéposé dans la stratégie."
     },
     "es": {
       "name": "Rebalancer Oracle Weighted Joint Provider",
