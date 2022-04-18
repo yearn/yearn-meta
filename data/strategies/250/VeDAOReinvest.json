@@ -46,7 +46,7 @@
     },
     "zh": {
       "name": "veDAO Reinvest",
-      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [veDAO](https://www.vedao.io) 赚取 WEVE。收获奖励卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "veDAO Reinvest",

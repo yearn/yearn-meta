@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Solidex Stable Yield Seeker",
-      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Solidex Finance](https://solidexfinance.com/#/pools) 的稳定池赚取 SOLID 和 SEX。收获奖励代币卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Solidex Stable Yield Seeker",

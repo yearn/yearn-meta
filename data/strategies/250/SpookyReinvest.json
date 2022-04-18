@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Spookyswap Reinvest",
-      "description": "Supplies {{token}} to [SpookySwap](https://spookyswap.finance/farms) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [SpookySwap](https://spookyswap.finance/farms) 赚取 BOO。收获奖励卖掉换为更多 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Spookyswap Reinvest",
