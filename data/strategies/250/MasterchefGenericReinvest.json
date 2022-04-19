@@ -51,7 +51,7 @@
     },
     "zh": {
       "name": "Masterchef Generic Reinvest",
-      "description": "将 {{token}} 存入 generic masterchef genesis pool 赚取协议代币。收获奖励卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 generic masterchef genesis pool 以赚取协议代币。收获到的代币会被卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Masterchef Generic Reinvest",

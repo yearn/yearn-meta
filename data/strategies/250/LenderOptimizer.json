@@ -53,7 +53,7 @@
     },
     "zh": {
       "name": "Lender Optimizer",
-      "description": "将 {{token}} 存入 [Iron Bank](https://beta.yearn.finance/#/ironbank) 或 [Scream](https://scream.sh) 赚取利息，哪个利息高就选择哪个。收获奖励代币卖掉换为更多的 {{token}} 再进行复投。"
+      "description": "将 {{token}} 存入 [Iron Bank](https://beta.yearn.finance/#/ironbank) 或 [Scream](https://scream.sh) 以赚取利息，哪个利息高就选择哪个。收获到的代币会被卖掉，换为更多的 {{token}} 再进行复投。"
     },
     "hi": {
       "name": "Lender Optimizer",

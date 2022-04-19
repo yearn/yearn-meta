@@ -46,7 +46,7 @@
     },
     "zh": {
       "name": "veDAO Reinvest",
-      "description": "将 {{token}} 存入 [veDAO](https://www.vedao.io) 赚取 WEVE。收获奖励卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [veDAO](https://www.vedao.io) 以赚取 WEVE。收获到的奖励会被卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "veDAO Reinvest",

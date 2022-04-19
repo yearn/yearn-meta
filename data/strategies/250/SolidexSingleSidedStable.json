@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Solidex Stable Yield Seeker",
-      "description": "将 {{token}} 存入 [Solidex Finance](https://solidexfinance.com/#/pools) 的稳定池赚取 SOLID 和 SEX。收获奖励代币卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Solidex Finance](https://solidexfinance.com/#/pools) 的稳定池以赚取 SOLID 和 SEX 奖励。收获到的代币会被卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Solidex Stable Yield Seeker",

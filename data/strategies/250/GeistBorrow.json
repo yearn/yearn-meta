@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Geist Borrow",
-      "description": "将 {{token}} 存入 [Geist Finance](https://geist.finance/deposit) 赚取利息和 GEIST 奖励。以 {{token}} 作为抵押品借出其他代币，存入对应的 yVault 产生收益。收获赚取的代币卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Geist Finance](https://geist.finance/deposit) 以赚取利息和 GEIST 奖励。此策略也用 {{token}} 作为抵押品借出其他代币。借到的代币会被存入对应的 yVault 以产生收益。收获赚取到的代币会卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Geist Borrow",

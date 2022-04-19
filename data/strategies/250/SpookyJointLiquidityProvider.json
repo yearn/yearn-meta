@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Spooky Joint Liquidity Provider",
-      "description": "将 {{token}} 作为流动性的一半放入 [SpookySwap](https://spookyswap.finance/farms) 赚取收益。收获奖励并分配给交易对的两个代币，卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 作为流动性的一半放入 [SpookySwap](https://spookyswap.finance/farms) 以赚取收益。收获到的奖励会分配给交易对的两个代币，卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Spooky Joint Liquidity Provider",

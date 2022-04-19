@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Spookyswap Reinvest",
-      "description": "将 {{token}} 存入 [SpookySwap](https://spookyswap.finance/farms) 赚取 BOO。收获奖励卖掉换为更多 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [SpookySwap](https://spookyswap.finance/farms) 以赚取 BOO。收获到的奖励会被卖掉，换为更多 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Spookyswap Reinvest",

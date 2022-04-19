@@ -71,7 +71,7 @@
     },
     "zh": {
       "name": "Beethoven-X Yield Seeker",
-      "description": "将 {{token}} 存入 [Beethoven-X](https://beets.fi) 的稳定池赚取 BEETS 奖励和交易手续费。收获 BEETS 卖掉换为更多 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Beethoven-X](https://beets.fi) 的稳定池赚取 BEETS 奖励和交易手续费。收获到的代币将会被卖掉，换为更多 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Beethoven-X Yield Seeker",

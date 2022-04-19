@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Kashi Lender",
-      "description": "将 {{token}} 通过 [Kashi](https://app.sushi.com/lend) 存入 Sushi 赚取 SUSHI 奖励。收获 SUSHI 卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 通过 [Kashi](https://app.sushi.com/lend) 存入 Sushi 以赚取 SUSHI 奖励。收获的代币会被卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Kashi Lender",

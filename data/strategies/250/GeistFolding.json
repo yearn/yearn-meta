@@ -54,7 +54,7 @@
     },
     "zh": {
       "name": "Geist Folding",
-      "description": "同时在 [Geist Finance](https://geist.finance/deposit) 上存入和借出 {{token}} 收获奖励卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "同时在 [Geist Finance](https://geist.finance/deposit) 上存入和借出 {{token}} 以赚取 GEIST。收获到的奖励会被卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Geist Folding",

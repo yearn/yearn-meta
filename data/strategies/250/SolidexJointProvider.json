@@ -42,7 +42,7 @@
     },
     "zh": {
       "name": "Solidex Joint Provider",
-      "description": "将 {{token}} 存入 [Solidex Finance](https://solidexfinance.com/#/pools) 的稳定池赚取 SOLID 和 SEX 奖励。收获奖励代币并分配给交易对的两个代币，卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Solidex Finance](https://solidexfinance.com/#/pools) 的稳定池以赚取 SOLID 和 SEX 奖励。收获到的代币会被分配给交易对的两个代币，然后卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Solidex Joint Provider",
