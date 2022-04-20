@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and stETH, a token that represents staked ether in Lido, a decentralized ETH 2.0 staking platform."
     },
     "zh": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and stETH, a token that represents staked ether in Lido, a decentralized ETH 2.0 staking platform."
+      "description": "Curve 的流动性池代币。代币持有者赚取交易费，将代币存入 Curve gauge 还能获得 CRV 奖励。其中包含 ETH 和 stETH，stETH 是 Lido 发行的 ETH 2.0 质押代币。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and stETH, a token that represents staked ether in Lido, a decentralized ETH 2.0 staking platform."

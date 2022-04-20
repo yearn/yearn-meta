@@ -29,7 +29,7 @@
       "description": "Ether, or ETH, is the native token of the Ethereum blockchain. Wrapped ETH, or WETH, refers to an ERC-20 compatible version of ether. ERC-20 is a technical standard developed after the release of ETH that allow tokens created on the Ethereum blockchain to interact with each other. \nIn order for ETH to be exchanged with other ERC-20s it needs to be wrapped into WETH. Wrapping ETH does not affect its value, 1 ETH = 1 WETH."
     },
     "zh": {
-      "description": "Ether, or ETH, is the native token of the Ethereum blockchain. Wrapped ETH, or WETH, refers to an ERC-20 compatible version of ether. ERC-20 is a technical standard developed after the release of ETH that allow tokens created on the Ethereum blockchain to interact with each other. \nIn order for ETH to be exchanged with other ERC-20s it needs to be wrapped into WETH. Wrapping ETH does not affect its value, 1 ETH = 1 WETH."
+      "description": "Ether 或者称 ETH，是以太坊网络的原生代币。封装的 ETH，或者称 WETH，是 ERC20 版本的的 ETH。ERC20 是以太坊网络的标准，符合该标准的代币可以在以太坊上进行交互。如果要将 ETH 换为其他 ERC20 代币，就需要先将其打包成 WETH。WETH 与 ETH 保持 1:1 的价值。"
     },
     "hi": {
       "description": "Ether, or ETH, is the native token of the Ethereum blockchain. Wrapped ETH, or WETH, refers to an ERC-20 compatible version of ether. ERC-20 is a technical standard developed after the release of ETH that allow tokens created on the Ethereum blockchain to interact with each other. \nIn order for ETH to be exchanged with other ERC-20s it needs to be wrapped into WETH. Wrapping ETH does not affect its value, 1 ETH = 1 WETH."

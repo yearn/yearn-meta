@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibJPY, a synthetic Japanese yen minted from the Iron Bank, and synthetic Japanese yen (sJPY) minted on the Synthetix platform."
     },
     "zh": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibJPY, a synthetic Japanese yen minted from the Iron Bank, and synthetic Japanese yen (sJPY) minted on the Synthetix platform."
+      "description": "Curve 的流动性池代币。代币持有者赚取交易费，将代币存入 Curve gauge 还能获得 CRV 奖励。其中包含由 Iron Bank 发行的合成日元 ibJPY，以及由 Synthetix 发行的合成日元 sJPY。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibJPY, a synthetic Japanese yen minted from the Iron Bank, and synthetic Japanese yen (sJPY) minted on the Synthetix platform."

@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
     },
     "zh": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
+      "description": "Curve 的流动性池代币。代币持有者赚取交易费，将代币存入 Curve gauge 还能获得 CRV 奖励。其中包含存入 Iron Bank 的 DAI, USDC, USDT，Iron Bank 是由 C.R.E.A.M. Finance 和 Yearn Finance 合作推出的以太坊上的去中心化货币市场。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to the Iron Bank, a decentralized money market on Ethereum launched collaboratively by C.R.E.A.M. Finance and Yearn Finance."
