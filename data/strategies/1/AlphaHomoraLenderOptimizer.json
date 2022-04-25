@@ -46,7 +46,7 @@
     },
     "hi": {
       "name": "Alpha Homora Lender Optimizer",
-      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+      "description": "रुचि पैदा करने के लिए {{token}} को [Alpha Homora](https://homora.alphafinance.io/) पर सप्लाई करता है।"
     },
     "ja": {
       "name": "Alpha Homora Lender Optimizer",
