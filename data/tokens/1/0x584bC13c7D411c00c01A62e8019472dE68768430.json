@@ -29,7 +29,7 @@
       "description": "Hegic is an on-chain options trading protocol that is powered by hedge contracts and liquidity pools on Ethereum (ETH). A hedge contract is an options-like, on-chain contract that gives the holder or buyer a right to buy or sell an asset at a certain price (strike) as well as imposes an obligation on the writer or seller to buy or sell an asset at a certain time period. HEGIC tokens are used for protocol governance and can be staked for protocol fees."
     },
     "zh": {
-      "description": "Hegic 是以太坊上的链上期权交易协议，通过对冲合约和流动性池来实现。对冲合约是类似期权的链上合约，买家拥有在某个价格（strike）买入或卖出资产的权利，与之对应的卖家则有义务在某个时间期限卖出或买入该资产。HEGIC 是协议治理代币，质押 HEGIC 可以分享协议收入。"
+      "description": "Hegic 是个在以太坊上的链上期权交易协议，通过对冲合约和流动性池来实现。对冲合约是类似期权的链上合约，买家拥有在某个价格（strike）买入或卖出资产的权利，与之对应的卖家则有义务在某个时间期限卖出或买入该资产。HEGIC 是此协议的治理代币，质押 HEGIC 可以分享协议收入。"
     },
     "hi": {
       "description": "Hegic is an on-chain options trading protocol that is powered by hedge contracts and liquidity pools on Ethereum (ETH). A hedge contract is an options-like, on-chain contract that gives the holder or buyer a right to buy or sell an asset at a certain price (strike) as well as imposes an obligation on the writer or seller to buy or sell an asset at a certain time period. HEGIC tokens are used for protocol governance and can be staked for protocol fees."

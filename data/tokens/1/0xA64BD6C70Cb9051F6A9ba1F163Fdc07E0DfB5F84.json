@@ -29,7 +29,7 @@
       "description": "Aave LINK is an interest bearing token minted upon deposit and burned when redeemed. The aLINK is pegged 1:1 to the value of the underlying LINK that is deposited in Aave protocol."
     },
     "zh": {
-      "description": "Aave LINK 是自生息代币，存款时铸造取款时销毁。aLINK 锚定的是 LINK 存入 Aave 之后的价值。"
+      "description": "Aave LINK 是个自生息代币，它在存款时铸造而在取款时销毁。aLINK 锚定的是 LINK 存入 Aave 之后的价值。"
     },
     "hi": {
       "description": "Aave LINK is an interest bearing token minted upon deposit and burned when redeemed. The aLINK is pegged 1:1 to the value of the underlying LINK that is deposited in Aave protocol."

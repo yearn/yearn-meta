@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and DOLA, a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance (https://www.inverse.finance) as collateral."
     },
     "zh": {
-      "description": "Curve 的流动性池代币。代币持有者赚取交易费，将代币存入 Curve gauge 还能获得 CRV 奖励。其中包含 3Crv (DAI, USDC, USDT) 和 DOLA，DOLA 是由 Inverse Finance (https://www.inverse.finance) 发行的稳定币，通过在其平台超额抵押其他加密资产铸造而成。 "
+      "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含 3Crv (DAI, USDC, USDT) 和 DOLA。DOLA 是由 Inverse Finance (https://www.inverse.finance) 发行的稳定币，通过在其平台超额抵押其它加密资产铸造而成。 "
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and DOLA, a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance (https://www.inverse.finance) as collateral."

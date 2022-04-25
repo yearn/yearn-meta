@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and MIM, a decentralized stablecoin collateralized with yVaults and other yield-bearing tokens on Abracadabra."
     },
     "zh": {
-      "description": "Curve 的流动性池代币。代币持有者赚取交易费，将代币存入 Curve gauge 还能获得 CRV 奖励。其中包含 3Crv (DAI, USDC, USDT) 和 MIM，MIM 是由 Abracadabra 发行的，通过抵押 yVaults 或其他生息类代币铸造的去中心化稳定币。"
+      "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含 3Crv (DAI, USDC, USDT) 和 MIM，MIM 是个通过抵押 yVaults 或其它生息代币来铸造的去中心化稳定币，由 Abracadabra 发行。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and MIM, a decentralized stablecoin collateralized with yVaults and other yield-bearing tokens on Abracadabra."

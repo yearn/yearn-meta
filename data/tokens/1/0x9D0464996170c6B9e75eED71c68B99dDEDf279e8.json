@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
     },
     "zh": {
-      "description": "Curve 的流动性池代币。代币持有者赚取交易费，将代币存入 Curve gauge 还能获得 CRV 奖励。其中包含 Curve 的原生治理代币 CRV 和由 Convex 发行的可交易版本的 veCRV 即 cvxCRV。"
+      "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含 Curve 的原生治理代币 CRV 和由 Convex 发行的可交易版本的 veCRV 即 cvxCRV。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."

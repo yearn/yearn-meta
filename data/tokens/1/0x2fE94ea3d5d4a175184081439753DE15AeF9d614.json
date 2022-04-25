@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
     },
     "zh": {
-      "description": "Curve 的流动性池代币。代币持有者赚取交易费，将代币存入 Curve gauge 还能获得 CRV 奖励。其中包含元池代币 sBTC-Crv (sBTC, WBTC, and renBTC) 和 oBTC，oBTC 是 BoringDAO 发行的由 BTC 做资产支持的 ERC20 代币。"
+      "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含元池代币 sBTC-Crv (sBTC, WBTC, and renBTC) 和 oBTC，oBTC 是以 BTC 做资产支持的 ERC20 代币，由 BoringDAO 发行。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO."
