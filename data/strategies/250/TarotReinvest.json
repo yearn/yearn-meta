@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Tarot Reinvest",
-      "description": "Supplies {{token}} to [Tarot](tarot.to) to earn TAROT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Tarot](tarot.to) 以赚取 TAROT。收获到的奖励会被卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Tarot Reinvest",

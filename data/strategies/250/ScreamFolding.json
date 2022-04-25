@@ -51,7 +51,7 @@
     },
     "zh": {
       "name": "Scream Folding",
-      "description": "Supplies and borrows {{token}} on [Scream](http://scream.sh) simultaneously to earn SCREAM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "同时在 [Scream](http://scream.sh) 存入和借出 {{token}} 以赚取 SCREAM。收获到代币会被卖掉，换为更多 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Scream Folding",
