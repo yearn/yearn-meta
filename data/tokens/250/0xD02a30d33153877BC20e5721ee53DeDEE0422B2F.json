@@ -2,7 +2,7 @@
   "$schema": "token",
   "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to Geist, a decentralized money market on Fantom.",
-  "website": "https://curve.fi",
+  "website": "https://ftm.curve.fi/geist",
   "tokenSymbolOverride": "crvGEIST",
   "tokenNameOverride": "Curve Geist Pool",
   "localization": {
@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to Geist, a decentralized money market on Fantom."
     },
     "zh": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to Geist, a decentralized money market on Fantom."
+      "description": "Curve 的流动性池代币。代币持有者赚取交易费，将代币存入 Curve gauge 还能获得 CRV 奖励。其中包含存入 Geist 的 DAI, USDC, 和 USDT，Geist 是 Fantom 上的去中心化货币市场。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to Geist, a decentralized money market on Fantom."
