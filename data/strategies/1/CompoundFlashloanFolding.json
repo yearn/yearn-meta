@@ -53,7 +53,7 @@
     },
     "hi": {
       "name": "Compound Finance Flashloan Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Flashloans are used to obtain additional {{token}} from [dYdX](https://margin.dydx.exchange/markets/overview) to boost the APY."
+      "description": "COMP कमाने के लिए {{token}} [Compund Finance](https://app.compound.finance) पर एक साथ आपूर्ति और उधार किया जाता है। अर्जित टोकन काटा जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है। APY को बढ़ावा देने के लिए [dYdX](https://margin.dydx.exchange/markets/overview) से अतिरिक्त {{token}} प्राप्त करने के लिए Flashloans का उपयोग किया जाता है।"
     },
     "ja": {
       "name": "Compound Finance Flashloan Folding",
