@@ -5,10 +5,9 @@
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
   "order": 37,
-  "apyTypeOverride": false,
   "migrationAvailable": false,
-  "allowZapIn": false,
-  "allowZapOut": false,
+  "allowZapIn": true,
+  "allowZapOut": true,
   "retired": false,
   "displayName": "Curve EURN"
 }
