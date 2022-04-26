@@ -43,7 +43,7 @@
     },
     "hi": {
       "name": "Lido Eth 2.0 Staking",
-      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+      "description": "[Lido.fi](https://stake.lido.fi) पर {{token}} दांव लगाकर stETH को मिंट करें जो ETH 2.0 स्टेकिंग रिवार्ड जमा करता है। यदि यह दांव से सस्ता है तो यह रणनीति बाजार से stETH को खरीद लेगी।"
     },
     "ja": {
       "name": "Lido Eth 2.0 Staking",
