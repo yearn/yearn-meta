@@ -43,7 +43,7 @@
     },
     "hi": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "TOKE कमाने के लिए {{token}} को [Tokemak](https://www.tokemak.xyz) पर सप्लाई करता है। अर्जित टोकन काटा जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Tokemak Reinvest",
