@@ -46,7 +46,7 @@
     },
     "hi": {
       "name": "SushiSwap Hedged Joint Provider",
-      "description": "Supplies {{token}} as half of a joint liquidity provider for a Liquidity Pool on [Sushi](https://sushi.com). Rewards are harvested, split between the pairs, sold for more {{token}}, and deposited back into the strategy. Impermanent loss is hedged by buying 7 day [Hegic](https://www.hegic.co) options"
+      "description": "[Sushi](https://sushi.com) पर तरलता पूल के लिए संयुक्त तरलता प्रदाता के आधे के रूप में {{token}} आपूर्ति किया जाता है। पुरस्कारों को वसूल किया जाता है, जोड़ियों के बीच विभाजित किया जाता है, अधिक {{token}} में बेचा जाता है, और वापस रणनीति में जमा किया जाता है। ७ दिन [Hegic](https://www.hegic.co) विकल्प खरीदकर अस्थायी नुकसान की हेजिंग की जाती है"
     },
     "ja": {
       "name": "SushiSwap Hedged Joint Provider",
