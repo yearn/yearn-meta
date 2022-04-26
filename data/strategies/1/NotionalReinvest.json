@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Notional Reinvest",
-      "description": "Supplies {{token}} to [Notional Finance](https://notional.finance/lend) for various maturities to earn a fixed rate yield on {{token}}. At maturity, earned yield is harvested and deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Notional Finance](https://notional.finance/lend)  三个月赚取基于 {{token}} 的固定利息。到期后将收益继续存入 Notional 进行复投。"
     },
     "hi": {
       "name": "Notional Reinvest",

@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Lido Eth 2.0 Staking",
-      "description": "Stakes {{token}} on [Lido.fi](https://stake.lido.fi) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if it is cheaper than staking."
+      "description": "将 {{token}} 存入 [Lido.fi](https://stake.lido.fi) 铸造出 stETH 赚取 Eth 2.0 奖励。如果市场价格更便宜就直接在市场上购买。"
     },
     "hi": {
       "name": "Lido Eth 2.0 Staking",

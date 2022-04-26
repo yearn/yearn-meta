@@ -42,7 +42,7 @@
     },
     "zh": {
       "name": "Alpha Homora Lender Optimizer",
-      "description": "Supplies {{token}} to [Alpha Homora](https://homora.alphafinance.io/) to generate interest."
+      "description": "将 {{token}} 存入 [Alpha Homora](https://homora.alphafinance.io/) 赚取收益。"
     },
     "hi": {
       "name": "Alpha Homora Lender Optimizer",

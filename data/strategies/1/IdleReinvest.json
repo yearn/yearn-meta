@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Idle Finance Reinvest",
-      "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Idle Finance](https://idle.finance) 赚取 IDLE 和 COMP。收获 IDLE 和 COMP 卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Idle Finance Reinvest",
