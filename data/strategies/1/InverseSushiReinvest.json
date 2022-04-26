@@ -43,7 +43,7 @@
     },
     "hi": {
       "name": "Inverse Sushibar reinvest",
-      "description": "Supplies {{token}} to [SushiBar](https://app.sushi.com/stake) to earn protocol fees, then further lends xSUSHI to [Inverse Finance](https://www.inverse.finance/anchor) to earn INV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "प्रोटोकॉल शुल्क अर्जित करने के लिए {{token}} से [SushiBar](https://app.sushi.com/stake) की आपूर्ति करता है, फिर [Inverse Finance](https://www.inverse.finance/anchor) को xSUSHI उधार देता है। INV अर्जित करने के लिए। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Inverse Sushibar reinvest",
