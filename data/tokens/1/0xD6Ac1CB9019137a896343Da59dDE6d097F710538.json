@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibGBP, a synthetic pound sterling minted from the Iron Bank, and synthetic pound sterling (sGBP) minted on the Synthetix platform."
     },
     "zh": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibGBP, a synthetic pound sterling minted from the Iron Bank, and synthetic pound sterling (sGBP) minted on the Synthetix platform."
+      "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含由 Iron Bank 发行的合成英镑 ibGBP，以及由 Synthetix 发行的合成英镑 sGBP。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibGBP, a synthetic pound sterling minted from the Iron Bank, and synthetic pound sterling (sGBP) minted on the Synthetix platform."

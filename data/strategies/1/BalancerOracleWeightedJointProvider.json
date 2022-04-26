@@ -42,7 +42,7 @@
     },
     "zh": {
       "name": "Rebalancer Oracle Weighted Joint Provider",
-      "description": "Supplies {{token}} as half of a joint liquidity provider for a Oracle Weighted Pool on [Balancer](https://app.balancer.fi). Rewards are harvested, split between the pairs, sold for more {{token}}, and deposited back into the strategy."
+      "description": "将 {{token}} 作为一半的流动性存入 [Balancer](https://app.balancer.fi) 的预言机权重池。收获奖励分配给交易对的两个代币，卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Rebalancer Oracle Weighted Joint Provider",

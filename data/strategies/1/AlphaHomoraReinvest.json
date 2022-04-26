@@ -43,7 +43,7 @@
     },
     "zh": {
       "name": "Alpha Homora Reinvest",
-      "description": "Supplies {{token}} to [Alpha Homora](https://homora-v2.alphafinance.io) to generate interest and earn ALPHA tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Alpha Homora](https://homora-v2.alphafinance.io) 赚取利息和 ALPHA 代币奖励。收获奖励卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Alpha Homora Reinvest",

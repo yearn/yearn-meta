@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Aave Folding",
-      "description": "Supplies and borrows {{token}} repeatedly on [AAVE](https://app.aave.com/home) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "在 [AAVE](https://app.aave.com/home) 循环存入和借出 {{token}} 以赚取更多的利息和奖励。赚到的 stkAAVE 解锁后，收获为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Aave Folding",

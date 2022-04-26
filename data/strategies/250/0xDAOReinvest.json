@@ -47,7 +47,7 @@
     },
     "zh": {
       "name": "0xDAO Reinvest",
-      "description": "Supplies {{token}} to [0xDAO](https://www.oxdao.fi) to earn OXD. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [0xDAO](https://www.oxdao.fi) 以赚取 OXD。收获的 OXD 将被卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "0xDAO Reinvest",
