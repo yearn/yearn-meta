@@ -49,7 +49,7 @@
     },
     "hi": {
       "name": "Universe Reinvest",
-      "description": "Supplies {{token}} to [Universe](https://universe.xyz) to earn XYZ. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "XYZ कमाने के लिए {{token}} [Universe](https://universe.xyz) को सप्लाई करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Universe Reinvest",
