@@ -16,7 +16,7 @@
     },
     "fr": {
       "name": "Aave Borrow",
-      "description": "Fournit du {{token}} sur [AAVE](https://app.aave.com/home) pour générer des intérêts et gagner des jetons AAVE sous sa forme stakée. Une fois déverrouillés, les jetons gagnés sont récoltés, vendus pour plus de {{token}}, qui sont ensuite déposés dans la stratégie. Cette stratégie emprunte également des jetons contre le {{token}} déposé. Les jetons empruntés sont ensuite déposés dans le yVault correspondant pour générer un rendement supplémentaire. »
+      "description": "Fournit du {{token}} sur [AAVE](https://app.aave.com/home) pour générer des intérêts et gagner des jetons AAVE sous sa forme stakée. Une fois déverrouillés, les jetons gagnés sont récoltés, vendus pour plus de {{token}}, qui sont ensuite déposés dans la stratégie. Cette stratégie emprunte également des jetons contre le {{token}} déposé. Les jetons empruntés sont ensuite déposés dans le yVault correspondant pour générer un rendement supplémentaire."
     },
     "es": {
       "name": "Aave Borrow",
