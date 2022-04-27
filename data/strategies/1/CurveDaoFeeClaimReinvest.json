@@ -14,7 +14,7 @@
     },
     "fr": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",
-      "description": "Accepte du {{token}} pour gagner une des frais de [Curve Finance](https://curve.fi). Les [3Crv](https://curve.fi/3pool) (le jeton 3pool LP de Curve)gagnés sont récoltés, échangés contre du {{token}} qui sont ensuite redéposés dans la stratégie. L'échange se produit soit via l'achat sur le marché, soit via le mint, en fonction de ce qui est le plus intéréssant au moment T."
+      "description": "Accepte du {{token}} pour gagner une des frais de [Curve Finance](https://curve.fi). Les [3Crv](https://curve.fi/3pool) (le jeton 3pool LP de Curve) gagnés sont récoltés, échangés contre du {{token}} qui sont ensuite redéposés dans la stratégie. L'échange se produit soit via l'achat sur le marché, soit via le mint, en fonction de ce qui est le plus intéréssant au moment T."
     },
     "es": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",
