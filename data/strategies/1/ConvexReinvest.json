@@ -90,7 +90,7 @@
     },
     "fr": {
       "name": "Convex Reinvest",
-      "description": "Fournit du {{token}} sur [Convex Finance](https://www.convexfinance.com/stake) pour gagner du CRV et CVX (et tout autre jeton disponible). Les jetons gagnés sont récoltés, vendus pour plus de {{token} } qui sont ensuite redéposés dans la stratégie."
+      "description": "Fournit du {{token}} sur [Convex Finance](https://www.convexfinance.com/stake) pour gagner du CRV et CVX (et tout autre jeton disponible). Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Convex Reinvest",
