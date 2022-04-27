@@ -14,7 +14,7 @@
     },
     "fr": {
       "name": "Rebalancer Oracle Weighted Joint Provider",
-      "description": "Fournit du {{token}} dans l'un des cotés d'une pool (single side LP) Oracle Weighted sur [Balancer](https://app.balancer.fi). Les récompenses sont récoltées, réparties entre les paires, vendues pour plus de {{token }}, et redéposé dans la stratégie."
+      "description": "Fournit du {{token}} dans l'un des cotés d'une pool (single side LP) Oracle Weighted sur [Balancer](https://app.balancer.fi). Les récompenses sont récoltées, réparties entre les paires, vendues pour plus de {{token}}, et redéposé dans la stratégie."
     },
     "es": {
       "name": "Rebalancer Oracle Weighted Joint Provider",
