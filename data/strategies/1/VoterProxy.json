@@ -122,7 +122,7 @@
     },
     "hi": {
       "name": "Curve Boost",
-      "description": "VSP कमाने के लिए {{token}} को [Vesper Finance](https://vesper.finance) को सप्लाई करता है। अर्जित टोकन काटा जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
+      "description": "{{token}} को [Curve Finance](https://curve.fi) पर सप्लाई कर के गेज पर स्टेक करता है किसी भी उपलब्ध टोकन को इकट्ठा करने और [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards) की बदौलत बेहतर CRV रिवॉर्ड अर्जित करने के लिए। अर्जित टोकन वसूल किया जाता है और अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Curve Boost",
