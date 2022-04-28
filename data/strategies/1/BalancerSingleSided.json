@@ -23,7 +23,7 @@
     },
     "fr": {
       "name": "Single Sided Balancer",
-      "description": "Supplies {{token}} to a Stable Pool on [Balancer](https://app.balancer.fi) to earn BAL and trading fees. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy."
+      "description": "Fournit du {{token}} sur Une pool stable sur [Balancer](https://app.balancer.fi) pour gagner des BAL et des frais de négociation. Les récompenses sont récoltées, vendues pour plus de {{token}} et redéposées dans la stratégie."
     },
     "es": {
       "name": "Single Sided Balancer",
@@ -51,7 +51,7 @@
     },
     "zh": {
       "name": "Single Sided Balancer",
-      "description": "Supplies {{token}} to a Stable Pool on [Balancer](https://app.balancer.fi) to earn BAL and trading fees. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Balancer](https://app.balancer.fi) 的稳定池，赚取 BAL 代币奖励和交易手续费。收获奖励换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Single Sided Balancer",

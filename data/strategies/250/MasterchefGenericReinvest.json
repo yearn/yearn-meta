@@ -51,7 +51,7 @@
     },
     "zh": {
       "name": "Masterchef Generic Reinvest",
-      "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 generic masterchef genesis pool 以赚取协议代币。收获到的代币会被卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Masterchef Generic Reinvest",

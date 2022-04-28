@@ -11,7 +11,7 @@
     },
     "fr": {
       "name": "Inverse Sushibar reinvest",
-      "description": "Supplies {{token}} to [SushiBar](https://app.sushi.com/stake) to earn protocol fees, then further lends xSUSHI to [Inverse Finance](https://www.inverse.finance/anchor) to earn INV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [SushiBar](https://app.sushi.com/stake) pour gagner une partie des frais de protocole, puis prête xSUSHI sur [Inverse Finance](https://www.inverse.finance/anchor) pour gagner des INV. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Inverse Sushibar reinvest",
@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Inverse Sushibar reinvest",
-      "description": "Supplies {{token}} to [SushiBar](https://app.sushi.com/stake) to earn protocol fees, then further lends xSUSHI to [Inverse Finance](https://www.inverse.finance/anchor) to earn INV. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [SushiBar](https://app.sushi.com/stake) 赚取协议收入，再将 xSUSHI 存入 [Inverse Finance](https://www.inverse.finance/anchor) 赚取 INV 奖励。收获 INV 卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Inverse Sushibar reinvest",
