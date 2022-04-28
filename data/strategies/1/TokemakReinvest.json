@@ -11,7 +11,7 @@
     },
     "fr": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [Tokemak](https://www.tokemak.xyz) pour gagner du TOKE. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Tokemak Reinvest",
@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Tokemak](https://www.tokemak.xyz) 赚取 TOKE。收获 TOKE 卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Tokemak Reinvest",

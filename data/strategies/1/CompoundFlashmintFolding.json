@@ -16,7 +16,7 @@
     },
     "fr": {
       "name": "Compound Finance Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit et emprunte {{token}} sur [Compound Finance](https://app.compound.finance) simultanément pour gagner COMP. Les Flashmints sont utilisés pour frapper DAI de [MakerDAO](https://oasis.app) à flashlend et pliez la position, augmentant l'APY. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui est redéposé dans la stratégie."
     },
     "es": {
       "name": "Compound Finance Flashmint Folding",
@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Compound Finance Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "在 [Compound Finance](https://app.compound.finance) 同时存入和借出 {{token}} 赚取 COMP 奖励。在同一个仓位上在 [MakerDAO](https://oasis.app) 上使用 flashmint 铸造 DAI 以提升 APY。收获奖励换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Compound Finance Flashmint Folding",

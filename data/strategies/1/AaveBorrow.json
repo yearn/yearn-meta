@@ -16,7 +16,7 @@
     },
     "fr": {
       "name": "Aave Borrow",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. This strategy also borrows tokens against {{token}}. Borrowed tokens are then deposited into corresponding yVault to generate yield."
+      "description": "Fournit du {{token}} sur [AAVE](https://app.aave.com/home) pour générer des intérêts et gagner des jetons AAVE sous sa forme stakée. Une fois déverrouillés, les jetons gagnés sont récoltés, vendus pour plus de {{token}}, qui sont ensuite déposés dans la stratégie. Cette stratégie emprunte également des jetons contre le {{token}} déposé. Les jetons empruntés sont ensuite déposés dans le yVault correspondant pour générer un rendement supplémentaire."
     },
     "es": {
       "name": "Aave Borrow",
@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Aave Borrow",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. This strategy also borrows tokens against {{token}}. Borrowed tokens are then deposited into corresponding yVault to generate yield."
+      "description": "将 {{token}} 存入 [AAVE](https://app.aave.com/home) 赚取利息和 stkAAVE 奖励。stAAVE 解锁后，卖掉换为更多的 {{token}} 并进行复投。同时以存款资产作为抵押品，借出其他资产放入对应的 yVault 产生收益。"
     },
     "hi": {
       "name": "Aave Borrow",
