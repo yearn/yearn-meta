@@ -25,7 +25,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and OUSD, a decentralzed stablecoin backed 1:1 by other stablecoins."
     },
     "tr": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and OUSD, a decentralzed stablecoin backed 1:1 by other stablecoins."
+      "description": "Bu jeton, bir Curve likidite havuzunu temsil eder. Sahipler, havuzda işlem yapan kullanıcılardan ücret alır ve ayrıca CRV emisyonları kazanmak için LP'yi Curve'un göstergelerine yatırabilir. Bu meta havuz, 3Crv (DAI, USDC ve USDT) ve diğer sabit paralar tarafından 1'e 1 desteklenen merkezi olmayan bir sabit para olan OUSD'yi içerir."
     },
     "vi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and OUSD, a decentralzed stablecoin backed 1:1 by other stablecoins."

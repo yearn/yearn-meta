@@ -25,7 +25,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibCHF, a synthetic Swiss franc minted from the Iron Bank, and synthetic Swiss franc (sCHF) minted on the Synthetix platform."
     },
     "tr": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibCHF, a synthetic Swiss franc minted from the Iron Bank, and synthetic Swiss franc (sCHF) minted on the Synthetix platform."
+      "description": "Bu jeton, bir Curve likidite havuzunu temsil eder. Sahipler, havuzda işlem yapan kullanıcılardan ücret alır ve ayrıca CRV emisyonları kazanmak için LP'yi Curve'un göstergelerine yatırabilir. Bu havuz, Iron Bank'tan basılmış sentetik bir İsviçre frangı olan ibCHF'yi ve Synthetix platformunda basılmış sentetik İsviçre frangı (sCHF) içerir."
     },
     "vi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibCHF, a synthetic Swiss franc minted from the Iron Bank, and synthetic Swiss franc (sCHF) minted on the Synthetix platform."
