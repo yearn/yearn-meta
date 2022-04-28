@@ -47,7 +47,7 @@
     },
     "hi": {
       "name": "League Dao Reinvest",
-      "description": "Supplies {{token}} to [League Dao](https://dao.leaguedao.com/yield-farming) to earn LEAG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "LEAG कमाने के लिए {{token}} को [League Dao](https://dao.leaguedao.com/yield-farming) को सप्लाई करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "League Dao Reinvest",

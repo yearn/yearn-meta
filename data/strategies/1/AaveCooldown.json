@@ -46,7 +46,7 @@
     },
     "hi": {
       "name": "Staked AAVE Cooldown",
-      "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+      "description": "[Sushiswap](https://sushi.com) और [Uniswap](https://uniswap.org) से AAVE के साथ stkAAVE खरीदता है, stkAAVE को दांव पर लगाता है और stkAAVE और AAVE की कीमतों को प्रभावी ढंग से व्यवस्थित करते हुए, कूलडाउन अवधि की प्रतीक्षा करता है।"
     },
     "ja": {
       "name": "Staked AAVE Cooldown",

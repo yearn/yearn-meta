@@ -48,7 +48,7 @@
     },
     "hi": {
       "name": "Idle Finance Reinvest",
-      "description": "Supplies {{token}} to [Idle Finance](https://idle.finance) to earn IDLE and COMP. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "IDLE और COMP कमाने के लिए {{token}} को [Idle Finance](https://idle.finance) को सप्लाई करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Idle Finance Reinvest",

@@ -54,7 +54,7 @@
     },
     "hi": {
       "name": "Maker Delegate",
-      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+      "description": "[MakerDAO](https://oasis.app/borrow) वॉल्ट और टकसाल DAI में {{token}} दांव लगाता है। इस नवनिर्मित DAI को फिर उपज उत्पन्न करने के लिए DAI yVault में जमा किया जाता है।"
     },
     "ja": {
       "name": "Maker Delegate",

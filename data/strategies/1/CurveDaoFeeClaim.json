@@ -43,7 +43,7 @@
     },
     "hi": {
       "name": "Curve DAO Fee Claim",
-      "description": "Converts {{token}} into yveCRV and earns a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees can be claimed every Friday."
+      "description": "{{token}} को yveCRV में बदलता है और [Curve Finance](https://curve.fi) शुल्क का एक निरंतर हिस्सा अर्जित करता है। अर्जित [3Crv](https://curve.fi/3pool) (Curve का 3pool LP टोकन) शुल्क हर शुक्रवार को लिया जा सकता है।"
     },
     "ja": {
       "name": "Curve DAO Fee Claim",

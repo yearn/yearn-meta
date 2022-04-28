@@ -48,7 +48,7 @@
     },
     "hi": {
       "name": "Aave Borrow",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. This strategy also borrows tokens against {{token}}. Borrowed tokens are then deposited into corresponding yVault to generate yield."
+      "description": "{{token}} से [AAVE](https://app.aave.com/home) की आपूर्ति ब्याज उत्पन्न करने और AAVE टोकन अर्जित करने के लिए। एक बार अनलॉक होने के बाद, अर्जित टोकन काटा जाता है, और अधिक {{token}} में बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है। यह रणनीति {{token}} के बदले टोकन भी लेती है। उधार लिए गए टोकन को उपज उत्पन्न करने के लिए संबंधित yVault में जमा किया जाता है।"
     },
     "ja": {
       "name": "Aave Borrow",

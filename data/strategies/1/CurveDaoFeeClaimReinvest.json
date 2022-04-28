@@ -46,7 +46,7 @@
     },
     "hi": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",
-      "description": "Accepts {{token}} to earn a continuous share of [Curve Finance](https://curve.fi) fees. Earned [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) fees are harvested, swapped for more {{token}} which is deposited back into the strategy. Swap happens either via market-buy or mint, depending which is more capital efficient."
+      "description": "[Curve Finance](https://curve.fi) शुल्क का एक निरंतर हिस्सा अर्जित करने के लिए {{token}} स्वीकार करता है। अर्जित [3Crv](https://curve.fi/3pool) (Curve का 3pool LP टोकन) शुल्क काटा जाता है, और अधिक {{token}} के लिए स्वैप किया जाता है जिसे वापस रणनीति में जमा किया जाता है। स्वैप या तो बाजार-खरीद या टकसाल के माध्यम से होता है, जिसके आधार पर अधिक पूंजी कुशल होती है।"
     },
     "ja": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",

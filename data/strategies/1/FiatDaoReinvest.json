@@ -43,7 +43,7 @@
     },
     "hi": {
       "name": "Fiat Dao Reinvest",
-      "description": "Supplies {{token}} to [Fiat Dao](https://app.fiatdao.com) to earn FDT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "FDT कमाने के लिए {{token}} को [Fiat Dao](https://app.fiatdao.com) पर सप्लाई करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Fiat Dao Reinvest",
