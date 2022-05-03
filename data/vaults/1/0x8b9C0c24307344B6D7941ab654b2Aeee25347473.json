@@ -6,8 +6,8 @@
   "withdrawalsDisabled": false,
   "order": 37,
   "migrationAvailable": false,
-  "allowZapIn": true,
-  "allowZapOut": true,
+  "allowZapIn": false,
+  "allowZapOut": false,
   "retired": false,
   "displayName": "Curve EURN"
 }
