@@ -4,8 +4,7 @@
   "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
   "addresses": [
     "0xADE3BaC94177295329474aAd6A253Bae979BFA68",
-    "0x768F43717899FD0f1B45Ea7f23b66e191348073E",
-    "0x526f9FcD4db76878B62a450F1BD79cF38f036cc1"
+    "0x768F43717899FD0f1B45Ea7f23b66e191348073E"
   ],
   "protocols": ["SolidexFinance"],
   "localization": {
