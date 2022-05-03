@@ -2,7 +2,14 @@
   "$schema": "strategy",
   "name": "Tokemak Reinvest",
   "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": ["0x2EFB43C8C9AFe71d98B3093C3FD4dEB7Ce543C6D"],
+  "addresses": [
+    "0x2EFB43C8C9AFe71d98B3093C3FD4dEB7Ce543C6D",
+    "0x75c445F9c13B677b4E5488E37A8Eb3C70875441e",
+    "0xBD455373692c8F4bae2131d66BFfD5fE26C6b659",
+    "0xE8356C2EA2767fCBd3C1b7DD8cEBD2Fc12dDe13c",
+    "0x9AA08BA012B2f2c002BbC56a8c3ECE5b3E8299d3",
+    "0x24788D1468eEbb6a57ab8AB94a307F8B31bb2e81"
+  ],
   "protocols": ["Tokemak"],
   "localization": {
     "en": {
