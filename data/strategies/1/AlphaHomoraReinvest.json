@@ -15,7 +15,7 @@
     },
     "fr": {
       "name": "Alpha Homora Reinvest",
-      "description": "Supplies {{token}} to [Alpha Homora](https://homora-v2.alphafinance.io) to generate interest and earn ALPHA tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [Alpha Homora](https://homora-v2.alphafinance.io) pour générer des intérêts et gagner des jetons ALPHA. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui est ensuite redéposé dans la stratégie."
     },
     "es": {
       "name": "Alpha Homora Reinvest",

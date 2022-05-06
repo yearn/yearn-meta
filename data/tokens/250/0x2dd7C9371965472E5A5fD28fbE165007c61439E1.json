@@ -2,7 +2,7 @@
   "$schema": "token",
   "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains MIM, fUSDT, and USDC.",
-  "website": "https://ftm.curve.fi/factory/61",
+  "website": "https://ftm.curve.fi/factory/1",
   "tokenSymbolOverride": "crvMIM3Pool",
   "tokenNameOverride": "Curve MIM 3Pool",
   "localization": {

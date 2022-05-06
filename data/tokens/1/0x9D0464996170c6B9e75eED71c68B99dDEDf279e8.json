@@ -25,7 +25,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
     },
     "tr": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."
+      "description": "Bu jeton, bir Curve likidite havuzunu temsil eder. Sahipler, havuzda işlem yapan kullanıcılardan ücret alır ve ayrıca CRV emisyonları kazanmak için LP'yi Curve'un göstergelerine yatırabilir. Bu havuz, Curve'nin yerel yönetim belirteci olan CRV'yi ve Convex'in oy ile emanet edilen CRV'nin (veCRV) takas edilebilir sürümü olan cvxCRV'yi içerir."
     },
     "vi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV)."

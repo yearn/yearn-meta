@@ -25,7 +25,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and aETHc, a token that represents staked ether in Ankr StakeFi, an ETH 2.0 staking platform."
     },
     "tr": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and aETHc, a token that represents staked ether in Ankr StakeFi, an ETH 2.0 staking platform."
+      "description": "Bu jeton, bir Curve likidite havuzunu temsil eder. Sahipler, havuzda işlem yapan kullanıcılardan ücret alır ve ayrıca CRV emisyonları kazanmak için LP'yi Curve'un göstergelerine yatırabilir. Bu havuz, bir ETH 2.0 staking platformu olan Ankr StakeFi'de stake edilen etheri temsil eden bir token olan ETH ve aETHc'yi içerir."
     },
     "vi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and aETHc, a token that represents staked ether in Ankr StakeFi, an ETH 2.0 staking platform."
