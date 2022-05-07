@@ -46,7 +46,7 @@
     },
     "zh": {
       "name": "Rebalancer Stable Joint Provider",
-      "description": "将 {{token}} 作为一半的流动性放入 [Balancer](https://app.balancer.fi) 的稳定池，收获奖励分配后卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 作为一半的流动性放入 [Balancer](https://app.balancer.fi) 的稳定池，收获奖励分配给流动性对后，卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Rebalancer Stable Joint Provider",

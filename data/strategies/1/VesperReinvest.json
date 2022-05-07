@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Vesper Finance Reinvest",
-      "description": "将 {{token}} 存入 [Vesper Finance](https://vesper.finance) 赚取 VSP。收获 VSP 卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Vesper Finance](https://vesper.finance) 赚取 VSP。收获代币后，卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Vesper Finance Reinvest",

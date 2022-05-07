@@ -42,7 +42,7 @@
     },
     "zh": {
       "name": "Staked AAVE Cooldown",
-      "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices."
+      "description": "在 [Sushiswap](https://sushi.com) 和 [Uniswap](https://uniswap.org) 上用 AAVE 买 stkAAVE，待解锁后得到 AAVE，赚取 stkAAVE 和 AAVE 之间价差的收益。"
     },
     "hi": {
       "name": "Staked AAVE Cooldown",

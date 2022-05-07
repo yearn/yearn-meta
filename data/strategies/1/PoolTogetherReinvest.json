@@ -43,7 +43,7 @@
     },
     "zh": {
       "name": "Pool Together Reinvest",
-      "description": "将 {{token}} 存入 [Pool Together](https://app.pooltogether.com) 赚取 POOL 奖励。收获奖励卖掉换为更多的 {{token}} 并进行复投。如果本周中奖，奖金也进行复投。"
+      "description": "将 {{token}} 存入 [Pool Together](https://app.pooltogether.com) 赚取 POOL 奖励。收获奖励后卖掉换为更多的 {{token}} 并进行复投。如果本周中奖，奖金也会被复投。"
     },
     "hi": {
       "name": "Pool Together Reinvest",

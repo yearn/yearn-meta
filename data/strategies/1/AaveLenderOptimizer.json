@@ -47,7 +47,7 @@
     },
     "zh": {
       "name": "Aave Lender Optimizer",
-      "description": "将 {{token}} 存入 [AAVE](https://app.aave.com/home) 卖掉收益换回更多的 {{token}} 再进行复投。"
+      "description": "将 {{token}} 存入 [AAVE](https://app.aave.com/home) 以赚取利率和 stkAAVE 代币。解锁后，收获赚到的代币，卖掉并换回更多的 {{token}} 再进行复投。"
     },
     "hi": {
       "name": "Aave Lender Optimizer",

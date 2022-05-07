@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "1inch Staking Reinvest",
-      "description": "将 {{token}} 存入 [1inch DAO](https://app.1inch.io/#/1/dao/governance) 收获奖励再进行复投。"
+      "description": "将 {{token}} 存入 [1inch DAO](https://app.1inch.io/#/1/dao/governance) 以领取治理奖励。收获奖励后再进行复投。"
     },
     "hi": {
       "name": "1inch Staking Reinvest",

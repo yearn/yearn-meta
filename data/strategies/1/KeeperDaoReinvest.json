@@ -43,7 +43,7 @@
     },
     "zh": {
       "name": "KeeperDAO Reinvest",
-      "description": "将 {{token}} 存入 [KeeperDAO](https://app.keeperdao.com) 赚取 ROOK。收获 ROOK 卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [KeeperDAO](https://app.keeperdao.com) 赚取 ROOK。收获代币后，卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "KeeperDAO Reinvest",

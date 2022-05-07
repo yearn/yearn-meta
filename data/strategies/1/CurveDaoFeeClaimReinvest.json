@@ -42,7 +42,7 @@
     },
     "zh": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",
-      "description": "{{token}} 持续赚取 [Curve Finance](https://curve.fi) 手续费，收获赚得的 [3Crv](https://curve.fi/3pool) (Curve's 3pool LP token) 换为更多的 {{token}} 并进行复投。根据市场情况决定，或者市场直接购买或者通过铸造获得。"
+      "description": "{{token}} 持续赚取 [Curve Finance](https://curve.fi) 的手续费，收获赚到的 [3Crv](https://curve.fi/3pool) (Curve 的 3pool LP 代币) 后卖掉，换为更多的 {{token}} 并进行复投。代币兑换是否会通过市场直接购买或铸造是根据市场的情况来决定的。"
     },
     "hi": {
       "name": "Curve DAO Fee Claim and Reinvest (yvBoost)",
