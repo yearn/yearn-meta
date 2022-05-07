@@ -29,7 +29,7 @@
       "description": "Wrapped Bitcoin is a tokenized version of Bitcoin (BTC) that runs on the Ethereum blockchain. The Wrapped Tokens project, of which WBTC is a part, was founded as a joint project of three organizations: BitGo, Kyber Network and Ren. BitGo also serves as the entity that holds WBTC tokens and the keys needed to mint more of them. WBTC is backed by Bitcoin at a 1:1 ratio via a network of automatically monitored merchants and custodians."
     },
     "zh": {
-      "description": "WBTC 是以太坊网络上的代币化的 BTC。WBTC 是封装类代币，由 BitGo，Kyber Network 和 Ren 三家联合的组织发行。WBTC 由 BTC 按 1:1 的比例做资产支持，通过网络可以自动监控其购买或托管状况。"
+      "description": "WBTC 是以太坊网络上代币化的 BTC。WBTC 是封装类代币，由 BitGo，Kyber Network 和 Ren 三家联合的组织发行。BitGo 持有 WBTC 代币并拥有铸造更多代币所需的密钥。WBTC 由 BTC 按 1:1 的比例做资产支持，通过网络可以自动监控其购买或托管状况。"
     },
     "hi": {
       "description": "Wrapped Bitcoin is a tokenized version of Bitcoin (BTC) that runs on the Ethereum blockchain. The Wrapped Tokens project, of which WBTC is a part, was founded as a joint project of three organizations: BitGo, Kyber Network and Ren. BitGo also serves as the entity that holds WBTC tokens and the keys needed to mint more of them. WBTC is backed by Bitcoin at a 1:1 ratio via a network of automatically monitored merchants and custodians."

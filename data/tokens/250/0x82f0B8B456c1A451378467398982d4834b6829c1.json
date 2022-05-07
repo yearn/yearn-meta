@@ -29,7 +29,7 @@
       "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
     },
     "zh": {
-      "description": "Abracadabra.money 是借贷平台，允许用户存入生息代币（如 Yearn 的机枪池代币）作为抵押品借出 MIM，MIM 是与其他传统的稳定币一样使用的美元稳定币。这样用户的资金在 Yearn 的机枪池赚取收益的同时，还通过 MIM 解锁了流动性。"
+      "description": "Abracadabra.money 是个借贷平台，允许用户存入生息代币（例如 Yearn 的机枪池代币）作为抵押品借出錨定美元的 MIM，MIM 的应用方式是与其它传统的稳定币一样的。这样用户的资产在 Yearn 的机枪池赚取收益的同时，还可以通过 MIM 来解锁其流动性。"
     },
     "hi": {
       "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets."
