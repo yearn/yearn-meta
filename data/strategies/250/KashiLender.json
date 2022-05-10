@@ -43,7 +43,7 @@
     },
     "hi": {
       "name": "Kashi Lender",
-      "description": "Supplies {{token}} to Sushi via [Kashi](https://app.sushi.com/lend) to generate interest and earn SUSHI tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "ब्याज उत्पन्न करने और SUSHI टोकन अर्जित करने के लिए [Kashi](https://app.sushi.com/lend) के माध्यम से SUSHI को {{token}} आपूर्ति करते हैं। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Kashi Lender",
