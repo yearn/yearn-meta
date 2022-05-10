@@ -48,7 +48,7 @@
     },
     "hi": {
       "name": "Tarot Reinvest",
-      "description": "Supplies {{token}} to [Tarot](tarot.to) to earn TAROT. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "TAROT कमाने के लिए {{token}} से [Tarot](tarot.to) की आपूर्ति करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Tarot Reinvest",
