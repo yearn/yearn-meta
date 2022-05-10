@@ -48,7 +48,7 @@
     },
     "hi": {
       "name": "Geist Borrow",
-      "description": "Supplies {{token}} to [Geist Finance](https://geist.finance/deposit) to generate interest and earn GEIST. This strategy also borrows tokens against {{token}}. Borrowed tokens are then deposited into the corresponding yVault to generate yield. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "ब्याज उत्पन्न करने और GEIST अर्जित करने के लिए {{token}} [Geist Finance](https://geist.finance/deposit) को आपूर्ति करता है। यह रणनीति {{token}} के बदले टोकन भी लेती है। उधार लिए गए टोकन को उपज उत्पन्न करने के लिए संबंधित yVault में जमा किया जाता है। अर्जित टोकन काटा जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Geist Borrow",
