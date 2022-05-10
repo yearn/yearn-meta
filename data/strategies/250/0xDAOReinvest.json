@@ -51,7 +51,7 @@
     },
     "hi": {
       "name": "0xDAO Reinvest",
-      "description": "Supplies {{token}} to [0xDAO](https://www.oxdao.fi) to earn OXD. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "OXD कमाने के लिए {{token}} से [0xDAO](https://www.oxdao.fi) की आपूर्ति करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "0xDAO Reinvest",
