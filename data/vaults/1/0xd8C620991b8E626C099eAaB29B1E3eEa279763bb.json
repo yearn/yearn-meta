@@ -6,8 +6,8 @@
   "withdrawalsDisabled": false,
   "order": 33.5,
   "migrationAvailable": false,
-  "allowZapIn": true,
+  "allowZapIn": false,
   "allowZapOut": true,
-  "retired": false,
+  "retired": true,
   "displayName": "Curve MIM-UST"
 }
