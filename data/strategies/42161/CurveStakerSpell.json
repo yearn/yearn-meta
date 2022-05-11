@@ -1,0 +1,61 @@
+{
+  "$schema": "strategy",
+  "name": "Curve MIM 3Pool Staker",
+  "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
+  "addresses": ["0xf1C3047C6310806de1d25535BC50748815066a7b"],
+  "protocols": ["Abracadabra"],
+  "localization": {
+    "en": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "fr": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "es": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "de": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "pt": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "el": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "tr": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "vi": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "zh": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "hi": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ja": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "id": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    },
+    "ru": {
+      "name": "Curve MIM 3Pool Staker",
+      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+    }
+  }
+}
