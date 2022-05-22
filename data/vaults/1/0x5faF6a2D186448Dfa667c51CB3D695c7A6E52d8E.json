@@ -9,6 +9,6 @@
   "allowZapIn": true,
   "allowZapOut": true,
   "retired": false,
-  "apyOverride": 0.0962,
+  "apyOverride": 0.0596,
   "displayName": "Curve stETH-WETH"
 }
