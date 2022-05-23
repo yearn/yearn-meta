@@ -26,11 +26,11 @@
     },
     "fr": {
       "name": "Geist Folding",
-      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit et emprunte simultanément du {{token}} sur [Geist Finance](https://geist.finance/deposit) pour gagner des GEIST. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Geist Folding",
-      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra y pide prestado {{token}} en [Geist Finance](https://geist.finance/deposit) simultáneamente para ganar GEIST. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Geist Folding",
@@ -46,7 +46,7 @@
     },
     "tr": {
       "name": "Geist Folding",
-      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "GEIST kazanmak için aynı anda [Geist Finance](https://geist.finance/deposit)'a {{token}} sağlar ve ödünç alır. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Geist Folding",
@@ -54,7 +54,7 @@
     },
     "zh": {
       "name": "Geist Folding",
-      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "同时在 [Geist Finance](https://geist.finance/deposit) 上存入和借出 {{token}} 以赚取 GEIST。收获到的奖励会被卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Geist Folding",

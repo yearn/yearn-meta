@@ -90,11 +90,11 @@
     },
     "fr": {
       "name": "Convex Reinvest",
-      "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [Convex Finance](https://www.convexfinance.com/stake) pour gagner du CRV et CVX (et tout autre jeton disponible). Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Convex Reinvest",
-      "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [Convex Finance](https://www.convexfinance.com/stake) para ganar CRV y CVX (y cualquier otro token disponible). Los tokens ganados se cosechan, se venden por más {{token}} que se depositan nuevamente en la estrategia."
     },
     "de": {
       "name": "Convex Reinvest",
@@ -110,7 +110,7 @@
     },
     "tr": {
       "name": "Convex Reinvest",
-      "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "CRV ve CVX (ve diğer mevcut jetonlar) kazanmak için [Convex Finance](https://www.convexfinance.com/stake)'e {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Convex Reinvest",
@@ -118,11 +118,11 @@
     },
     "zh": {
       "name": "Convex Reinvest",
-      "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Convex Finance](https://www.convexfinance.com/stake) 赚取 CRV 和 CVX （及其他）奖励。收获奖励换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Convex Reinvest",
-      "description": "Supplies {{token}} to [Convex Finance](https://www.convexfinance.com/stake) to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "CRV और CVX (और कोई अन्य उपलब्ध टोकन) अर्जित करने के लिए {{token}} से [Convex Finance](https://www.convexfinance.com/stake) की आपूर्ति करता है। अर्जित टोकन काटा जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Convex Reinvest",

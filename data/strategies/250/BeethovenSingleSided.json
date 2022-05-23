@@ -43,11 +43,11 @@
     },
     "fr": {
       "name": "Beethoven-X Yield Seeker",
-      "description": "Supplies {{token}} to [Beethoven-X](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur des [Beethoven-X](https://beets.fi) Pools stables pour gagner des BEETS et des frais de négociation. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans le stratégie."
     },
     "es": {
       "name": "Beethoven-X Yield Seeker",
-      "description": "Supplies {{token}} to [Beethoven-X](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [Beethoven-X](https://beets.fi) Grupos estables para ganar BEETS y tarifas comerciales. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Beethoven-X Yield Seeker",
@@ -63,7 +63,7 @@
     },
     "tr": {
       "name": "Beethoven-X Yield Seeker",
-      "description": "Supplies {{token}} to [Beethoven-X](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "BEETS ve işlem ücretleri kazanmak için [Beethoven-X](https://beets.fi) Stable Havuzlarına {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Beethoven-X Yield Seeker",
@@ -71,7 +71,7 @@
     },
     "zh": {
       "name": "Beethoven-X Yield Seeker",
-      "description": "Supplies {{token}} to [Beethoven-X](https://beets.fi) Stable Pools to earn BEETS and trading fees. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Beethoven-X](https://beets.fi) 的稳定池赚取 BEETS 奖励和交易手续费。收获到的代币将会被卖掉，换为更多 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Beethoven-X Yield Seeker",

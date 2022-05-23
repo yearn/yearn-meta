@@ -14,11 +14,11 @@
     },
     "fr": {
       "name": "Solidex Joint Provider",
-      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur une pool stable [Solidex Finance](https://solidexfinance.com/#/pools) pour gagner des jetons SOLID et SEX. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Solidex Joint Provider",
-      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a un grupo estable de [Solidex Finance](https://solidexfinance.com/#/pools) para ganar SOLID y SEX. Los tokens ganados se cosechan, se dividen entre el par, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Solidex Joint Provider",
@@ -34,7 +34,7 @@
     },
     "tr": {
       "name": "Solidex Joint Provider",
-      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+      "description": "SOLID ve SEX kazanmak için bir [Solidex Finance](https://solidexfinance.com/#/pools) Stable Havuzuna {{token}} sağlar. Kazanılan jetonlar hasat edilir, çiftler arasında bölünür, daha fazla {{token}} karşılığında satılır ve stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Solidex Joint Provider",
@@ -42,7 +42,7 @@
     },
     "zh": {
       "name": "Solidex Joint Provider",
-      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Stable Pool to earn SOLID and SEX. Earned tokens are harvested, divided between the pair, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Solidex Finance](https://solidexfinance.com/#/pools) 的稳定池以赚取 SOLID 和 SEX 奖励。收获到的代币会被分配给交易对的两个代币，然后卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Solidex Joint Provider",

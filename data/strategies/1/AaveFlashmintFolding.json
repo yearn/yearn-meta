@@ -17,11 +17,11 @@
     },
     "fr": {
       "name": "Aave Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [AAVE](https://app.aave.com/home) simultaneously to maximize stAAVE earnings. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit et emprunte simultanément du {{token}} sur [AAVE](https://app.aave.com/home) pour maximiser les revenus sous forme de stAAVE. Les flashmints sont utilisés pour frapper du DAI sur [MakerDAO](https://oasis.app) pour flashlend et plier la position, augmentant l'APY. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui est ensuite redéposé dans la stratégie."
     },
     "es": {
       "name": "Aave Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [AAVE](https://app.aave.com/home) simultaneously to maximize stAAVE earnings. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra y pide prestado {{token}} en [AAVE](https://app.aave.com/home) simultáneamente para maximizar las ganancias de stAAVE. Los Flashmints se utilizan para acuñar DAI de [MakerDAO](https://oasis.app) para flashlend y doblar la posición, aumentando el APY. Los tokens ganados se cosechan, se venden por más {{token}} que se depositan nuevamente en la estrategia."
     },
     "de": {
       "name": "Aave Flashmint Folding",
@@ -37,7 +37,7 @@
     },
     "tr": {
       "name": "Aave Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [AAVE](https://app.aave.com/home) simultaneously to maximize stAAVE earnings. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "stAAVE kazançlarını en üst seviyeye çıkarmak için aynı anda [AAVE](https://app.aave.com/home)'ye hem {{token}} sağlar hem ondan ödünç alır. Flashmint'ler, [MakerDAO](https://oasis.app)'da DAI'yi basmak ve pozisyonu katlamak ve APY'yi artırmak için kullanılır. Kazanılan jetonlar toplanır, stratejiye geri yatırılmak üzere daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Aave Flashmint Folding",
@@ -45,11 +45,11 @@
     },
     "zh": {
       "name": "Aave Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [AAVE](https://app.aave.com/home) simultaneously to maximize stAAVE earnings. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "同时在 [AAVE](https://app.aave.com/home) 上存入和借出 {{token}} 以赚取尽可能多的 stkAAVE。 在同一个仓位通过 Flashmint 在 [MakerDAO](https://oasis.app) 铸造 DAI，提升 APY。收获奖励换为 {{token}} 再进行复投。"
     },
     "hi": {
       "name": "Aave Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [AAVE](https://app.aave.com/home) simultaneously to maximize stAAVE earnings. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "[AAVE](https://app.aave.com/home) पर {{token}} आपूर्ति और उधार एक साथ stAAVE आय को अधिकतम करने के लिए। फ्लैशमिंट्स का उपयोग [MakerDAO](https://oasis.app) से DAI को टकसाल करने के लिए किया जाता है, ताकि APY को बढ़ावा देने के लिए स्थिति को फ्लैश और मोड़ा जाता है। अर्जित टोकन काटा जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Aave Flashmint Folding",

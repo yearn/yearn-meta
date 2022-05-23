@@ -22,11 +22,11 @@
     },
     "fr": {
       "name": "Maker Delegate",
-      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+      "description": "Stake du {{token}} dans le vault [MakerDAO](https://oasis.app/borrow) et mint du DAI. Ce DAI est ensuite déposé dans le DAI yVault pour générer du rendement."
     },
     "es": {
       "name": "Maker Delegate",
-      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+      "description": "Hace staking de {{token}} en la vault de [MakerDAO](https://oasis.app/borrow) y acuña DAI. Este DAI recién acuñado se deposita luego en la yVault  DAI para generar rendimiento."
     },
     "de": {
       "name": "Maker Delegate",
@@ -42,7 +42,7 @@
     },
     "tr": {
       "name": "Maker Delegate",
-      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+      "description": "[MakerDAO](https://oasis.app/borrow) vault'unda {{token}} stake eder ve DAI'yi mint eder. yeni basılan DAI, daha sonra verim elde etmek için DAI yVault'a yatırılır."
     },
     "vi": {
       "name": "Maker Delegate",
@@ -50,11 +50,11 @@
     },
     "zh": {
       "name": "Maker Delegate",
-      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+      "description": "将 {{token}} 存入 [MakerDAO](https://oasis.app/borrow) 铸造 DAI。再把 DAI 放入 DAI yVault 赚取收益。"
     },
     "hi": {
       "name": "Maker Delegate",
-      "description": "Stakes {{token}} in [MakerDAO](https://oasis.app/borrow) vault and mints DAI. This newly minted DAI is then deposited into the DAI yVault to generate yield."
+      "description": "[MakerDAO](https://oasis.app/borrow) वॉल्ट और टकसाल DAI में {{token}} दांव लगाता है। इस नवनिर्मित DAI को फिर उपज उत्पन्न करने के लिए DAI yVault में जमा किया जाता है।"
     },
     "ja": {
       "name": "Maker Delegate",

@@ -15,11 +15,11 @@
     },
     "fr": {
       "name": "KeeperDAO Reinvest",
-      "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [KeeperDAO](https://app.keeperdao.com) pour gagner ROOK. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "KeeperDAO Reinvest",
-      "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [KeeperDAO](https://app.keeperdao.com) para ganar ROOK. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "KeeperDAO Reinvest",
@@ -35,7 +35,7 @@
     },
     "tr": {
       "name": "KeeperDAO Reinvest",
-      "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "ROOK kazanmak için [KeeperDAO](https://app.keeperdao.com)'a {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "KeeperDAO Reinvest",
@@ -43,11 +43,11 @@
     },
     "zh": {
       "name": "KeeperDAO Reinvest",
-      "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [KeeperDAO](https://app.keeperdao.com) 赚取 ROOK。收获 ROOK 卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "KeeperDAO Reinvest",
-      "description": "Supplies {{token}} to [KeeperDAO](https://app.keeperdao.com) to earn ROOK. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "ROOK कमाने के लिए {{token}} को [KeeperDAO](https://app.keeperdao.com) पर सप्लाई करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "KeeperDAO Reinvest",

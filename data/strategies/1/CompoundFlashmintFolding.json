@@ -16,11 +16,11 @@
     },
     "fr": {
       "name": "Compound Finance Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit et emprunte {{token}} sur [Compound Finance](https://app.compound.finance) simultanément pour gagner COMP. Les Flashmints sont utilisés pour frapper DAI de [MakerDAO](https://oasis.app) à flashlend et pliez la position, augmentant l'APY. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui est redéposé dans la stratégie."
     },
     "es": {
       "name": "Compound Finance Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra y pide prestado {{token}} en [Compound Finance](https://app.compound.finance) simultáneamente para ganar COMP. Los Flashmints se utilizan para acuñar DAI de [MakerDAO](https://oasis.app) para flashlend y doblar la posición, aumentando el APY. Los tokens ganados se cosechan, se venden por más {{token}} que se depositan nuevamente en la estrategia."
     },
     "de": {
       "name": "Compound Finance Flashmint Folding",
@@ -36,7 +36,7 @@
     },
     "tr": {
       "name": "Compound Finance Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "COMP kazanmak için aynı anda [Compound Finance](https://app.compound.finance) üzerinde hem {{token}} sağlar hem ödünç alır. Flashmint'ler, [MakerDAO](https://oasis.app)'dan DAI'yi basmak ve pozisyonu katlamak ve APY'yi artırmak için kullanılır. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Compound Finance Flashmint Folding",
@@ -44,11 +44,11 @@
     },
     "zh": {
       "name": "Compound Finance Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "在 [Compound Finance](https://app.compound.finance) 同时存入和借出 {{token}} 赚取 COMP 奖励。在同一个仓位上在 [MakerDAO](https://oasis.app) 上使用 flashmint 铸造 DAI 以提升 APY。收获奖励换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Compound Finance Flashmint Folding",
-      "description": "Supplies and borrows {{token}} on [Compound Finance](https://app.compound.finance) simultaneously to earn COMP. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "COMP कमाने के लिए {{token}} [Compound Finance](https://app.compound.finance) पर एक साथ आपूर्ति और उधार किया जाता है। फ्लैशमिंट का उपयोग [MakerDAO](https://oasis.app) से DAI को टकसाल करने के लिए किया जाता है, ताकि APY को बढ़ाकर स्थिति को फ्लैश किया जा सके और मोड़ा जा सके। अर्जित टोकन काटा जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Compound Finance Flashmint Folding",

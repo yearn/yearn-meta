@@ -23,13 +23,13 @@
       "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
     },
     "tr": {
-      "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+      "description": "Uniswap'a benzer şekilde Curve Finance, Otomatik Piyasa Yapıcısı (AMM) tabanlı Merkezi Olmayan Borsa'dır (DEX). Uniswap'tan farklı olarak, ana odak noktası yalnızca aynı değere sahip olması gereken varlıklar arasında takas yapmaktır. Kilitli CRV jetonları, protokol yönetimi için kullanılır ve ayrıca Curve'ün alım satım ücretlerinin yarısını alır."
     },
     "vi": {
       "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
     },
     "zh": {
-      "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."
+      "description": "与 Uniswap 一样，Curve 也是自动化做市的去中心化交易所（DEX）。但与 Uniswap 不同的是，Curve 专注在同价值代币之间的兑换。锁仓的 CRV 用于协议治理，同时可以获得一半交易手续费的分红。"
     },
     "hi": {
       "description": "Similar to Uniswap, Curve Finance is an Automated Market Maker (AMM) based Decentralised Exchange (DEX). Unlike Uniswap, its main focus is only to swap between assets that are supposed to have the same value. Locked CRV tokens are used for protocol governance and also receive half of Curve's trading fees."

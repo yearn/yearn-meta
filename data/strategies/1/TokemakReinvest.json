@@ -2,7 +2,14 @@
   "$schema": "strategy",
   "name": "Tokemak Reinvest",
   "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": ["0x2EFB43C8C9AFe71d98B3093C3FD4dEB7Ce543C6D"],
+  "addresses": [
+    "0x2EFB43C8C9AFe71d98B3093C3FD4dEB7Ce543C6D",
+    "0x75c445F9c13B677b4E5488E37A8Eb3C70875441e",
+    "0xBD455373692c8F4bae2131d66BFfD5fE26C6b659",
+    "0xE8356C2EA2767fCBd3C1b7DD8cEBD2Fc12dDe13c",
+    "0x9AA08BA012B2f2c002BbC56a8c3ECE5b3E8299d3",
+    "0x24788D1468eEbb6a57ab8AB94a307F8B31bb2e81"
+  ],
   "protocols": ["Tokemak"],
   "localization": {
     "en": {
@@ -11,11 +18,11 @@
     },
     "fr": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [Tokemak](https://www.tokemak.xyz) pour gagner du TOKE. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [Tokemak](https://www.tokemak.xyz) para ganar TOKE. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Tokemak Reinvest",
@@ -31,7 +38,7 @@
     },
     "tr": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "TOKE kazanmak için [Tokemak](https://www.tokemak.xyz)'a {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Tokemak Reinvest",
@@ -39,11 +46,11 @@
     },
     "zh": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Tokemak](https://www.tokemak.xyz) 赚取 TOKE。收获 TOKE 卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Tokemak Reinvest",
-      "description": "Supplies {{token}} to [Tokemak](https://www.tokemak.xyz) to earn TOKE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "TOKE कमाने के लिए {{token}} को [Tokemak](https://www.tokemak.xyz) पर सप्लाई करता है। अर्जित टोकन काटा जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Tokemak Reinvest",

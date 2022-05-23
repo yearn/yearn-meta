@@ -16,11 +16,11 @@
     },
     "fr": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [AAVE](https://app.aave.com/home) et [CREAM](https://app.cream.finance/) pour générer des intérêts et gagner des jetons AAVE stakés. Une fois déverrouillés, les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [AAVE](https://app.aave.com/home) y [C.R.E.A.M.](https://app.cream.finance/) para generar intereses y ganar tokens AAVE en staking. Una vez desbloqueados, los tokens ganados se cosechan y se venden por más {{token}} que se depositan nuevamente en la estrategia."
     },
     "de": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",
@@ -36,7 +36,7 @@
     },
     "tr": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Faiz oluşturmak ve stake edilen AAVE jetonlarını kazanmak için [AAVE](https://app.aave.com/home) ve [C.R.E.A.M.](https://app.cream.finance/)'a {{token}} sağlar. Kilidi açıldıktan sonra, kazanılan jetonlar hasat edilir, stratejiye geri yatırılmak üzere daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",
@@ -44,11 +44,11 @@
     },
     "zh": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [AAVE](https://app.aave.com/home) 和 [C.R.E.A.M.](https://app.cream.finance/) 收货奖励卖掉换为更多的 {{token}} 再进行复投。"
     },
     "hi": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",
-      "description": "Supplies {{token}} to [AAVE](https://app.aave.com/home) and [C.R.E.A.M.](https://app.cream.finance/) to generate interest and earn staked AAVE tokens. Once unlocked, earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "{{token}} से [AAVE](https://app.aave.com/home) और [C.R.E.A.M.](https://app.cream.finance/) की आपूर्ति ब्याज उत्पन्न करने और AAVE टोकन अर्जित करता है। एक बार अनलॉक होने के बाद, अर्जित टोकन काटा जाता है, और अधिक {{token}} में बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",

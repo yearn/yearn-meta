@@ -10,6 +10,5 @@
   "allowZapIn": true,
   "allowZapOut": true,
   "retired": false,
-  "displayName": "yvBOOST",
-  "apyOverride": 0.075
+  "displayName": "yvBOOST"
 }

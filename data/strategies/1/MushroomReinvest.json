@@ -14,11 +14,11 @@
     },
     "fr": {
       "name": "Mushroom Finance Reinvest",
-      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur le [Mushroom Finance](https://mushrooms.finance) {{token}} Vault pour gagner du MM. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Mushroom Finance Reinvest",
-      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a la vault de {{token}} en [Mushroom Finance](https://mushrooms.finance) para ganar MM. Los tokens ganados se cosechan, se venden por más {{token}} que se depositan nuevamente en la estrategia."
     },
     "de": {
       "name": "Mushroom Finance Reinvest",
@@ -34,7 +34,7 @@
     },
     "tr": {
       "name": "Mushroom Finance Reinvest",
-      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "MM kazanmak için [Mushroom Finance](https://mushrooms.finance) {{token}} Vault'una {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Mushroom Finance Reinvest",
@@ -42,11 +42,11 @@
     },
     "zh": {
       "name": "Mushroom Finance Reinvest",
-      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Mushroom Finance](https://mushrooms.finance) 的 {{token}} 机枪池赚取 MM。收获 MM 卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Mushroom Finance Reinvest",
-      "description": "Supplies {{token}} to [Mushroom Finance](https://mushrooms.finance) {{token}} Vault to earn MM. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "MM कमाने के लिए {{token}} को [Mushroom Finance](https://mushrooms.finance) {{token}} को सप्लाई करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Mushroom Finance Reinvest",

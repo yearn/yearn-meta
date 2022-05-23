@@ -17,11 +17,11 @@
     },
     "fr": {
       "name": "Universe Reinvest",
-      "description": "Supplies {{token}} to [Universe](https://universe.xyz) to earn XYZ. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [Universe](https://universe.xyz) pour gagner du XYZ. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Universe Reinvest",
-      "description": "Supplies {{token}} to [Universe](https://universe.xyz) to earn XYZ. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [Universe](https://universe.xyz) para ganar XYZ. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Universe Reinvest",
@@ -37,7 +37,7 @@
     },
     "tr": {
       "name": "Universe Reinvest",
-      "description": "Supplies {{token}} to [Universe](https://universe.xyz) to earn XYZ. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "XYZ kazanmak için [Universe](https://universe.xyz) {{token}} sağlar. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Universe Reinvest",
@@ -45,11 +45,11 @@
     },
     "zh": {
       "name": "Universe Reinvest",
-      "description": "Supplies {{token}} to [Universe](https://universe.xyz) to earn XYZ. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Universe](https://universe.xyz) 赚取 XYZ。收获 XYZ 卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Universe Reinvest",
-      "description": "Supplies {{token}} to [Universe](https://universe.xyz) to earn XYZ. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "XYZ कमाने के लिए {{token}} [Universe](https://universe.xyz) को सप्लाई करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Universe Reinvest",

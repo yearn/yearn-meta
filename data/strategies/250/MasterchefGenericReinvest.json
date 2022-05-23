@@ -23,11 +23,11 @@
     },
     "fr": {
       "name": "Masterchef Generic Reinvest",
-      "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur une pool générique de masterchef genesis pour gagner les jetons de protocole. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Masterchef Generic Reinvest",
-      "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a un grupo genérico de masterchef génesis para ganar tokens de protocolo. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia.."
     },
     "de": {
       "name": "Masterchef Generic Reinvest",
@@ -43,7 +43,7 @@
     },
     "tr": {
       "name": "Masterchef Generic Reinvest",
-      "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Protokol token'lerinden kazanmak için genel bir masterchef oluşum havuzuna {{token}} sağlar. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Masterchef Generic Reinvest",
@@ -51,7 +51,7 @@
     },
     "zh": {
       "name": "Masterchef Generic Reinvest",
-      "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 generic masterchef genesis pool 以赚取协议代币。收获到的代币会被卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Masterchef Generic Reinvest",

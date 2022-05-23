@@ -13,7 +13,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."
     },
     "es": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."
+      "description": "Este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los gauges de Curve para obtener emisiones de CRV. Este grupo contiene DAI, USDC y USDT. También se conoce como 3Crv (o 3pool), y es la base de todos los metapools de monedas estables de Curve."
     },
     "de": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."
@@ -25,13 +25,13 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."
     },
     "tr": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."
+      "description": "Bu jeton, bir Curve likidite havuzunu temsil eder. Sahipler, havuzda işlem yapan kullanıcılardan ücret alır ve ayrıca CRV emisyonları kazanmak için LP'yi Curve'un göstergelerine yatırabilir. Bu havuz DAI, USDC ve USDT içerir. Ayrıca 3Crv (veya 3pool) olarak da bilinir ve Curve'ün tüm stabilcoin meta havuzlarının temelidir."
     },
     "vi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."
     },
     "zh": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."
+      "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含 DAI, USDC 和 USDT。这就是著名的 3Crv（也被成为 3pool），是 Curve 的基础元池。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."

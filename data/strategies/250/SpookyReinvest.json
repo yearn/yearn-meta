@@ -11,11 +11,11 @@
     },
     "fr": {
       "name": "Spookyswap Reinvest",
-      "description": "Supplies {{token}} to [SpookySwap](https://spookyswap.finance/farms) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [SpookySwap](https://spookyswap.finance/farms) pour gagner des BOO. Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Spookyswap Reinvest",
-      "description": "Supplies {{token}} to [SpookySwap](https://spookyswap.finance/farms) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [SpookySwap](https://spookyswap.finance/farms) para ganar BOO. Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Spookyswap Reinvest",
@@ -31,7 +31,7 @@
     },
     "tr": {
       "name": "Spookyswap Reinvest",
-      "description": "Supplies {{token}} to [SpookySwap](https://spookyswap.finance/farms) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "BOO kazanmak için [SpookySwap](https://spookyswap.finance/farms)'a {{token}} sağlar. Kazanılan jetonlar toplanır, daha fazla {{token}} karşılığında satılır ve ardından stratejiye geri yatırılır."
     },
     "vi": {
       "name": "Spookyswap Reinvest",
@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Spookyswap Reinvest",
-      "description": "Supplies {{token}} to [SpookySwap](https://spookyswap.finance/farms) to earn BOO. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [SpookySwap](https://spookyswap.finance/farms) 以赚取 BOO。收获到的奖励会被卖掉，换为更多 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Spookyswap Reinvest",

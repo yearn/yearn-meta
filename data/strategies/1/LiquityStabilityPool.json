@@ -11,11 +11,11 @@
     },
     "fr": {
       "name": "LiquityUSD Stability Pool Strategy",
-      "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur la pool de stabilité de Liquity pour gagner des récompenses LQTY et des ETH (à partir de liquidations). Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "LiquityUSD Stability Pool Strategy",
-      "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} al grupo de estabilidad de Liquity para ganar recompensas LQTY y ETH (de liquidaciones de tesoros). Los tokens ganados se cosechan y venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "LiquityUSD Stability Pool Strategy",
@@ -31,7 +31,7 @@
     },
     "tr": {
       "name": "LiquityUSD Stability Pool Strategy",
-      "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+      "description": "LQTY ödülleri ve ETH(hazinedeki tasfiyelerinden) kazanmak için Liquity'nin Stability Havuzuna {{token}} sağlar. Kazanılan jetonlar toplanır ve stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "LiquityUSD Stability Pool Strategy",
@@ -39,11 +39,11 @@
     },
     "zh": {
       "name": "LiquityUSD Stability Pool Strategy",
-      "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 Liquity 的稳定池赚取 LQTY 奖励和 ETH（来自清算）。收获 LQTY 卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "LiquityUSD Stability Pool Strategy",
-      "description": "Supplies {{token}} to Liquity's Stability Pool to earn LQTY rewards and ETH (from trove liquidations). Earned tokens are harvested and sold for more {{token}} which is deposited back into the strategy."
+      "description": "LQTY पुरस्कार और ETH (ट्रोव परिसमापन से) अर्जित करने के लिए Liquity के स्थिरता पूल को {{token}} की आपूर्ति करता है। अर्जित टोकन वसूल किया जाता है और अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "LiquityUSD Stability Pool Strategy",

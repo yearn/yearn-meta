@@ -90,11 +90,11 @@
     },
     "fr": {
       "name": "Curve Boost",
-      "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to collect any available tokens and earn enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Fournit du {{token}} sur [Curve Finance](https://curve.fi) et le stake dans la jauge pour collecter tous les jetons disponibles et gagner des récompenses CRV améliorées grâce au [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Les jetons gagnés sont récoltés, vendus pour plus de {{token}} qui sont ensuite redéposés dans la stratégie."
     },
     "es": {
       "name": "Curve Boost",
-      "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to collect any available tokens and earn enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "Suministra {{token}} a [Curve Finance](https://curve.fi) y lo mete en staking en el gauge para recolectar cualquier token disponible y ganar recompensas de CRV mejoradas gracias a [impulso de CRV bloqueado](https://resources.curve.fi/guides/boosting-your-crv-rewards). Los tokens ganados se cosechan, se venden por más {{token}} que se deposita nuevamente en la estrategia."
     },
     "de": {
       "name": "Curve Boost",
@@ -110,7 +110,7 @@
     },
     "tr": {
       "name": "Curve Boost",
-      "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to collect any available tokens and earn enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "[Curve Finance](https://curve.fi)'ye {{token}} sağlar ve [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards) sayesinde mevcut jetonları toplamak ve gelişmiş CRV ödülleri kazanmak için bunu ölçülü olarak kullanır. Kazanılan jetonlar toplanır, stratejiye geri yatırılan daha fazla {{token}} karşılığında satılır."
     },
     "vi": {
       "name": "Curve Boost",
@@ -118,11 +118,11 @@
     },
     "zh": {
       "name": "Curve Boost",
-      "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to collect any available tokens and earn enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "将 {{token}} 存入 [Curve Finance](https://curve.fi) 再质押到 gauge，在[锁仓的 CRV](https://resources.curve.fi/guides/boosting-your-crv-rewards) 的作用下赚取提升的 CRV 和其他代币奖励。收获奖励卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Curve Boost",
-      "description": "Supplies {{token}} to [Curve Finance](https://curve.fi) and stakes it in gauge to collect any available tokens and earn enhanced CRV rewards thanks to [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards). Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "{{token}} को [Curve Finance](https://curve.fi) पर सप्लाई कर के गेज पर स्टेक करता है, किसी भी उपलब्ध टोकन को इकट्ठा करने और [locked CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards) की बदौलत बेहतर CRV रिवॉर्ड अर्जित करने के लिए। अर्जित टोकन वसूल किया जाता है और अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Curve Boost",
