@@ -50,7 +50,7 @@
     },
     "hi": {
       "name": "veDAO Reinvest",
-      "description": "Supplies {{token}} to [veDAO](https://www.vedao.io) to earn WEVE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "WEVE कमाने के लिए {{token}} को [veDAO](https://www.vedao.io) पर सप्लाई करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "veDAO Reinvest",

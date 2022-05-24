@@ -46,7 +46,7 @@
     },
     "hi": {
       "name": "Solidex Volatile Yield Seeker",
-      "description": "Supplies {{token}} to a [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool to earn SOLID and SEX. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "SOLID और SEX अर्जित करने के लिए {{token}} को [Solidex Finance](https://solidexfinance.com/#/pools) Volatile Pool की आपूर्ति करता है। अर्जित टोकन वसूल किया है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Solidex Volatile Yield Seeker",

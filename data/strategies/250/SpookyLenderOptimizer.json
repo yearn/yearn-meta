@@ -43,7 +43,7 @@
     },
     "hi": {
       "name": "Boo Lender Optimizer",
-      "description": "Stakes {{token}} in [SpookySwap](https://spookyswap.finance/pools) to receive xBOO which is staked to earn tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy. Strategy automatically switches to the most profitable xBOO staking pool."
+      "description": "xBOO प्राप्त करने के लिए {{token}} को [SpookySwap](https://spookyswap.finance/pools) में दांव पर लगाता है जो टोकन अर्जित करने के लिए दांव पर लगाया जाता है। अर्जित वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है। रणनीति स्वचालित रूप से सबसे अधिक लाभदायक xBOO स्टेकिंग पूल में बदल जाती है।"
     },
     "ja": {
       "name": "Boo Lender Optimizer",

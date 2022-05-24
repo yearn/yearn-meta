@@ -58,7 +58,7 @@
     },
     "hi": {
       "name": "Geist Folding",
-      "description": "Supplies and borrows {{token}} on [Geist Finance](https://geist.finance/deposit) simultaneously to earn GEIST. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "आपूर्ति और उधार {{token}} [Geist Finance](https://geist.finance/deposit) पर एक साथ GEIST अर्जित करने के लिए। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Geist Folding",
