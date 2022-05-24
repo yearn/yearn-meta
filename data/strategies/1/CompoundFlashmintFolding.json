@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Compound Finance Flashmint Folding",
-      "description": "在 [Compound Finance](https://app.compound.finance) 同时存入和借出 {{token}} 赚取 COMP 奖励。在同一个仓位上在 [MakerDAO](https://oasis.app) 上使用 flashmint 铸造 DAI 以提升 APY。收获奖励换为更多的 {{token}} 并进行复投。"
+      "description": "在 [Compound Finance](https://app.compound.finance) 同时存入和借出 {{token}} 赚取 COMP 奖励。Flashmint 可以被用于在 [MakerDAO](https://oasis.app) 铸造 DAI，闪电贷借出，循环仓位以提升 APY。收获奖励会被换为 {{token}} 再进行复投。"
     },
     "hi": {
       "name": "Compound Finance Flashmint Folding",

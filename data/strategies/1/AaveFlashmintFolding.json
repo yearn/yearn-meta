@@ -45,7 +45,7 @@
     },
     "zh": {
       "name": "Aave Flashmint Folding",
-      "description": "同时在 [AAVE](https://app.aave.com/home) 上存入和借出 {{token}} 以赚取尽可能多的 stkAAVE。 在同一个仓位通过 Flashmint 在 [MakerDAO](https://oasis.app) 铸造 DAI，提升 APY。收获奖励换为 {{token}} 再进行复投。"
+      "description": "同时在 [AAVE](https://app.aave.com/home) 上存入和借出 {{token}} 以赚取尽可能多的 stkAAVE。 Flashmint 可以被用于在 [MakerDAO](https://oasis.app) 铸造 DAI，闪电贷借出，循环仓位以提升 APY。收获奖励会被换为 {{token}} 再进行复投。"
     },
     "hi": {
       "name": "Aave Flashmint Folding",

@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Idle Finance Reinvest",
-      "description": "将 {{token}} 存入 [Idle Finance](https://idle.finance) 赚取 IDLE 和 COMP。收获 IDLE 和 COMP 卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Idle Finance](https://idle.finance) 赚取 IDLE 和 COMP。收获代币奖励后，卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Idle Finance Reinvest",

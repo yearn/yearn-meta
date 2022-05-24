@@ -56,7 +56,7 @@
     },
     "zh": {
       "name": "Curve Yield Seeker",
-      "description": "将 {{token}} 存入 [Curve Finance](https://curve.fi) 赚取 CRV。收获 CRV 卖掉换为更多的 {{token}} 并进行复投。策略会自动调整到收益最高的 Curve 池。"
+      "description": "将 {{token}} 存入 [Curve Finance](https://curve.fi) 赚取 CRV。收获代币后，卖掉换为更多的 {{token}} 并进行复投。策略会自动调整到收益最高的 Curve 池。"
     },
     "hi": {
       "name": "Curve Yield Seeker",

@@ -49,7 +49,7 @@
     },
     "zh": {
       "name": "Compound Finance Flashloan Folding",
-      "description": "在 [Compound Finance](https://app.compound.finance) 上同时存入和借出 {{token}} 赚取 COMP 奖励。收获奖励换为更多的 {{token}} 并进行复投。在 [dYdX](https://margin.dydx.exchange/markets/overview) 上使用闪电贷借出更多的 {{token}} 来提升 APY。"
+      "description": "在 [Compound Finance](https://app.compound.finance) 上同时存入和借出 {{token}} 赚取 COMP 奖励。收获奖励后卖掉，换为更多的 {{token}} 并进行复投。闪电贷被用在 [dYdX](https://margin.dydx.exchange/markets/overview) 上来借出更多的 {{token}} 以提升 APY。"
     },
     "hi": {
       "name": "Compound Finance Flashloan Folding",

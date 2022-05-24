@@ -42,7 +42,7 @@
     },
     "zh": {
       "name": "Iron Bank Enhanced Compound Finance Lending",
-      "description": "将 {{token}} 存入 [Compound](https://app.compound.finance) 并在 [Iron Bank](https://docs.cream.finance/iron-bank/iron-bank) 长期借出更多的 {{token}} 也存入 Compound 赚取 COMP。收获 COMP 卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Compound](https://app.compound.finance) 并在 [Iron Bank](https://docs.cream.finance/iron-bank/iron-bank) 长期借出更多的 {{token}} ，然后存入 Compound 以赚取 COMP。收获的代币奖励会被卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Iron Bank Enhanced Compound Finance Lending",

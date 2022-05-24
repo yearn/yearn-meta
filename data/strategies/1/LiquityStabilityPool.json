@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "LiquityUSD Stability Pool Strategy",
-      "description": "将 {{token}} 存入 Liquity 的稳定池赚取 LQTY 奖励和 ETH（来自清算）。收获 LQTY 卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 Liquity 的稳定池赚取 LQTY 奖励和 ETH（来自清算）。收获代币后，卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "LiquityUSD Stability Pool Strategy",

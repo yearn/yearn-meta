@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",
-      "description": "将 {{token}} 存入 [AAVE](https://app.aave.com/home) 和 [C.R.E.A.M.](https://app.cream.finance/) 收货奖励卖掉换为更多的 {{token}} 再进行复投。"
+      "description": "将 {{token}} 存入 [AAVE](https://app.aave.com/home) 和 [C.R.E.A.M.](https://app.cream.finance/) 以赚取利率和质押的 AAVE 代币。收获奖励后，卖掉换为更多的 {{token}} 再进行复投。"
     },
     "hi": {
       "name": "Aave / C.R.E.A.M. Lender Optimizer",

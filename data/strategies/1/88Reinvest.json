@@ -47,7 +47,7 @@
     },
     "zh": {
       "name": "88 MPH Reinvest",
-      "description": "Supplies {{token}} to [88 MPH](https://88mph.app/earn) to earn a fixed-rate yield and MPH tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "存入 {{token}} 到 [88 MPH](https://88mph.app/earn) 以赚取固定率的收益和 MPH 代币。收获赚取到的奖励后，卖出换为更多的 {{token}} 然后复投到策略里。"
     },
     "hi": {
       "name": "88 MPH Reinvest",

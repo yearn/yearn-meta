@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Inverse Sushibar reinvest",
-      "description": "将 {{token}} 存入 [SushiBar](https://app.sushi.com/stake) 赚取协议收入，再将 xSUSHI 存入 [Inverse Finance](https://www.inverse.finance/anchor) 赚取 INV 奖励。收获 INV 卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [SushiBar](https://app.sushi.com/stake) 赚取协议收入，再将 xSUSHI 存入 [Inverse Finance](https://www.inverse.finance/anchor) 并借出以赚取 INV 奖励。收获贷币奖励后，卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Inverse Sushibar reinvest",

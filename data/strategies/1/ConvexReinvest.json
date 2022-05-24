@@ -118,7 +118,7 @@
     },
     "zh": {
       "name": "Convex Reinvest",
-      "description": "将 {{token}} 存入 [Convex Finance](https://www.convexfinance.com/stake) 赚取 CRV 和 CVX （及其他）奖励。收获奖励换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Convex Finance](https://www.convexfinance.com/stake) 赚取 CRV 和 CVX （及其他代币的奖励）。收获奖励后，卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Convex Reinvest",
