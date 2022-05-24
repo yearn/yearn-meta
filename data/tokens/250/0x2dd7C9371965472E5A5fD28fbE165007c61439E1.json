@@ -31,7 +31,7 @@
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains MIM, fUSDT, and USDC."
     },
     "zh": {
-      "description": "Curve 的流动性池代币。代币持有者赚取交易费，将代币存入 Curve gauge 还能获得 CRV 奖励。其中包含 MIM, fUSDT, 和 USDC。"
+      "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含 MIM, fUSDT, 和 USDC。"
     },
     "hi": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains MIM, fUSDT, and USDC."
