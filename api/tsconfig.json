@@ -46,8 +46,8 @@
     "**/*.ts",
     "**/*.tsx",
     "**/*.d.tsx",
-	"public",
-	"next.config.js",
-	".eslintrc.js"
+    "public",
+    "next.config.js",
+    ".eslintrc.js"
   ]
 }
