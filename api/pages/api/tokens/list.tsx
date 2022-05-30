@@ -7,12 +7,12 @@ function readFiles(): unknown {
 	let		data = {};
 	let		file = '';
 	try {
-		file = fs.readFileSync(path.resolve(`${dir}`, `tokenList.json`), 'utf8');
+		file = fs.readFileSync(path.resolve(`${dir}`, 'tokenList.json'), 'utf8');
 	} catch(e) {
 		return null;
 	}
 	const	jsonFileContent = JSON.parse(file);
-	delete jsonFileContent['$schema']
+	delete jsonFileContent.$schema;
 	data = jsonFileContent;
 	return data;
 }
