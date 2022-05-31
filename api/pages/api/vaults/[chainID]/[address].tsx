@@ -1,6 +1,7 @@
 import	fs										from	'fs';
 import	path									from	'path';
 import	type {NextApiRequest, NextApiResponse}	from	'next';
+import	allowCors								from	'lib/allowCors';
 
 const	dir = '../data/vaults';
 function readFiles(chainID: number, address: string): unknown {
@@ -16,7 +17,7 @@ function readFiles(chainID: number, address: string): unknown {
 	return data;
 }
 
-export default (req: NextApiRequest, res: NextApiResponse): void => {
+async function handler(req: NextApiRequest, res: NextApiResponse): Promise<void> {
 	const	address = req.query.address;
 	const	chainID = Number(req.query.chainID || 1);
 	if (!address) {
@@ -29,4 +30,6 @@ export default (req: NextApiRequest, res: NextApiResponse): void => {
 		return;
 	}
 	res.status(200).json(data);
-};
+}
+
+export default allowCors(handler);

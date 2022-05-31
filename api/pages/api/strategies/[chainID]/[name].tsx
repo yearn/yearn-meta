@@ -1,6 +1,7 @@
 import	fs										from	'fs';
 import	path									from	'path';
 import	type {NextApiRequest, NextApiResponse}	from	'next';
+import	allowCors								from	'lib/allowCors';
 
 const	dir = '../data/strategies';
 function readFiles(chainID: number, name: string, localization: string): unknown {
@@ -31,7 +32,7 @@ function readFiles(chainID: number, name: string, localization: string): unknown
 	return data;
 }
 
-export default (req: NextApiRequest, res: NextApiResponse): void => {
+async function handler(req: NextApiRequest, res: NextApiResponse): Promise<void> {
 	const	name = req.query.name;
 	const	chainID = Number(req.query.chainID || 1);
 	const	localization = req.query.loc || 'en';
@@ -45,4 +46,6 @@ export default (req: NextApiRequest, res: NextApiResponse): void => {
 		return;
 	}
 	res.status(200).json(data);
-};
+}
+
+export default allowCors(handler);
