@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Iron Bank Lender Optimizer",
-      "description": "将 {{token}} 存入 [Iron Bank](https://beta.yearn.finance/#/ironbank) 赚取利息。收获奖励卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Iron Bank](https://beta.yearn.finance/#/ironbank) 赚取利息。收获奖励卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Iron Bank Lender Optimizer",

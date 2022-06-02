@@ -39,7 +39,7 @@
     },
     "zh": {
       "name": "Angle Reinvest",
-      "description": "Supplies {{token}} to [Angle Protocol](https://app.angle.money/#/slp) as a Standard Liquidity Provider for sanTokens which are staked to earn ANGLE. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "存入 {{token}} 到 [Angle Protocol](https://app.angle.money/#/slp) 做 sanToken 的流动性提供者，然后做质押以赚取 ANGLE。赚取到的代币被收获后，卖掉换为更多的 {{token}} 再进行复投。"
     },
     "hi": {
       "name": "Angle Reinvest",

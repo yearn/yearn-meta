@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Notional Reinvest",
-      "description": "将 {{token}} 存入 [Notional Finance](https://notional.finance/lend)  三个月赚取基于 {{token}} 的固定利息。到期后将收益继续存入 Notional 进行复投。"
+      "description": "将 {{token}} 存入 [Notional Finance](https://notional.finance/lend)  某一固定的时期以赚取基于 {{token}} 的固定利息。到期后将收益继续存入 Notional 进行复投。"
     },
     "hi": {
       "name": "Notional Reinvest",

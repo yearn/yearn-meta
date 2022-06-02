@@ -50,7 +50,7 @@
     },
     "zh": {
       "name": "Maker Delegate",
-      "description": "将 {{token}} 存入 [MakerDAO](https://oasis.app/borrow) 铸造 DAI。再把 DAI 放入 DAI yVault 赚取收益。"
+      "description": "将 {{token}} 存入 [MakerDAO](https://oasis.app/borrow) 来铸造 DAI。再把铸造出来的 DAI 放入 DAI yVault 赚取收益。"
     },
     "hi": {
       "name": "Maker Delegate",

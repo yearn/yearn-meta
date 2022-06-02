@@ -118,7 +118,7 @@
     },
     "zh": {
       "name": "Curve Boost",
-      "description": "将 {{token}} 存入 [Curve Finance](https://curve.fi) 再质押到 gauge，在[锁仓的 CRV](https://resources.curve.fi/guides/boosting-your-crv-rewards) 的作用下赚取提升的 CRV 和其他代币奖励。收获奖励卖掉换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Curve Finance](https://curve.fi) 再质押到 gauge，通过在[锁仓的 CRV boost](https://resources.curve.fi/guides/boosting-your-crv-rewards) 的作用下，赚取提升的 CRV 和其他代币奖励。收获奖励后，卖掉换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Curve Boost",

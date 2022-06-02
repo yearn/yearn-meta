@@ -17,7 +17,7 @@
     },
     "de": {
       "name": "Iron Bank",
-      "description": "Iron Bank ist ein dezentralisiertes Kreditprotokoll, das Einzelpersonen, Institutionen und Protokollen den Zugang zu Finanzdienstleistungen ermöglicht. Es wurde von C.R.E.A.M. Finance in Zusammenarbeit mit Yearn Finance entwickelt und ist ein erlaubnisfreies, quelloffenes und blockchain-agnostisches Protokoll, das Benutzern auf Ethereum und Fantom dient. Nutzer können ihr Vermögen auf Iron Bank hinterlegen, um eine Rendite zu erzielen, ähnlich wie bei einem traditionellen Sparkonto. Der Unterschied zwischen Iron Bank und C.R.E.A.M. v1 besteht darin, dass in Iron Bank vertrauenswürdige Protokolle einen Kredit ohne Sicherheiten aufnehmen können, wenn sie auf der Whitelist stehen."
+      "description": "Iron Bank ist ein dezentralisiertes Kreditprotokoll, das Einzelpersonen, Institutionen und Protokollen den Zugang zu Finanzdienstleistungen ermöglicht. Es wurde von Cream in Zusammenarbeit mit Yearn Finance entwickelt und ist ein erlaubnisfreies, quelloffenes und blockchain-agnostisches Protokoll, das Benutzern auf Ethereum und Fantom dient. Nutzer können ihr Vermögen auf Iron Bank hinterlegen, um eine Rendite zu erzielen, ähnlich wie bei einem traditionellen Sparkonto. Der Unterschied zwischen Iron Bank und Cream v1 besteht darin, dass in Iron Bank vertrauenswürdige Protokolle einen Kredit ohne Sicherheiten aufnehmen können, wenn sie auf der Whitelist stehen."
     },
     "pt": {
       "name": "Iron Bank",

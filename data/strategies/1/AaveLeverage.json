@@ -43,7 +43,7 @@
     },
     "zh": {
       "name": "Aave Flashloan Folding",
-      "description": "同时在 [Aave](https://app.aave.com/markets) 存入和借出 {{token}} 赚取 stkAAVE 奖励。收获奖励卖掉换为更多的 {{token}} 并进行复投。在 [dYdX](https://margin.dydx.exchange/markets/overview) 上使用闪电贷借出更多的 {{token}} 提升 APY。"
+      "description": "同时在 [Aave](https://app.aave.com/markets) 存入和借出 {{token}} 赚取 stkAAVE 奖励。收获奖励后，卖掉换为更多的 {{token}} 并进行复投。为了提升 APY，闪电贷被用在 [dYdX](https://margin.dydx.exchange/markets/overview) 上以借出更多的 {{token}}。"
     },
     "hi": {
       "name": "Aave Flashloan Folding",

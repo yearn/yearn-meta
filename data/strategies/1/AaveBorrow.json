@@ -44,7 +44,7 @@
     },
     "zh": {
       "name": "Aave Borrow",
-      "description": "将 {{token}} 存入 [AAVE](https://app.aave.com/home) 赚取利息和 stkAAVE 奖励。stAAVE 解锁后，卖掉换为更多的 {{token}} 并进行复投。同时以存款资产作为抵押品，借出其他资产放入对应的 yVault 产生收益。"
+      "description": "将 {{token}} 存入 [AAVE](https://app.aave.com/home) 赚取利息和 stkAAVE 奖励。stAAVE 解锁后，卖掉换为更多的 {{token}} 并进行复投。此策略同时以存款资产作为抵押品，借出其它资产放入对应的 yVault 产生收益。"
     },
     "hi": {
       "name": "Aave Borrow",

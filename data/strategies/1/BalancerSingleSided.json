@@ -56,7 +56,7 @@
     },
     "zh": {
       "name": "Single Sided Balancer",
-      "description": "将 {{token}} 存入 [Balancer](https://app.balancer.fi) 的稳定池，赚取 BAL 代币奖励和交易手续费。收获奖励换为更多的 {{token}} 并进行复投。"
+      "description": "将 {{token}} 存入 [Balancer](https://app.balancer.fi) 的稳定池以赚取 BAL 代币奖励和交易手续费。收获奖励后，卖掉，换为更多的 {{token}} 并进行复投。"
     },
     "hi": {
       "name": "Single Sided Balancer",
