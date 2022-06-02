@@ -13,6 +13,7 @@ function readFiles(chainID: number, address: string): unknown {
 		return null;
 	}
 	const	jsonFileContent = JSON.parse(file);
+	jsonFileContent.address = (file.split('.')[0]);
 	data = jsonFileContent;
 	return data;
 }

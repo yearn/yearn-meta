@@ -10,6 +10,7 @@ function readFiles(chainID: number): unknown[] {
 	for (const file of files) {
 		if (path.extname(file) !== '.json') continue;
 		const	jsonFileContent = JSON.parse(fs.readFileSync(path.resolve(`${dir}/${chainID}`, `${file}`), 'utf8'));
+		jsonFileContent.address = (file.split('.')[0]);
 		all.push(jsonFileContent);
 	}
 	return all;

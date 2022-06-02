@@ -14,6 +14,7 @@ function readFiles(chainID: number, address: string, localization: string): unkn
 		return null;
 	}
 	const	jsonFileContent = JSON.parse(file);
+	jsonFileContent.address = (file.split('.')[0]);
 	if (localization === 'all') {
 		data = jsonFileContent;
 		hasData = true;
