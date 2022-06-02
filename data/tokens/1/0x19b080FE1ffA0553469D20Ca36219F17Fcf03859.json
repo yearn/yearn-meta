@@ -34,7 +34,7 @@
       "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含由 Iron Bank 发行的合成欧元 ibEUR，以及由 Synthetix 发行的合成欧元 sEUR。"
     },
     "hi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibEUR, a synthetic euro minted from the Iron Bank, and synthetic euro (sEUR) minted on the Synthetix platform."
+      "description": "यह टोकन Curve लिक्विडिटी पूल का प्रतिनिधित्व करता है। धारक पूल में व्यापार करने वाले उपयोगकर्ताओं से शुल्क कमाते हैं, और CRV उत्सर्जन अर्जित करने के लिए LP को Curve के गेज में भी जमा कर सकते हैं। इस पूल में ibEUR, Iron Bank से ढाला गया सिंथेटिक यूरो और Synthetix प्लेटफॉर्म पर ढाला गया सिंथेटिक यूरो (sEUR) शामिल है।"
     },
     "ja": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibEUR, a synthetic euro minted from the Iron Bank, and synthetic euro (sEUR) minted on the Synthetix platform."
