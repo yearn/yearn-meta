@@ -1,6 +1,7 @@
 import	fs										from	'fs';
 import	path									from	'path';
 import	type {NextApiRequest, NextApiResponse}	from	'next';
+import	allowCors								from	'lib/allowCors';
 
 const	dir = '../data/tokens';
 function readFiles(): unknown {
@@ -17,11 +18,13 @@ function readFiles(): unknown {
 	return data;
 }
 
-export default (_req: NextApiRequest, res: NextApiResponse): void => {
+async function handler(_req: NextApiRequest, res: NextApiResponse): Promise<void> {
 	const	data = readFiles();
 	if (!data) {
 		res.status(404).json({error: 'Invalid token address'});
 		return;
 	}
 	res.status(200).json(data);
-};
+}
+
+export default allowCors(handler);

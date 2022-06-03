@@ -1,8 +1,9 @@
 import	fs										from	'fs';
 import	path									from	'path';
 import	type {NextApiRequest, NextApiResponse}	from	'next';
+import	allowCors								from	'lib/allowCors';
 
-const	dir = '../data/strategies';
+const	dir = '../data/protocols';
 function readFiles(chainID: number, name: string, localization: string): unknown {
 	let		hasData = false;
 	let		data = {};
@@ -31,18 +32,20 @@ function readFiles(chainID: number, name: string, localization: string): unknown
 	return data;
 }
 
-export default (req: NextApiRequest, res: NextApiResponse): void => {
+async function handler(req: NextApiRequest, res: NextApiResponse): Promise<void> {
 	const	name = req.query.name;
 	const	chainID = Number(req.query.chainID || 1);
 	const	localization = req.query.loc || 'en';
 	if (!name) {
-		res.status(404).json({error: 'No strategy name provided'});
+		res.status(404).json({error: 'No protocol provided'});
 		return;
 	}
 	const	data = readFiles(chainID, name as string, localization as string);
 	if (!data) {
-		res.status(404).json({error: 'Invalid strategy name'});
+		res.status(404).json({error: 'Invalid protocol'});
 		return;
 	}
 	res.status(200).json(data);
-};
+}
+
+export default allowCors(handler);

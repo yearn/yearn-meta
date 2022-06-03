@@ -1,25 +1,26 @@
 import	fs										from	'fs';
 import	path									from	'path';
 import	type {NextApiRequest, NextApiResponse}	from	'next';
+import	allowCors								from	'lib/allowCors';
 
-const	dir = '../data/protocols';
-function readFiles(chainID: number, name: string, localization: string): unknown {
+const	dir = '../data/tokens';
+function readFiles(chainID: number, address: string, localization: string): unknown {
 	let		hasData = false;
 	let		data = {};
 	let		file = '';
 	try {
-		file = fs.readFileSync(path.resolve(`${dir}/${chainID}`, `${name}.json`), 'utf8');
+		file = fs.readFileSync(path.resolve(`${dir}/${chainID}`, `${address}.json`), 'utf8');
 	} catch(e) {
 		return null;
 	}
 	const	jsonFileContent = JSON.parse(file);
+	jsonFileContent.address = (file.split('.')[0]);
 	if (localization === 'all') {
 		data = jsonFileContent;
 		hasData = true;
 	} else {
 		if (jsonFileContent.localization[localization]) {
 			jsonFileContent.description = jsonFileContent.localization[localization].description;
-			jsonFileContent.name = jsonFileContent.localization[localization].name;
 			delete jsonFileContent.localization;
 			data = jsonFileContent;
 			hasData = true;
@@ -31,18 +32,20 @@ function readFiles(chainID: number, name: string, localization: string): unknown
 	return data;
 }
 
-export default (req: NextApiRequest, res: NextApiResponse): void => {
-	const	name = req.query.name;
+async function handler(req: NextApiRequest, res: NextApiResponse): Promise<void> {
+	const	address = req.query.address;
 	const	chainID = Number(req.query.chainID || 1);
 	const	localization = req.query.loc || 'en';
-	if (!name) {
-		res.status(404).json({error: 'No protocol provided'});
+	if (!address) {
+		res.status(404).json({error: 'No token address provided'});
 		return;
 	}
-	const	data = readFiles(chainID, name as string, localization as string);
+	const	data = readFiles(chainID, address as string, localization as string);
 	if (!data) {
-		res.status(404).json({error: 'Invalid protocol'});
+		res.status(404).json({error: 'Invalid token address'});
 		return;
 	}
 	res.status(200).json(data);
-};
+}
+
+export default allowCors(handler);
