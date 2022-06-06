@@ -1,49 +1,49 @@
 {
   "$schema": "token",
   "categories": ["Curve LP Tokens"],
-  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network.",
+  "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network.",
   "website": "https://curve.fi/factory-crypto/39",
   "tokenSymbolOverride": "crvKP3R-ETH",
   "tokenNameOverride": "Curve KP3R-ETH Pool",
   "localization": {
     "en": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "fr": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "es": {
-      "description": "Este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los medidores de Curve para obtener emisiones de CRV. Este pool contiene KP3R y ETH."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "de": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "pt": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "el": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "tr": {
-      "description": "Bu jeton, bir Curve likidite havuzunu temsil eder. Sahipler, havuzda işlem yapan kullanıcılardan ücret alır ve ayrıca CRV emisyonları kazanmak için LP'yi Curve'un göstergelerine yatırabilir. Bu meta havuzu, ETH ve KP3R."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "vi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "zh": {
-      "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含元池代币 ETH 和 KP3R。"
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "hi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "ja": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "id": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     },
     "ru": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
+      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R, an ERC-20 governance token for the Keep3r Network."
     }
   }
 }
