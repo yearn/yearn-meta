@@ -2,7 +2,7 @@
   "$schema": "token",
   "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ibKRW and USDC.",
-  "website": "https://curve.fi/factory-crypto/39",
+  "website": "https://curve.fi/factory-crypto/32",
   "tokenSymbolOverride": "crvibKRW-USDC",
   "tokenNameOverride": "Curve ibKRW-USDC Pool",
   "localization": {
