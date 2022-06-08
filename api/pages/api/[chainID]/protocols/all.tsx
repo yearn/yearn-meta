@@ -1,8 +1,9 @@
 import	fs										from	'fs';
 import	path									from	'path';
 import	type {NextApiRequest, NextApiResponse}	from	'next';
+import	allowCors								from	'lib/allowCors';
 
-const	dir = '../data/strategies';
+const	dir = '../data/protocols';
 function readFiles(chainID: number, localization: string): unknown[] {
 	const	all = [];
 	const	files = fs.readdirSync(path.resolve(`${dir}/${chainID}`));
@@ -23,8 +24,10 @@ function readFiles(chainID: number, localization: string): unknown[] {
 	return all;
 }
 
-export default (req: NextApiRequest, res: NextApiResponse): void => {
+async function handler(req: NextApiRequest, res: NextApiResponse): Promise<void> {
 	const	chainID = Number(req.query.chainID || 1);
 	const	localization = req.query.loc || 'en';
 	res.status(200).json(readFiles(chainID, localization as string));
-};
+}
+
+export default allowCors(handler);

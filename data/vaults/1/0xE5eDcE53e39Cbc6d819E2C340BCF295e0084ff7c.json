@@ -1,0 +1,14 @@
+{
+  "$schema": "vault",
+  "comment": "Curve ibEUR-USDC Pool yVault",
+  "hideAlways": false,
+  "depositsDisabled": false,
+  "withdrawalsDisabled": false,
+  "order": 93,
+  "migrationAvailable": false,
+  "allowZapIn": true,
+  "allowZapOut": true,
+  "retired": false,
+  "apyTypeOverride": "new",
+  "displayName": "Curve ibEUR-USDC"
+}
