@@ -34,7 +34,7 @@
       "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含元池 sBTC-Crv (sBTC, WBTC, renBTC) 和 pBTC，可通过 pToken 网络随时将 pBTC 换为 BTC。"
     },
     "hi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and pBTC, which is redeemable for native BTC at any time via pToken's network of secure sandboxes."
+      "description": "यह टोकन Curve लिक्विडिटी पूल का प्रतिनिधित्व करता है। धारक पूल में व्यापार करने वाले उपयोगकर्ताओं से शुल्क कमाते हैं, और CRV उत्सर्जन अर्जित करने के लिए LP को Curve के गेज में भी जमा कर सकते हैं। इस मेटापूल में sBTC-Crv (sBTC, WBTC, और renBTC) और pBTC शामिल हैं, जो किसी भी समय pToken के सुरक्षित सैंडबॉक्स के नेटवर्क के माध्यम से देशी BTC के लिए प्रतिदेय है।"
     },
     "ja": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and pBTC, which is redeemable for native BTC at any time via pToken's network of secure sandboxes."
