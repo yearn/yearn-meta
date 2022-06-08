@@ -34,7 +34,7 @@
       "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含由 Iron Bank 发行的合成瑞士法郎 ibCHF 和由 Synthetix 发行的合成瑞士法郎 sCHF。"
     },
     "hi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibCHF, a synthetic Swiss franc minted from the Iron Bank, and synthetic Swiss franc (sCHF) minted on the Synthetix platform."
+      "description": "यह टोकन Curve लिक्विडिटी पूल का प्रतिनिधित्व करता है। धारक पूल में व्यापार करने वाले उपयोगकर्ताओं से शुल्क कमाते हैं, और CRV उत्सर्जन अर्जित करने के लिए LP को Curve के गेज में जमा कर सकते हैं। इस पूल में ibCHF, Iron Bank से खनन किया गया सिंथेटिक स्विस फ़्रैंक और Synthetix प्लेटफ़ॉर्म पर ढाला गया सिंथेटिक स्विस फ़्रैंक (sCHF) शामिल है।"
     },
     "ja": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibCHF, a synthetic Swiss franc minted from the Iron Bank, and synthetic Swiss franc (sCHF) minted on the Synthetix platform."
