@@ -34,7 +34,7 @@
       "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含 FEI, FRAX, 和 alUSD，三个去中心化美元稳定币。"
     },
     "hi": {
-      "description": "यह टोकन Curve लिक्विडिटी पूल का प्रतिनिधित्व करता है। धारक पूल में व्यापार करने वाले उपयोगकर्ताओं से शुल्क कमाते हैं, और CRV उत्सर्जन अर्जित करने के लिए LP को Curve के गेज में जमा कर सकते हैं। इस पूल में FEI, FRAX और alUSD, तीन विकेन्द्रीकृत डॉलर-पेग्ड स्टैब्लॉक्स शामिल हैं।"
+      "description": "यह टोकन Curve लिक्विडिटी पूल का प्रतिनिधित्व करता है। धारक पूल में व्यापार करने वाले उपयोगकर्ताओं से शुल्क कमाते हैं, और CRV उत्सर्जन अर्जित करने के लिए LP को Curve के गेज में जमा कर सकते हैं। इस पूल में FEI, FRAX और alUSD, तीन विकेन्द्रीकृत डॉलर-पेग्ड स्थिर मुद्रा शामिल हैं।"
     },
     "ja": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains FEI, FRAX, and alUSD, three decentralized dollar-pegged stablecoins."
