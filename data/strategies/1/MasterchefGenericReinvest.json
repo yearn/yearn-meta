@@ -2,7 +2,10 @@
   "$schema": "strategy",
   "name": "Masterchef Generic Reinvest",
   "description": "Supplies {{token}} to a generic masterchef genesis pool to earn protocol tokens. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": ["0x24F1f33901BcFfB38F5Ff9D0A453d8EeF36F8392"],
+  "addresses": [
+    "0x24F1f33901BcFfB38F5Ff9D0A453d8EeF36F8392",
+    "0xEcC95b2139096a23E0D63d9E604718C6b72F4d5f"
+  ],
   "protocols": [],
   "localization": {
     "en": {
