@@ -3,7 +3,9 @@
   "name": "Curve.fi pBTC/sbtcCRV",
   "symbol": "pBTC/sbtcCRV",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and pBTC, which is redeemable for native BTC at any time via pToken's network of secure sandboxes.",
-  "categories": ["Curve LP Tokens"],
+  "categories": [
+    "Curve LP Tokens"
+  ],
   "website": "https://www.curve.fi/pbtc/",
   "localization": {
     "en": {

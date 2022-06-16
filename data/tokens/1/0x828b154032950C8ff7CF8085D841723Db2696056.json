@@ -3,7 +3,9 @@
   "name": "Curve.fi Factory Plain Pool: stETH concentrated",
   "symbol": "STETHETH_C-f",
   "description": "This token represents a curve liquidity. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This curve pool contains stETH and WETH.",
-  "categories": ["Curve LP Tokens"],
+  "categories": [
+    "Curve LP Tokens"
+  ],
   "website": "https://curve.fi/factory/117",
   "localization": {
     "en": {

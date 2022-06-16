@@ -3,7 +3,9 @@
   "name": "Curve CRV-ETH",
   "symbol": "crvCRVETH",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains CRV and ETH. Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss.",
-  "categories": ["Curve LP Tokens"],
+  "categories": [
+    "Curve LP Tokens"
+  ],
   "website": "https://curve.fi/crveth/",
   "localization": {
     "en": {

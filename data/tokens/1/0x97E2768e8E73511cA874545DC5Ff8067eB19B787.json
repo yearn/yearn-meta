@@ -3,7 +3,9 @@
   "name": "Curve.fi USDK/3Crv",
   "symbol": "usdk3CRV",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and USDK.",
-  "categories": ["Curve LP Tokens"],
+  "categories": [
+    "Curve LP Tokens"
+  ],
   "website": "https://www.curve.fi/usdk/",
   "localization": {
     "en": {
