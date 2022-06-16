@@ -3,9 +3,7 @@
   "name": "Curve.fi Factory USD Metapool: TrueUSD",
   "symbol": "TUSD3CRV-f",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This factory metapool contains 3Crv (DAI, USDC, and USDT) and TrueUSD.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
+  "categories": ["Curve LP Tokens"],
   "website": "https://www.curve.fi/tusd/",
   "localization": {
     "en": {

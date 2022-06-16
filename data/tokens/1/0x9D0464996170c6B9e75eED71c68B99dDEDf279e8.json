@@ -3,9 +3,7 @@
   "name": "Curve.fi Factory Plain Pool: cvxCRV",
   "symbol": "cvxcrv-f",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains CRV, Curve's native governance token, and cvxCRV, Convex's tradable version of vote-escrowed CRV (veCRV).",
-  "categories": [
-    "Curve LP Tokens"
-  ],
+  "categories": ["Curve LP Tokens"],
   "website": "https://curve.fi/factory/22/",
   "localization": {
     "en": {

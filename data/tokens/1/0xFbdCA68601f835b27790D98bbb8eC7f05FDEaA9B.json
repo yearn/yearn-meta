@@ -3,9 +3,7 @@
   "name": "Curve.fi Factory BTC Metapool: ibBTC",
   "symbol": "ibbtc/sbtcCRV-f",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and ibBTC, a yield-bearing synthetic bitcoin from Badger Finance.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
+  "categories": ["Curve LP Tokens"],
   "website": "https://curve.fi/factory/60/",
   "localization": {
     "en": {

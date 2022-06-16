@@ -3,9 +3,7 @@
   "name": "Magic Internet Money",
   "symbol": "MIM",
   "description": "Abracadabra.money is a lending platform that accepts interest-bearing tokens such as Yearn Vaults as collateral to borrow a USD-pegged stablecoin, Magic Internet Money (MIM), that can then be used as any other traditional stablecoin. In this way, MIM helps unlock capital deposited in Yearn while still earning users yield on the underlying assets.",
-  "categories": [
-    "USD Stablecoin"
-  ],
+  "categories": ["USD Stablecoin"],
   "website": "https://abracadabra.money/",
   "localization": {
     "en": {

@@ -3,9 +3,7 @@
   "name": "Curve.fi Factory Crypto Pool: ibEUR/USDC",
   "symbol": "ibEURUSDC-f",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ibEUR and USDC.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
+  "categories": ["Curve LP Tokens"],
   "website": "https://curve.fi/factory-crypto/27",
   "localization": {
     "en": {

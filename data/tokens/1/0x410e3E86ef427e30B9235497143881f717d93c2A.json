@@ -3,9 +3,7 @@
   "name": "Curve.fi bBTC/sbtcCRV",
   "symbol": "bBTC/sbtcCRV",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and Binance BTC, a wrapped BTC minted by Binance.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
+  "categories": ["Curve LP Tokens"],
   "website": "https://www.curve.fi/bbtc/",
   "localization": {
     "en": {

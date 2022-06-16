@@ -3,9 +3,7 @@
   "name": "Curve.fi oBTC/sbtcCRV",
   "symbol": "oBTC/sbtcCRV",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains sBTC-Crv (sBTC, WBTC, and renBTC) and oBTC, an ERC-20 backed by native BTC via BoringDAO.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
+  "categories": ["Curve LP Tokens"],
   "website": "https://curve.fi/obtc/",
   "localization": {
     "en": {

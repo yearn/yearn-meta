@@ -3,9 +3,7 @@
   "name": "Curve.fi Factory Plain Pool: ibAUD/sAUD",
   "symbol": "ibAUD+sAUD-f",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibAUD, a synthetic Australian dollar minted from the Iron Bank, and synthetic Australian dollar (sAUD) minted on the Synthetix platform.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
+  "categories": ["Curve LP Tokens"],
   "website": "https://curve.fi/factory/29/",
   "localization": {
     "en": {

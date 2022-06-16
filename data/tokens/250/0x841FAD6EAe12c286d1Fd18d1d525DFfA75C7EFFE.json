@@ -3,9 +3,7 @@
   "name": "SpookyToken",
   "symbol": "BOO",
   "description": "SpookySwap Finance is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network. SpookySwap is focused on building a strong foundation with the BOO token as a governance token, diverse farms, a built in bridge, built in limit orders and user-centered service.",
-  "categories": [
-    "Governance Tokens"
-  ],
+  "categories": ["Governance Tokens"],
   "website": "https://spookyswap.finance",
   "localization": {
     "en": {

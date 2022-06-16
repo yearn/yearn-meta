@@ -3,9 +3,7 @@
   "name": "Curve.fi UST/3Crv",
   "symbol": "ust3CRV",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and UST. While still active, this pool also has a newer UST v2 Wormhole pool.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
+  "categories": ["Curve LP Tokens"],
   "website": "https://curve.fi/ust/",
   "localization": {
     "en": {
