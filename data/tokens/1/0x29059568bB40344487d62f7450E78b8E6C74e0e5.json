@@ -1,10 +1,12 @@
 {
   "$schema": "token",
-  "categories": ["Curve LP Tokens"],
+  "name": "Curve.fi Factory Crypto Pool: YFI/ETH",
+  "symbol": "YFIETH-f",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains YFI and ETH",
+  "categories": [
+    "Curve LP Tokens"
+  ],
   "website": "https://curve.fi/factory-crypto/8",
-  "tokenSymbolOverride": "YFI-ETH",
-  "tokenNameOverride": "Curve Factory YFI-ETH",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains YFI and ETH"

@@ -1,10 +1,12 @@
 {
   "$schema": "token",
-  "categories": ["Curve LP Tokens"],
+  "name": "Curve.fi Factory Plain Pool: MIM-UST",
+  "symbol": "MIM-UST-f",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains MIM and UST.",
+  "categories": [
+    "Curve LP Tokens"
+  ],
   "website": "https://curve.fi/factory/48",
-  "tokenSymbolOverride": "crvMIM-UST",
-  "tokenNameOverride": "Curve MIM-UST Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains MIM and UST."

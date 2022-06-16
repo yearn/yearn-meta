@@ -1,10 +1,12 @@
 {
   "$schema": "token",
-  "categories": ["Curve LP Tokens"],
+  "name": "Curve.fi HUSD/3Crv",
+  "symbol": "husd3CRV",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and Huobi USD.",
+  "categories": [
+    "Curve LP Tokens"
+  ],
   "website": "https://curve.fi/husd/",
-  "tokenSymbolOverride": "crvHUSD",
-  "tokenNameOverride": "Curve HUSD Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and Huobi USD."
