@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi Factory Plain Pool: Neutrino EUR",
-  "symbol": "EURN/EURT-f",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This curve pool contains EURN and EURT.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://curve.fi/factory/33",
+  "tokenSymbolOverride": "crvEURN",
+  "tokenNameOverride": "Curve Neutrino EURN Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This curve pool contains EURN and EURT."

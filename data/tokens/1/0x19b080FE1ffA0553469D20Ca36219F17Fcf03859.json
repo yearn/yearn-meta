@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi Factory Plain Pool: ibEUR/sEUR",
-  "symbol": "ibEUR+sEUR-f",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibEUR, a synthetic euro minted from the Iron Bank, and synthetic euro (sEUR) minted on the Synthetix platform.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://curve.fi/factory/3/",
+  "tokenSymbolOverride": "crvIBEUR",
+  "tokenNameOverride": "Curve ibEUR Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibEUR, a synthetic euro minted from the Iron Bank, and synthetic euro (sEUR) minted on the Synthetix platform."

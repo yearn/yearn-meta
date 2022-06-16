@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi Factory USD Metapool: wormhole v2 UST-3Pool",
-  "symbol": "UST_whv23CRV-f",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and UST.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://www.curve.fi/factory/53/",
+  "tokenSymbolOverride": "crvUST-W",
+  "tokenNameOverride": "Curve UST Wormhole Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and UST."

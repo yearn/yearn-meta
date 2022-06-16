@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi Factory Pool: alETH",
-  "symbol": "alETH+ETH-f",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and alETH (Alchemix ETH).",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://curve.fi/factory/38/",
+  "tokenSymbolOverride": "crvalETH",
+  "tokenNameOverride": "Curve alETH Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and alETH (Alchemix ETH)."

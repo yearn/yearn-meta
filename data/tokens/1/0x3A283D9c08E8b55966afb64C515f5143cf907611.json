@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve CVX-ETH",
-  "symbol": "crvCVXETH",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains CVX and ETH. Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://curve.fi/cvxeth/",
+  "tokenSymbolOverride": "crvCVXETH",
+  "tokenNameOverride": "Curve CVX-ETH Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains CVX and ETH. Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss."

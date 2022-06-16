@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi Factory USD Metapool: Origin Dollar",
-  "symbol": "OUSD3CRV-f",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and OUSD, a decentralzed stablecoin backed 1:1 by other stablecoins.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://curve.fi/factory/9",
+  "tokenSymbolOverride": "crvOUSD",
+  "tokenNameOverride": "Curve OUSD Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and OUSD, a decentralzed stablecoin backed 1:1 by other stablecoins."

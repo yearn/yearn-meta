@@ -1,11 +1,7 @@
 {
   "$schema": "token",
-  "name": "SushiToken",
-  "symbol": "SUSHI",
+  "categories": ["Governance Tokens"],
   "description": "Sushi began as a fork of the automated market-maker (AMM) Uniswap, but has since evolved into much more than just a fork. Sushi offers swaps, lending, a token launchpad, and more all on one decentralized, community-driven platform across more than 10 different chains. SUSHI tokens are used for protocol governance and can be staked for protocol fees.",
-  "categories": [
-    "Governance Tokens"
-  ],
   "website": "https://sushi.com/",
   "localization": {
     "en": {

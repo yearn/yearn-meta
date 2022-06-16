@@ -1,11 +1,7 @@
 {
   "$schema": "token",
-  "name": "Uniswap",
-  "symbol": "UNI",
+  "categories": ["Governance Tokens"],
   "description": "UNI is the governance token for Uniswap, an Automated Market Market DEX on the Ethereum blockchain. The UNI token allows token holders to participate in the governance of the protocol. Key decisions such as usage of the treasury or future upgrades can be decided through a governance vote.",
-  "categories": [
-    "Governance Tokens"
-  ],
   "website": "https://uniswap.org/",
   "localization": {
     "en": {

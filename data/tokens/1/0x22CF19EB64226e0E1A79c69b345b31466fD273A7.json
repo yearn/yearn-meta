@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi Factory Crypto Pool: ibGBP/USDC",
-  "symbol": "ibGBPUSDC-f",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ibGBP and USDC.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://curve.fi/factory-crypto/30",
+  "tokenSymbolOverride": "crvibGBP-USDC",
+  "tokenNameOverride": "Curve ibGBP-USDC Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ibGBP and USDC."

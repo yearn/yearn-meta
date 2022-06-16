@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi aDAI/aSUSD",
-  "symbol": "saCRV",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, and sUSD that are lent out to Aave, a decentralized money market on Ethereum.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://curve.fi/saave/",
+  "tokenSymbolOverride": "crvSAAVE",
+  "tokenNameOverride": "Curve sAave Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, and sUSD that are lent out to Aave, a decentralized money market on Ethereum."

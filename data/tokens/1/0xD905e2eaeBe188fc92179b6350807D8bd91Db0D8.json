@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi DAI/USDC/USDT/PAX",
-  "symbol": "ypaxCrv",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, USDT, and Paxos USD (PAX).",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://www.curve.fi/pax/",
+  "tokenSymbolOverride": "crvPAX",
+  "tokenNameOverride": "Curve PAX Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, USDT, and Paxos USD (PAX)."

@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi USD-BTC-ETH",
-  "symbol": "crv3crypto",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains USDT, WBTC, and WETH. Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://ftm.curve.fi/tricrypto",
+  "tokenSymbolOverride": "crvTricrypto",
+  "tokenNameOverride": "Curve triCrypto Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This crypto pool contains USDT, WBTC, and WETH. Please be aware that as crypto pools are composed of differently-priced assets, they are subject to impermanent loss."

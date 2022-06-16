@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi GUSD/3Crv",
-  "symbol": "gusd3CRV",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and Gemini USD, a regulated stablecoin issued by the US exchange, Gemini.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://www.curve.fi/gusd/",
+  "tokenSymbolOverride": "crvGUSD",
+  "tokenNameOverride": "Curve GUSD Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and Gemini USD, a regulated stablecoin issued by the US exchange, Gemini."

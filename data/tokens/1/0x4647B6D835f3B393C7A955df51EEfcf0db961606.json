@@ -1,12 +1,10 @@
 {
   "$schema": "token",
-  "name": "Curve.fi Factory Crypto Pool: KP3R/ETH",
-  "symbol": "KP3RETH-f",
+  "categories": ["Curve LP Tokens"],
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R.",
-  "categories": [
-    "Curve LP Tokens"
-  ],
   "website": "https://curve.fi/factory-crypto/39",
+  "tokenSymbolOverride": "crvKP3R-ETH",
+  "tokenNameOverride": "Curve KP3R-ETH Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This Curve v2 crypto pool contains ETH and KP3R."
