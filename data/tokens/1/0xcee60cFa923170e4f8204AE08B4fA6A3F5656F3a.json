@@ -1,10 +1,10 @@
 {
   "$schema": "token",
-  "categories": ["Curve LP Tokens"],
+  "name": "Curve LINK Pool",
+  "symbol": "crvLINK",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains LINK and synthetic LINK (sLINK) minted on the Synthetix platform.",
+  "categories": ["Curve LP Tokens"],
   "website": "https://www.curve.fi/link/",
-  "tokenSymbolOverride": "crvLINK",
-  "tokenNameOverride": "Curve LINK Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains LINK and synthetic LINK (sLINK) minted on the Synthetix platform."

@@ -1,10 +1,10 @@
 {
   "$schema": "token",
-  "categories": ["Curve LP Tokens"],
+  "name": "Curve MIM 3Pool",
+  "symbol": "crvMIM3Poo",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains MIM, fUSDT, and USDC.",
+  "categories": ["Curve LP Tokens"],
   "website": "https://arbitrum.curve.fi/factory/0",
-  "tokenSymbolOverride": "crvMIM3Pool",
-  "tokenNameOverride": "Curve MIM 3Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains MIM, fUSDT, and USDC."

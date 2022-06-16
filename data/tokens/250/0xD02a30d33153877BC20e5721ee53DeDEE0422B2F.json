@@ -1,10 +1,10 @@
 {
   "$schema": "token",
-  "categories": ["Curve LP Tokens"],
+  "name": "Curve Geist Pool",
+  "symbol": "crvGEIST",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to Geist, a decentralized money market on Fantom.",
+  "categories": ["Curve LP Tokens"],
   "website": "https://ftm.curve.fi/geist",
-  "tokenSymbolOverride": "crvGEIST",
-  "tokenNameOverride": "Curve Geist Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT that are lent out to Geist, a decentralized money market on Fantom."
