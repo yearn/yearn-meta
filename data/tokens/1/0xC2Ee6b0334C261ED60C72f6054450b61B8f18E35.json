@@ -1,10 +1,10 @@
 {
   "$schema": "token",
-  "categories": ["Curve LP Tokens"],
+  "name": "Curve RSV Pool",
+  "symbol": "crvRSV",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and RSV.",
+  "categories": ["Curve LP Tokens"],
   "website": "https://www.curve.fi/rsv/",
-  "tokenSymbolOverride": "crvRSV",
-  "tokenNameOverride": "Curve RSV Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and RSV."
