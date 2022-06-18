@@ -43,7 +43,7 @@
     },
     "hi": {
       "name": "Curve MIM 3Pool Staker",
-      "description": "Supplies {{token}} to [Abracadabra](https://abracadabra.money/farm-stand) to earn SPELL. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy."
+      "description": "SPELL कमाने के लिए {{token}} से [Abracadabra](https://abracadabra.money/farm-stand) की आपूर्ति करता है। अर्जित टोकन वसूल किया जाता है, अधिक {{token}} के लिए बेचा जाता है जिसे वापस रणनीति में जमा किया जाता है।"
     },
     "ja": {
       "name": "Curve MIM 3Pool Staker",
