@@ -1,14 +1,14 @@
 {
   "$schema": "vault",
-  "comment": "Curve MIM 3Pool",
+  "comment": "Curve 2Pool",
   "hideAlways": false,
   "depositsDisabled": false,
   "withdrawalsDisabled": false,
-  "order": 1,
+  "order": 2,
   "migrationAvailable": false,
   "allowZapIn": false,
   "allowZapOut": false,
   "retired": false,
   "apyTypeOverride": "new",
-  "displayName": "Curve MIM 3Pool"
+  "displayName": "Curve 2Pool"
 }
