@@ -1,9 +1,9 @@
 {
   "$schema": "token",
   "name": "Curve 2Pool",
-  "symbol": "2CRV",  
+  "symbol": "2CRV",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains USDT and USDC.",
-  "categories": ["Curve LP Tokens"],  
+  "categories": ["Curve LP Tokens"],
   "website": "https://arbitrum.curve.fi/2pool",
   "localization": {
     "en": {
