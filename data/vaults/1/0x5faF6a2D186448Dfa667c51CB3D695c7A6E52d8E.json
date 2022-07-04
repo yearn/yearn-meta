@@ -8,7 +8,6 @@
   "migrationAvailable": false,
   "allowZapIn": true,
   "allowZapOut": true,
-  "retired": false,
-  "apyOverride": 0.0364,
+  "retired": true,
   "displayName": "Curve stETH-WETH"
 }
