@@ -5,7 +5,7 @@
   "addresses": [
     "0xba794fb8F64Caedba76F592468bdFaE5147a6de0",
     "0x50b5501a4A1B1f89504dB0a75deF5f1060A98eA6"
-],
+  ],
   "protocols": ["Sushi", "InverseFinance"],
   "localization": {
     "en": {
