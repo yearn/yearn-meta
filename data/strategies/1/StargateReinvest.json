@@ -2,7 +2,11 @@
   "$schema": "strategy",
   "name": "Stargate Reinvest",
   "description": "Supplies {{token}} to [Stargate Finance](https://stargate.finance/stake) to earn STG. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
-  "addresses": ["0x7C85c0a8E2a45EefF98A10b6037f70daf714B7cf"],
+  "addresses": [
+    "0x7C85c0a8E2a45EefF98A10b6037f70daf714B7cf",
+    "0x2b982BE433093A80e1801A0Dd894994a170a5025",
+    "0x784b645977e141fF3c5EBA4788DE256FD1da6bCD"
+  ],
   "protocols": ["StargateFinance"],
   "localization": {
     "en": {
