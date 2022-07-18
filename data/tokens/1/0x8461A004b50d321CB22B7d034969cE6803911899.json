@@ -34,7 +34,7 @@
       "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含由 Iron Bank 发行的合成韩元 ibKRW，以及可以在 Synthetix 上铸造的合成韩元 sKRW。"
     },
     "hi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."
+      "description": "यह टोकन Curve लिक्विडिटी पूल का प्रतिनिधित्व करता है। धारक पूल में व्यापार करने वाले उपयोगकर्ताओं से शुल्क कमाते हैं, और CRV उत्सर्जन अर्जित करने के लिए LP को Curve के गेज में जमा कर सकते हैं। इस पूल में ibKRW, एक सिंथेटिक दक्षिण कोरियाई वोन है जिसे Iron Bank से ढाला गया है, और सिंथेटिक दक्षिण कोरियाई वोन (sKRW) को Synthetix प्लेटफॉर्म पर ढाला गया है।"
     },
     "ja": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ibKRW, a synthetic South Korean won minted from the Iron Bank, and synthetic South Korean won (sKRW) minted on the Synthetix platform."

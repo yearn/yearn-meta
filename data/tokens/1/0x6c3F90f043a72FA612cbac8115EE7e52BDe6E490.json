@@ -34,7 +34,7 @@
       "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含 DAI, USDC 和 USDT。这就是著名的 3Crv（也被成为 3pool），是 Curve 的基础元池。"
     },
     "hi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."
+      "description": "यह टोकन Curve लिक्विडिटी पूल का प्रतिनिधित्व करता है। धारक पूल में व्यापार करने वाले उपयोगकर्ताओं से शुल्क कमाते हैं, और CRV उत्सर्जन अर्जित करने के लिए LP को Curve के गेज में भी जमा कर सकते हैं। इस पूल में DAI, USDC और USDT शामिल हैं। इसे 3Crv (या 3pool) के रूप में भी जाना जाता है, और यह Curve के सभी स्थिर मुद्रा मेटापूल का आधार है।"
     },
     "ja": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains DAI, USDC, and USDT. It is also known as 3Crv (or 3pool), and is the basis for all of Curve's stablecoin metapools."

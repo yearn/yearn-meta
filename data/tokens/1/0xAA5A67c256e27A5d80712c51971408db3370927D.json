@@ -34,7 +34,7 @@
       "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含 3Crv (DAI, USDC, USDT) 和 DOLA。DOLA 是由 Inverse Finance (https://www.inverse.finance) 发行的稳定币，通过在其平台超额抵押其它加密资产铸造而成。 "
     },
     "hi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and DOLA, a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance (https://www.inverse.finance) as collateral."
+      "description": "यह टोकन Curve लिक्विडिटी पूल का प्रतिनिधित्व करता है। धारक पूल में व्यापार करने वाले उपयोगकर्ताओं से शुल्क कमाते हैं, और CRV उत्सर्जन अर्जित करने के लिए LP को Curve के गेज में जमा कर सकते हैं। इस मेटापूल में 3Crv (DAI, USDC, और USDT) और DOLA, एक सिंथेटिक USD स्थिर मुद्रा है, जिसे संपार्श्विक के रूप में Inverse Finance (https://www.inverse.finance) पर अन्य परिसंपत्तियों का उपयोग करके खनन किया जा सकता है।"
     },
     "ja": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and DOLA, a synthetic USD stablecoin that can be minted by using other assets on Inverse Finance (https://www.inverse.finance) as collateral."

@@ -34,7 +34,7 @@
       "description": "此代币是 Curve 的流动性池代币。代币持有者可以赚取交易费，也可以将代币存入 Curve gauge 以获得 CRV 奖励。其中包含 ETH 和 stETH，stETH 是 Lido 发行的去中心化 ETH 2.0 质押代币。"
     },
     "hi": {
-      "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and stETH, a token that represents staked ether in Lido, a decentralized ETH 2.0 staking platform."
+      "description": "यह टोकन Curve लिक्विडिटी पूल का प्रतिनिधित्व करता है। धारक पूल में व्यापार करने वाले उपयोगकर्ताओं से शुल्क कमाते हैं, और CRV उत्सर्जन अर्जित करने के लिए LP को Curve के गेज में भी जमा कर सकते हैं। इस पूल में ETH और stETH शामिल हैं, एक टोकन जो Lido में एक विकेन्द्रीकृत ETH 2.0 स्टेकिंग प्लेटफॉर्म में स्टेक्ड ईथर का प्रतिनिधित्व करता है।"
     },
     "ja": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains ETH and stETH, a token that represents staked ether in Lido, a decentralized ETH 2.0 staking platform."
