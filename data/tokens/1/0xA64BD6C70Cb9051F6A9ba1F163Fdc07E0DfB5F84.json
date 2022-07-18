@@ -1,7 +1,9 @@
 {
   "$schema": "token",
-  "categories": ["Aave Tokens", "Asset-backed Tokens"],
+  "name": "Aave Interest bearing LINK",
+  "symbol": "aLINK",
   "description": "Aave LINK is an interest bearing token minted upon deposit and burned when redeemed. The aLINK is pegged 1:1 to the value of the underlying LINK that is deposited in Aave protocol.",
+  "categories": ["Aave Tokens", "Asset-backed Tokens"],
   "website": " https://aave.com/atokens ",
   "localization": {
     "en": {

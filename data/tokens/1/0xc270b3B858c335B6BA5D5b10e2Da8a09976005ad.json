@@ -1,10 +1,10 @@
 {
   "$schema": "token",
-  "categories": ["Curve LP Tokens"],
+  "name": "Curve USDPax Pool",
+  "symbol": "crvUSDPax",
   "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and USDP (USDPax).",
+  "categories": ["Curve LP Tokens"],
   "website": "https://curve.fi/factory/59/",
-  "tokenSymbolOverride": "crvUSDPax",
-  "tokenNameOverride": "Curve USDPax Pool",
   "localization": {
     "en": {
       "description": "This token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This metapool contains 3Crv (DAI, USDC, and USDT) and USDP (USDPax)."

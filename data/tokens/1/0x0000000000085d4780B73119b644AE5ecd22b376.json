@@ -1,14 +1,16 @@
 {
   "$schema": "token",
-  "categories": ["USD Stablecoin"],
-  "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1. TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD's equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities.",
+  "name": "TrueUSD",
+  "symbol": "TUSD",
   "website": "https://trueusd.com/",
+  "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1. TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD's equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities.",
+  "categories": ["USD Stablecoin"],
   "localization": {
     "en": {
       "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1. TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD's equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
     },
     "fr": {
-      "description": "TrueUSD (TUSD) is a U.S. dollar stablecoin pegged to USD at 1:1. TUSD is one of a number of cryptocurrency stablecoins administered by TrustToken, a platform for tokenizing real-world assets. TUSD's equivalent redeemability for USD is maintained via partnerships with banks and fiduciary entities."
+      "description": "TrueUSD (TUSD) est une monnaie stable en dollars américains, dont la parité avec le dollar est de 1:1. TUSD est l'une des nombreuses crypto-monnaies stables administrées par TrustToken, une plateforme de tokenisation des actifs du monde réel. L'équivalence du TUSD en USD est maintenue grâce à des partenariats avec des banques et des entités fiduciaires."
     },
     "es": {
       "description": "TrueUSD (TUSD) es una moneda estable en dólares estadounidenses vinculada a USD en 1:1. TUSD es una de varias monedas estables de criptomonedas administradas por TrustToken, una plataforma para tokenizar activos del mundo real. El canje equivalente de TUSD por USD se mantiene a través de asociaciones con bancos y entidades fiduciarias."
