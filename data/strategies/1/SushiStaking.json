@@ -2,7 +2,10 @@
   "$schema": "strategy",
   "name": "Sushi Staking",
   "description": "Stakes {{token}} on [Sushi](https://app.sushi.com/bar) to collect crosschain and protocol-wide swap fees. Rewards are harvested and deposited back into the strategy.",
-  "addresses": ["0xb6abbD5594B344F17aF8D9a83869C3660eA9a6bd"],
+  "addresses": [
+    "0xb6abbD5594B344F17aF8D9a83869C3660eA9a6bd",
+    "0x0ef566227A2Cc876120B749C8AF0600d2E12143b"
+  ],
   "protocols": ["Sushi"],
   "localization": {
     "en": {
