@@ -2,7 +2,10 @@
   "$schema": "strategy",
   "name": "Hegic Staking Reinvest",
   "description": "Stakes {{token}} on [Hegic](https://www.hegic.co/app.html#/mainnet/staking/stake) to collect staking rewards. Rewards are harvested and deposited back into the strategy.",
-  "addresses": ["0x41d638024C525C70A53b883608048e705e061F2c"],
+  "addresses": [
+    "0x41d638024C525C70A53b883608048e705e061F2c",
+    "0x0Ce77bc655aFaAc83947c2e859819185966Ca825"
+  ],
   "protocols": ["Hegic"],
   "localization": {
     "en": {
