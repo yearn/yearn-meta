@@ -4,7 +4,8 @@
   "description": "Buys stkAAVE with AAVE from [Sushiswap](https://sushi.com) and [Uniswap](https://uniswap.org), unstakes stkAAVE and waits for cooldown period, effectively, arbitraging stkAAVE and AAVE prices.",
   "addresses": [
     "0x86bcA96E6f7e816884f752399bC9a60651B34B93",
-    "0xdcfFee74ABDCf70453Bb798Be1b41462EDdbC692"
+    "0xdcfFee74ABDCf70453Bb798Be1b41462EDdbC692",
+    "0xc87C0459AffF408cdC43bA66a14787A9F69421E8"
   ],
   "protocols": ["AAVE", "Sushi", "Uniswap"],
   "localization": {
