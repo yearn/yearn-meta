@@ -3,7 +3,7 @@
   "name": "Goldfinch Staker",
   "description": "Swaps {{token}} into FIDU and stakes in [Goldfinch Finance](https://app.goldfinch.finance/stake) to earn GFI staking rewards. Earned tokens are harvested, sold for more {{token}} which is deposited back into the strategy.",
   "addresses": ["0x358eb2Ecfa2057Ac52dD435427cB8D094B33AbE0"],
-  "protocols": ["CurveFinance","GoldfinchFinance"],
+  "protocols": ["CurveFinance", "GoldfinchFinance"],
   "localization": {
     "en": {
       "name": "Goldfinch Staker",
