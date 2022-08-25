@@ -1,3 +1,10 @@
+# Deprecated!
+This package has been deprecated and is now part of yDaemon.  
+Please check the meta directory in yDaemon for more information: https://github.com/yearn/ydaemon/tree/main/data/meta
+
+
+-------------------------
+
 # Yearn metadata storage
 
 [![Validation](https://github.com/iearn-finance/yearn-meta/workflows/Validation/badge.svg)](https://github.com/iearn-finance/yearn-meta/actions?query=workflow%3AValidation)
